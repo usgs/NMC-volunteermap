@@ -48,7 +48,7 @@
           </div>
           <button class="btn btn-default" type="button" id="searchBoxBtn">Search</button>
           <button class="btn btn-default" type="button" id="showSidebar">Volunteer Information</button>
-          <!-- <button onclick="$(document).toggleFullScreen();" class="btn btn-default" type="button" id="fullscreen">Fullscreen</button> -->
+          <button class="btn btn-default" type="button" data-toggle="modal" data-target="#myModal">About</button>
         </form>
 
         <h4 class="navbar-text navbar-right" id="volunteerName"></h4>
@@ -74,13 +74,6 @@
     <h3 style="padding-left: 18; font-weight: bold"><i class="fa fa-trophy"></i> Earned Badges:</h3>
     <ul id="earnedBadges">
     </ul>
-    <div id="footer">
-      <p class="muted">
-        Data from 07/26/2015
-      </p>
-      <p class="muted">
-        Data reflects both add and deleted points.
-      </p>
     </div>
   </div>
   <div id="map">
@@ -93,6 +86,28 @@
       <script type="application/javascript" src="./script.js"></script>
     </div>
   </div>
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog" style="margin-top:90px;">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">About</h4>
+        </div>
+        <div class="modal-body">
+          <p>
+            This data reflects the status as of <b>07/26/2015</b>
+          </p>
+          <br>
+          <p>
+            <b><i>Data includes edited, added, verified, and deleted points.</i></b>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </body>
 
 </html>
