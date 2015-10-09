@@ -230,13 +230,20 @@ $('#userlayers li').click(function() {
         }
       }
     }
+    var countList = $('#earnedBadges li').length;
+    console.log(countList);
+    $('#earnedBadges li').click(function() {
+      var badge = $(this).html();
+      var badgeID = "'#" + badge + "'";
+      $("#badgeModal").modal('show')
+      $('#badge').attr('src', './assets/img/' + $(this).html() + '.png');
+    });
   });
 });
 
 //geojson call from search box
 $('#searchBoxBtn').click(function() {
   var url = $('#searchinput').val();
-  console.log(url);
   console.log(url);
   if (geojson !== undefined) {
     map.removeLayer(geojson);
@@ -341,8 +348,15 @@ $('#searchBoxBtn').click(function() {
         }
       }
     }
+    $('#earnedBadges li').click(function() {
+      var badge = $(this).html();
+      var badgeID = "'#" + badge + "'";
+      $("#badgeModal").modal('show')
+      $('#badge').attr('src', './assets/img/' + $(this).html() + '.png');
+    });
   });
 });
+
 
 //show #progress div when making ajax loads
 $(document).ajaxStart(function() {
@@ -362,11 +376,6 @@ $("#searchclear").click(function() {
   $("#searchinput").val('');
   $(this).hide();
 });
-
-// $("#searchclear").click(function(evt) {
-//   evt.preventDefault();
-//   $("#searchinput").val("");
-// });
 
 //collapse and show sidebar
 $('#sidebar').slideReveal({
