@@ -1,6 +1,7 @@
 {"name":"NewFeatureType","type":"FeatureCollection"
 ,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.0161136,27.9775344,0]},"properties":{"UserName":"GatorGal","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2088020","TimeStamp":20150920,"NAME":"Florida","OSM_ID":2088020,"Version":1}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.9817181,28.0821773000001,0]},"properties":{"UserName":"GatorGal","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2089688","TimeStamp":20151124,"NAME":"Florida","OSM_ID":2089688,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.0161136,27.9775344,0]},"properties":{"UserName":"GatorGal","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2088020","TimeStamp":20150920,"NAME":"Florida","OSM_ID":2088020,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.8901279999999,27.9975248000001,0]},"properties":{"UserName":"GatorGal","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2088019","TimeStamp":20150920,"NAME":"Florida","OSM_ID":2088019,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5649681,27.8944136000001,0]},"properties":{"UserName":"GatorGal","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2088018","TimeStamp":20150920,"NAME":"Florida","OSM_ID":2088018,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5878699,27.9009201000001,0]},"properties":{"UserName":"GatorGal","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2088017","TimeStamp":20150920,"NAME":"Florida","OSM_ID":2088017,"Version":1}}
