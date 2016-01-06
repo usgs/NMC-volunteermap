@@ -35,5 +35,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6307998,29.5749426,0]},"properties":{"UserName":"Hike_n_bike","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979050","TimeStamp":20150531,"NAME":"Texas","OSM_ID":1979050,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6041779,29.5745807000001,0]},"properties":{"UserName":"Hike_n_bike","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978511","TimeStamp":20150531,"NAME":"Texas","OSM_ID":1978511,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5845419999999,29.6197521,0]},"properties":{"UserName":"Hike_n_bike","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1977902","TimeStamp":20150531,"NAME":"Texas","OSM_ID":1977902,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6309889999999,29.5889088000001,0]},"properties":{"UserName":"Hike_n_bike","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1964975","TimeStamp":20151223,"NAME":"Texas","OSM_ID":1964975,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6309051,29.5590903,0]},"properties":{"UserName":"Hike_n_bike","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1964251","TimeStamp":20150531,"NAME":"Texas","OSM_ID":1964251,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6179685,29.5853458,0]},"properties":{"UserName":"Hike_n_bike","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1949882","TimeStamp":20151223,"NAME":"Texas","OSM_ID":1949882,"Version":2}}
 ]}
