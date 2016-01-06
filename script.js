@@ -42,6 +42,18 @@ L.control.layers(basemaps, null, {
 }).addTo(map);
 
 //Create list of users automatic
+var users = {};
+
+$.ajax({
+  url: "./data/users.json",
+  async: false,
+  dataType: 'json',
+  success: function(data) {
+    users = data
+  }
+});
+
+
 var suma = 0;
 var o = '';
 for (var i = 0; i < users.length; i++) {
@@ -49,7 +61,10 @@ for (var i = 0; i < users.length; i++) {
     '<a class="users" href="#' + users[i].UserName + '"> ' + users[i].UserName + ' - ' + users[i].TotalUniqu + '</a>' +
     '</li>';
 };
+
 $('#userlayers').append(o);
+
+
 
 //typeahead set-up
 var substringMatcher = function(strs) {
