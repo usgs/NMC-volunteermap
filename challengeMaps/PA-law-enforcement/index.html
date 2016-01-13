@@ -1,0 +1,92 @@
+<html>
+
+<head>
+  <title>National Map Corps Edited Points</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css" />
+  <script src='https://code.jquery.com/jquery-1.11.0.min.js'></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+  <link rel="stylesheet" href="./assets/plugins/leaflet-awesome-markers/leaflet.awesome-markers.css" />
+  <script src="./assets/plugins/leaflet-awesome-markers/leaflet.awesome-markers.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <script>
+    L_PREFER_CANVAS = true;
+  </script>
+  <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-3" id="Info" style="height: 100%; z-index:9998">
+        <div id="header" class="ribbon">
+          <h2>The National Map Corps </br> Challenge Map</h2>
+          <!-- <hr> -->
+          <h2>PA Law Enforcement</h2>
+        </div>
+        <div id="layerControl" style="padding-top: 15px">
+        </div>
+        <div class="info" style="margin-top: 15px">
+          <h4>Legend</h4>
+          <div class="markers-box">
+            <div class="markers-legend" id="tobechecked">
+              <i class="fa fa-exclamation"></i>
+            </div>
+            <div class="markers-descri">
+              Points that need to be checked
+            </div>
+          </div>
+          <div class="markers-box">
+            <div class="markers-legend" id="tobepeerreviwed">
+              <i class="fa fa-times"></i>
+            </div>
+            <div class="markers-descri">
+              Points that need to be peer-reviewed
+            </div>
+          </div>
+          <div class="markers-box">
+            <div class="markers-legend" id="finished">
+              <i class="fa fa-check"></i>
+            </div>
+            <div class="markers-descri" style="padding-top:10px">
+              Finished points
+            </div>
+          </div>
+        </div>
+        <div class="info" style="margin-top: 15px">
+          <a href="#" data-toggle="modal" data-target="#myModal">
+            <h4>About</h4>
+          </a>
+        </div>
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" role="dialog">
+          <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content" style="z-index:9999">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">About</h4>
+              </div>
+              <div class="modal-body">
+                <h3>Hey how about some info about this challenge?</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-9" id="map" style="height: 100%;">
+        <script src="./script.js"></script>
+      </div>
+    </div>
+  </div>
+  </div>
+
+</body>
+
+
+</html>
