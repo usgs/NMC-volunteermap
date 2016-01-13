@@ -1,6 +1,22 @@
 {"name":"NewFeatureType","type":"FeatureCollection"
 ,"features":[
+<<<<<<< HEAD
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5440556999999,33.5090153,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086263","TimeStamp":20150629,"NAME":"Texas","OSM_ID":2086263,"Version":1}}
+=======
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.6805277999999,37.1682972,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2089452","TimeStamp":20151114,"NAME":"Missouri","OSM_ID":2089452,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.9299240999999,36.8850014000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2089247","TimeStamp":20151106,"NAME":"Missouri","OSM_ID":2089247,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.4408524,36.7869929,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2088828","TimeStamp":20151022,"NAME":"Missouri","OSM_ID":2088828,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.4570783999999,36.7727232,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2088822","TimeStamp":20151022,"NAME":"Missouri","OSM_ID":2088822,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.4511285,37.1264804,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2088433","TimeStamp":20151009,"NAME":"Missouri","OSM_ID":2088433,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3908196,38.2122228000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2088302","TimeStamp":20150930,"NAME":"Missouri","OSM_ID":2088302,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4742365,33.6637465000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086614","TimeStamp":20150717,"NAME":"Texas","OSM_ID":2086614,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4355852,33.7375054,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086414","TimeStamp":20150707,"NAME":"Texas","OSM_ID":2086414,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4872755,33.6520219000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086413","TimeStamp":20150707,"NAME":"Texas","OSM_ID":2086413,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4721906999999,33.6321931000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086412","TimeStamp":20150707,"NAME":"Texas","OSM_ID":2086412,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4414283,33.7494071,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086329","TimeStamp":20150703,"NAME":"Texas","OSM_ID":2086329,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4414283,33.7494071,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086329","TimeStamp":20150703,"NAME":"Texas","OSM_ID":2086329,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5440556999999,33.5090153,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086263","TimeStamp":20150629,"NAME":"Texas","OSM_ID":2086263,"Version":1}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6026087,33.5221843,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086262","TimeStamp":20150629,"NAME":"Texas","OSM_ID":2086262,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.602974,33.5224016,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086262","TimeStamp":20150629,"NAME":"Texas","OSM_ID":2086262,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5937843999999,33.5816036000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086172","TimeStamp":20150625,"NAME":"Texas","OSM_ID":2086172,"Version":1}}
@@ -88,6 +104,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.9036423,37.9093074,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2028898","TimeStamp":20130904,"NAME":"Colorado","OSM_ID":2028898,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.9036423,37.9093074,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2028898","TimeStamp":20130904,"NAME":"Colorado","OSM_ID":2028898,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.9036423,37.9093074,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2028898","TimeStamp":20130904,"NAME":"Colorado","OSM_ID":2028898,"Version":1}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2381379,40.1803403000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2028843","TimeStamp":20151223,"NAME":"Pennsylvania","OSM_ID":2028843,"Version":4}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.2772855,40.7322960000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2028828","TimeStamp":20130828,"NAME":"Colorado","OSM_ID":2028828,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.9966221,38.6039917000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2028766","TimeStamp":20130822,"NAME":"Missouri","OSM_ID":2028766,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.9531792,38.4374069,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2028666","TimeStamp":20140807,"NAME":"Missouri","OSM_ID":2028666,"Version":2}}
@@ -120,6 +140,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0015961999999,38.5465674000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017317","TimeStamp":20140428,"NAME":"Missouri","OSM_ID":2017317,"Version":5}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0015961999999,38.5465674000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017317","TimeStamp":20140218,"NAME":"Missouri","OSM_ID":2017317,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0015961999999,38.5465674000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017317","TimeStamp":20130914,"NAME":"Missouri","OSM_ID":2017317,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.6804704,37.1682650000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016260","TimeStamp":20151114,"NAME":"Missouri","OSM_ID":2016260,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.1384103,38.8093679,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016220","TimeStamp":20140609,"NAME":"Missouri","OSM_ID":2016220,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.1384103,38.8093679,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016220","TimeStamp":20140605,"NAME":"Missouri","OSM_ID":2016220,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.1383246999999,38.8078810000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016076","TimeStamp":20140609,"NAME":"Missouri","OSM_ID":2016076,"Version":2}}
@@ -223,21 +247,42 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0426125,38.5678609,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1971464","TimeStamp":20131122,"NAME":"Missouri","OSM_ID":1971464,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0426125,38.5678609,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1971464","TimeStamp":20131122,"NAME":"Missouri","OSM_ID":1971464,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.9662207,38.4312038,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1971359","TimeStamp":20130816,"NAME":"Missouri","OSM_ID":1971359,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5802461,36.8830124,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1969161","TimeStamp":20141110,"NAME":"Missouri","OSM_ID":1969161,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5528543,36.8765155,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968248","TimeStamp":20141111,"NAME":"Missouri","OSM_ID":1968248,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3934801,38.1972052,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1971240","TimeStamp":20150930,"NAME":"Missouri","OSM_ID":1971240,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.9615937999999,37.2415934000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1970882","TimeStamp":20151024,"NAME":"Missouri","OSM_ID":1970882,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3028964,37.5586457000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1970063","TimeStamp":20151103,"NAME":"Missouri","OSM_ID":1970063,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5802461,36.8830124,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1969161","TimeStamp":20141110,"NAME":"Missouri","OSM_ID":1969161,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6458942,35.5800014000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968660","TimeStamp":20150826,"NAME":"Tennessee","OSM_ID":1968660,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5528543,36.8765155,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968248","TimeStamp":20141111,"NAME":"Missouri","OSM_ID":1968248,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6673362,35.5397868000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1967251","TimeStamp":20150826,"NAME":"Tennessee","OSM_ID":1967251,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0309779,38.4436861,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1967002","TimeStamp":20140807,"NAME":"Missouri","OSM_ID":1967002,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0309779,38.4436861,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1967002","TimeStamp":20130816,"NAME":"Missouri","OSM_ID":1967002,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.0676132,38.7361645,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1966701","TimeStamp":20130816,"NAME":"Colorado","OSM_ID":1966701,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.0676132,38.7361645,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1966701","TimeStamp":20130814,"NAME":"Colorado","OSM_ID":1966701,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.8304209,36.0835452000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1966460","TimeStamp":20141119,"NAME":"Missouri","OSM_ID":1966460,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6778917999999,35.5359467000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1964364","TimeStamp":20150827,"NAME":"Tennessee","OSM_ID":1964364,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.00114,38.55231,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1964198","TimeStamp":20131101,"NAME":"Missouri","OSM_ID":1964198,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.00114,38.55231,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1964198","TimeStamp":20130914,"NAME":"Missouri","OSM_ID":1964198,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.516242,36.8107482,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1964080","TimeStamp":20140729,"NAME":"Oklahoma","OSM_ID":1964080,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.2240474,36.9089826000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963668","TimeStamp":20141128,"NAME":"Missouri","OSM_ID":1963668,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.1902133999999,38.6447195000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963530","TimeStamp":20140512,"NAME":"Missouri","OSM_ID":1963530,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.0411557,36.2353687,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963407","TimeStamp":20141025,"NAME":"Missouri","OSM_ID":1963407,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.9989935,38.5487170000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963146","TimeStamp":20140218,"NAME":"Missouri","OSM_ID":1963146,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.9989935,38.5487170000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963146","TimeStamp":20130923,"NAME":"Missouri","OSM_ID":1963146,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6777448999999,35.5359038,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963173","TimeStamp":20150827,"NAME":"Tennessee","OSM_ID":1963173,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.9989935,38.5487170000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963146","TimeStamp":20140218,"NAME":"Missouri","OSM_ID":1963146,"Version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.9989935,38.5487170000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963146","TimeStamp":20130923,"NAME":"Missouri","OSM_ID":1963146,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.4166754999999,36.7725197,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963131","TimeStamp":20151022,"NAME":"Missouri","OSM_ID":1963131,"Version":4}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0059375,38.4474867000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961586","TimeStamp":20140807,"NAME":"Missouri","OSM_ID":1961586,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0059375,38.4474867000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961586","TimeStamp":20130816,"NAME":"Missouri","OSM_ID":1961586,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.9891049,38.6088871000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1960704","TimeStamp":20140508,"NAME":"Missouri","OSM_ID":1960704,"Version":3}}
@@ -246,25 +291,50 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.0444596999999,36.4142575000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959901","TimeStamp":20150205,"NAME":"Tennessee","OSM_ID":1959901,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.0308263,38.7022143,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959849","TimeStamp":20130816,"NAME":"Colorado","OSM_ID":1959849,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.0308263,38.7022143,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959849","TimeStamp":20130814,"NAME":"Colorado","OSM_ID":1959849,"Version":1}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.7855919,37.9519929000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959515","TimeStamp":20131029,"NAME":"Missouri","OSM_ID":1959515,"Version":4}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6147645,36.5904085,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1957912","TimeStamp":20150304,"NAME":"Missouri","OSM_ID":1957912,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.083796,36.9744216,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959735","TimeStamp":20151210,"NAME":"Kentucky","OSM_ID":1959735,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.7855919,37.9519929000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959515","TimeStamp":20131029,"NAME":"Missouri","OSM_ID":1959515,"Version":4}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.0545425,37.9692701000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959466","TimeStamp":20150930,"NAME":"Missouri","OSM_ID":1959466,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.194429,35.6620572,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1958999","TimeStamp":20151216,"NAME":"Oklahoma","OSM_ID":1958999,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6147645,36.5904085,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1957912","TimeStamp":20150304,"NAME":"Missouri","OSM_ID":1957912,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.8288626,36.6179763000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1957528","TimeStamp":20151024,"NAME":"Missouri","OSM_ID":1957528,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.0674135,38.7356112000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1956955","TimeStamp":20130816,"NAME":"Colorado","OSM_ID":1956955,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.0674135,38.7356112000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1956955","TimeStamp":20130814,"NAME":"Colorado","OSM_ID":1956955,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.1589939,36.1333240000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1956851","TimeStamp":20141120,"NAME":"Missouri","OSM_ID":1956851,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5383381999999,36.8917204000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1956575","TimeStamp":20141112,"NAME":"Missouri","OSM_ID":1956575,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5997460999999,36.8785735000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1955809","TimeStamp":20141108,"NAME":"Missouri","OSM_ID":1955809,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.4885541,38.41677,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1955605","TimeStamp":20150925,"NAME":"Missouri","OSM_ID":1955605,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.7684735,38.5701476,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954482","TimeStamp":20140225,"NAME":"Missouri","OSM_ID":1954482,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4620854,35.8762441000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954387","TimeStamp":20150430,"NAME":"Oklahoma","OSM_ID":1954387,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0129304,38.5448558000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954157","TimeStamp":20140913,"NAME":"Missouri","OSM_ID":1954157,"Version":5}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0129304,38.5448558000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954157","TimeStamp":20140218,"NAME":"Missouri","OSM_ID":1954157,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0129304,38.5448558000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954157","TimeStamp":20130923,"NAME":"Missouri","OSM_ID":1954157,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.0606953,38.7322916000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954036","TimeStamp":20130816,"NAME":"Colorado","OSM_ID":1954036,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.0606953,38.7322916000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954036","TimeStamp":20130814,"NAME":"Colorado","OSM_ID":1954036,"Version":1}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.825777,36.6212928,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954076","TimeStamp":20151024,"NAME":"Missouri","OSM_ID":1954076,"Version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.825777,36.6212928,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954076","TimeStamp":20151022,"NAME":"Missouri","OSM_ID":1954076,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.0606953,38.7322916000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954036","TimeStamp":20130816,"NAME":"Colorado","OSM_ID":1954036,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.0606953,38.7322916000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954036","TimeStamp":20130814,"NAME":"Colorado","OSM_ID":1954036,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3973263999999,36.7580504000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1953666","TimeStamp":20151022,"NAME":"Missouri","OSM_ID":1953666,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0562538999999,38.6283376000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1952215","TimeStamp":20140512,"NAME":"Missouri","OSM_ID":1952215,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0562538999999,38.6283376000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1952215","TimeStamp":20131122,"NAME":"Missouri","OSM_ID":1952215,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.2307173,38.418484,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1951702","TimeStamp":20140122,"NAME":"Missouri","OSM_ID":1951702,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6092613,36.5175112000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1951454","TimeStamp":20150615,"NAME":"Missouri","OSM_ID":1951454,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.8961351999999,36.5192030000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950449","TimeStamp":20150205,"NAME":"Kentucky","OSM_ID":1950449,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.331182,36.6669111000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950356","TimeStamp":20151123,"NAME":"Oklahoma","OSM_ID":1950356,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.387996,36.7809003,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950264","TimeStamp":20141204,"NAME":"Missouri","OSM_ID":1950264,"Version":5}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.387996,36.7809003,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950264","TimeStamp":20141119,"NAME":"Missouri","OSM_ID":1950264,"Version":4}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.387996,36.7809003,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950264","TimeStamp":20141119,"NAME":"Missouri","OSM_ID":1950264,"Version":3}}
@@ -272,11 +342,22 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.2990942,36.3316853000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1949295","TimeStamp":20150204,"NAME":"Tennessee","OSM_ID":1949295,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.0631539999999,36.2747192000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948891","TimeStamp":20141009,"NAME":"Tennessee","OSM_ID":1948891,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.0982453999999,36.0579747,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948874","TimeStamp":20140927,"NAME":"Tennessee","OSM_ID":1948874,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.4509972,37.1274084,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948809","TimeStamp":20151009,"NAME":"Missouri","OSM_ID":1948809,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.4872045,36.2646089,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948768","TimeStamp":20141222,"NAME":"Tennessee","OSM_ID":1948768,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.4872045,36.2646089,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948768","TimeStamp":20141209,"NAME":"Tennessee","OSM_ID":1948768,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.4605569,35.4847897000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948670","TimeStamp":20140926,"NAME":"Tennessee","OSM_ID":1948670,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.8362865,35.2206171,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948282","TimeStamp":20150509,"NAME":"North Carolina","OSM_ID":1948282,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.460318,36.4187956000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948192","TimeStamp":20150520,"NAME":"North Carolina","OSM_ID":1948192,"Version":3}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.4543199999999,37.1284600000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948218","TimeStamp":20151009,"NAME":"Missouri","OSM_ID":1948218,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.460318,36.4187956000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948192","TimeStamp":20150520,"NAME":"North Carolina","OSM_ID":1948192,"Version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.9707797999999,37.3057030000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947443","TimeStamp":20151017,"NAME":"Missouri","OSM_ID":1947443,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1956908,35.6618257000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947429","TimeStamp":20151216,"NAME":"Oklahoma","OSM_ID":1947429,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.8298599999999,36.0836200000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947411","TimeStamp":20141119,"NAME":"Missouri","OSM_ID":1947411,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.8298599999999,36.0836200000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947411","TimeStamp":20141119,"NAME":"Missouri","OSM_ID":1947411,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.0981573,36.0575776000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947342","TimeStamp":20140927,"NAME":"Tennessee","OSM_ID":1947342,"Version":2}}
@@ -290,6 +371,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.9918488,38.4589678,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946623","TimeStamp":20130816,"NAME":"Missouri","OSM_ID":1946623,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.0880954,36.9652271000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946374","TimeStamp":20150123,"NAME":"Kentucky","OSM_ID":1946374,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.61513,36.5941700000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1945799","TimeStamp":20150411,"NAME":"Missouri","OSM_ID":1945799,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6505312,35.5433315000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1945787","TimeStamp":20150828,"NAME":"Tennessee","OSM_ID":1945787,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.4601921999999,35.4846893000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1945673","TimeStamp":20140926,"NAME":"Tennessee","OSM_ID":1945673,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3718537,35.1978123000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1945375","TimeStamp":20150516,"NAME":"North Carolina","OSM_ID":1945375,"Version":4}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.8027078,35.3255689000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1945350","TimeStamp":20150514,"NAME":"North Carolina","OSM_ID":1945350,"Version":2}}
@@ -443,12 +528,25 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.9173117999999,35.9427975,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1723646","TimeStamp":20141212,"NAME":"Arkansas","OSM_ID":1723646,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.9173117999999,35.9427975,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1723646","TimeStamp":20141205,"NAME":"Arkansas","OSM_ID":1723646,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.4612967,36.4774814,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722934","TimeStamp":20130417,"NAME":"Arkansas","OSM_ID":1722934,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.5799848,36.4093527000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1720414","TimeStamp":20150404,"NAME":"Arkansas","OSM_ID":1720414,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.904576,35.9283169,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719955","TimeStamp":20150226,"NAME":"Arkansas","OSM_ID":1719955,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2175382999999,40.2239224,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1721712","TimeStamp":20151223,"NAME":"Pennsylvania","OSM_ID":1721712,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2343155999999,40.1725867000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1721582","TimeStamp":20151221,"NAME":"Pennsylvania","OSM_ID":1721582,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2469983999999,40.1701897,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1721474","TimeStamp":20151220,"NAME":"Pennsylvania","OSM_ID":1721474,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.5799848,36.4093527000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1720414","TimeStamp":20150404,"NAME":"Arkansas","OSM_ID":1720414,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.904576,35.9283169,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719955","TimeStamp":20150226,"NAME":"Arkansas","OSM_ID":1719955,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0053062,40.1224777,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1718907","TimeStamp":20151223,"NAME":"Pennsylvania","OSM_ID":1718907,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.5847269,36.4044286000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717817","TimeStamp":20150404,"NAME":"Arkansas","OSM_ID":1717817,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.5464835,36.0799098000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717458","TimeStamp":20150421,"NAME":"Arkansas","OSM_ID":1717458,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.5464835,36.0799098000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717458","TimeStamp":20150417,"NAME":"Arkansas","OSM_ID":1717458,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.4513752999999,36.4219904,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717289","TimeStamp":20130530,"NAME":"Arkansas","OSM_ID":1717289,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2667084,40.1520393000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717178","TimeStamp":20151220,"NAME":"Pennsylvania","OSM_ID":1717178,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.602299,36.4050921,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1713353","TimeStamp":20130604,"NAME":"Arkansas","OSM_ID":1713353,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.9005902,35.9272009000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1711368","TimeStamp":20150226,"NAME":"Arkansas","OSM_ID":1711368,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.4535316,36.4251195000001,0]},"properties":{"UserName":"Cartograsaurus","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1710645","TimeStamp":20130416,"NAME":"Arkansas","OSM_ID":1710645,"Version":2}}

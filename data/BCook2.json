@@ -1,6 +1,20 @@
 {"name":"NewFeatureType","type":"FeatureCollection"
 ,"features":[
+<<<<<<< HEAD
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-80.160004,26.2480697,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043294","TimeStamp":20140725,"NAME":"Florida","OSM_ID":2043294,"Version":2}}
+=======
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.427219,31.8204198,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081765","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2081765,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5549245,35.4088640000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081055","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":2081055,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6525571,35.3975866000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080631","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":2080631,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4201874,31.8815941,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2077222","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2077222,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4446691,31.8131980000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071964","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2071964,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4439784,31.8549972000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069461","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2069461,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.3000639,31.7453847,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061725","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2061725,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.437832,31.8932398000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061566","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2061566,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4156367,31.8872816000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060487","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2060487,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2170695999999,25.7868495000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043503","TimeStamp":20150915,"NAME":"Florida","OSM_ID":2043503,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.160004,26.2480697,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043294","TimeStamp":20140725,"NAME":"Florida","OSM_ID":2043294,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.6311013,30.6110436000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043291","TimeStamp":20141214,"NAME":"Florida","OSM_ID":2043291,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3380993,35.7374578000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037868","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2037868,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3380993,35.7374578000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037868","TimeStamp":20140124,"NAME":"North Carolina","OSM_ID":2037868,"Version":1}}
@@ -36,7 +50,13 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5420708,35.3873301,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2022785","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2022785,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5152026,35.3111069,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2022689","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2022689,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3968768,35.4486150000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2022674","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2022674,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5618109,35.4242708,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2022099","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":2022099,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3606475,35.4864196,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2022453","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":2022453,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5618109,35.4242708,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2022099","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":2022099,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.3880262,31.8213773000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2022055","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2022055,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5782968,35.3477849000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2022017","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2022017,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5043168,35.3410457000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021678","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2021678,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3231339,35.7789686,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021556","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2021556,"Version":3}}
@@ -45,19 +65,38 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.25138,35.7414600000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021392","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2021392,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.25138,35.7414600000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021392","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2021392,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.184156,35.3105150000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021387","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":2021387,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.38258,35.4587121000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021271","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2021271,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0232377999999,38.8952790000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021093","TimeStamp":20140725,"NAME":"District of Columbia","OSM_ID":2021093,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5531942,35.4844119000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021331","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":2021331,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.38258,35.4587121000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021271","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2021271,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0232377999999,38.8952790000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021093","TimeStamp":20140725,"NAME":"District of Columbia","OSM_ID":2021093,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4427563,31.8429189,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021060","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2021060,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6457434,35.4767966000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020923","TimeStamp":20140821,"NAME":"Oklahoma","OSM_ID":2020923,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9583435,40.6924808000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020913","TimeStamp":20140823,"NAME":"New York","OSM_ID":2020913,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5385593,35.4348436000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020806","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2020806,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9688972,40.6954599000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020737","TimeStamp":20140823,"NAME":"New York","OSM_ID":2020737,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9816481,40.7016407,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020444","TimeStamp":20140823,"NAME":"New York","OSM_ID":2020444,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4572044,35.3731137,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020363","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2020363,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4173267,31.8552685000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020494","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2020494,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5752853,35.5010116,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020463","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":2020463,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9816481,40.7016407,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020444","TimeStamp":20140823,"NAME":"New York","OSM_ID":2020444,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4572044,35.3731137,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020363","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2020363,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4074882,31.8948683,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020176","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2020176,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4486169,35.4362886000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020097","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":2020097,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9466384,40.6728648000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019996","TimeStamp":20140823,"NAME":"New York","OSM_ID":2019996,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9495487999999,40.6906449000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019928","TimeStamp":20140823,"NAME":"New York","OSM_ID":2019928,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6899806,35.4345166000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019851","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2019851,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4401053,35.4462356000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019634","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":2019634,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6139512999999,35.5210506,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019608","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":2019608,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5412082999999,35.369223,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019562","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2019562,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5255779,35.438112,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019503","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2019503,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5112488,35.3480067,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019443","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2019443,"Version":2}}
@@ -69,6 +108,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2218497,35.6894402,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018846","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2018846,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5428184,35.426163,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018822","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":2018822,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4758069,35.3398331000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018814","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2018814,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7415928999999,35.4857148,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018784","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":2018784,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6615318999999,35.4219656000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018777","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2018777,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0398122999999,38.8957572,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018769","TimeStamp":20140201,"NAME":"District of Columbia","OSM_ID":2018769,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6662782,35.5572394000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018390","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2018390,"Version":2}}
@@ -78,6 +121,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4361289999999,35.4352700000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018254","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2018254,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5029391,35.3961716000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018204","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2018204,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.3926754999999,35.207589,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018091","TimeStamp":20140914,"NAME":"North Carolina","OSM_ID":2018091,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4298656,31.9186596000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018014","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2018014,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3435787,35.7373011,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017855","TimeStamp":20141214,"NAME":"North Carolina","OSM_ID":2017855,"Version":5}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3435787,35.7373011,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017855","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2017855,"Version":4}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3435787,35.7373011,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017855","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2017855,"Version":2}}
@@ -87,17 +134,31 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4375539,35.4402670000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017224","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2017224,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5711272,35.4413095,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017023","TimeStamp":20140218,"NAME":"Oklahoma","OSM_ID":2017023,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9621494,40.6911543000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017015","TimeStamp":20140823,"NAME":"New York","OSM_ID":2017015,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7224523,35.4996358000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016962","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":2016962,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6151801,35.5122872000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016733","TimeStamp":20140218,"NAME":"Oklahoma","OSM_ID":2016733,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4784489,35.3391544,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016547","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2016547,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4485751999999,35.4413362000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016519","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":2016519,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.8344901999999,35.1901887000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016513","TimeStamp":20140821,"NAME":"North Carolina","OSM_ID":2016513,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5778089999999,35.4865264000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016250","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":2016250,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0319416,38.8970654,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016217","TimeStamp":20140725,"NAME":"District of Columbia","OSM_ID":2016217,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4001570999999,35.4415051,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016167","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2016167,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5114159,35.398036,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015986","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2015986,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4783508,35.4504563,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015861","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":2015861,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4759774999999,35.5387504,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015595","TimeStamp":20140408,"NAME":"Oklahoma","OSM_ID":2015595,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.14009,35.4020800000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015543","TimeStamp":20141007,"NAME":"Tennessee","OSM_ID":2015543,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5327961,35.3426940000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015308","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2015308,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6403678,35.4928082000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015449","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":2015449,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5327961,35.3426940000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015308","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2015308,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.3983996,31.8969276,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015169","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2015169,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.8139224,35.6428645,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015165","TimeStamp":20141007,"NAME":"Tennessee","OSM_ID":2015165,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4448295,35.4126891000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015099","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2015099,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9514038,40.6741731000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015032","TimeStamp":20140823,"NAME":"New York","OSM_ID":2015032,"Version":2}}
@@ -134,15 +195,30 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0105799999999,35.2019100000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012255","TimeStamp":20140914,"NAME":"North Carolina","OSM_ID":2012255,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1277199,35.6302825000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012152","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2012152,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1277199,35.6302825000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012152","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2012152,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5044829,35.4267497000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2011770","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2011770,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4291049,31.8658521,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2011778","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2011778,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5044829,35.4267497000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2011770","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2011770,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4365061,31.934966,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2011629","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2011629,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4283023,35.441153,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2011422","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2011422,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6561637999999,35.5427996000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2011253","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2011253,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3710545,35.6138849000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010920","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2010920,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9809655999999,40.6978541,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010897","TimeStamp":20140823,"NAME":"New York","OSM_ID":2010897,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9507641,40.6896748,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010711","TimeStamp":20140823,"NAME":"New York","OSM_ID":2010711,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.37936,29.77372,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010656","TimeStamp":20140204,"NAME":"Texas","OSM_ID":2010656,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1358155,35.5175222,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010566","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2010566,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.546458,35.3730120000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010418","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2010418,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4032498,31.8912385,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010632","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2010632,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4119574,31.9342049000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010615","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2010615,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1358155,35.5175222,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010566","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2010566,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.546458,35.3730120000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010418","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2010418,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.434626,31.8403713000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010026","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2010026,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4021966,31.9023579,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009841","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2009841,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5559785,35.4130934,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009801","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":2009801,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.2890427999999,38.7499095000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009796","TimeStamp":20141124,"NAME":"Missouri","OSM_ID":2009796,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.7917290999999,35.1475189000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009777","TimeStamp":20140821,"NAME":"North Carolina","OSM_ID":2009777,"Version":2}}
@@ -156,6 +232,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.4413299999999,35.5838600000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009214","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2009214,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.985489,38.8995254000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009177","TimeStamp":20140201,"NAME":"District of Columbia","OSM_ID":2009177,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5203314,35.4348696000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009049","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2009049,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4939567,35.4854646000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009040","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":2009040,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.2622428,38.7414437,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008979","TimeStamp":20141124,"NAME":"Missouri","OSM_ID":2008979,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5455784,35.3556268,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008858","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2008858,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.11132,35.7420300000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008819","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2008819,"Version":3}}
@@ -167,14 +247,26 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6132545,35.4841035000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008325","TimeStamp":20140218,"NAME":"Oklahoma","OSM_ID":2008325,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3703413,35.4501931,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008289","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2008289,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3079747,38.7428526,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008207","TimeStamp":20141124,"NAME":"Missouri","OSM_ID":2008207,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6406719999999,35.6005200000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008009","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":2008009,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.29898,35.73168,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008002","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2008002,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.29898,35.73168,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008002","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2008002,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5206125999999,35.5020111000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008181","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":2008181,"Version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6406719999999,35.6005200000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008009","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":2008009,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.29898,35.73168,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008002","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2008002,"Version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.29898,35.73168,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008002","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2008002,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3547045,35.4396406000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007892","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":2007892,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3869829,35.7092561000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007872","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2007872,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3869829,35.7092561000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007872","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2007872,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4785168,35.4834530000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007804","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2007804,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1355470999999,35.5174480000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007742","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2007742,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9778818,40.695165,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007427","TimeStamp":20140823,"NAME":"New York","OSM_ID":2007427,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4134852,31.9096577,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007294","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2007294,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.19829,35.7166,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007158","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2007158,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.19829,35.7166,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007158","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2007158,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.538221,35.397768,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007152","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2007152,"Version":2}}
@@ -183,14 +275,27 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.0972199999999,35.67004,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2006477","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2006477,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.0972199999999,35.67004,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2006477","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2006477,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5907971999999,35.5382690000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2006434","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":2006434,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5342676,35.5678062000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2006195","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":2006195,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4057748,31.9007750000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2006275","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2006275,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5342676,35.5678062000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2006195","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":2006195,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4141273,31.8797135,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2006087","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2006087,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9593751,40.6969113000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2006030","TimeStamp":20140823,"NAME":"New York","OSM_ID":2006030,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5734437,35.4216572,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005936","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":2005936,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9847238,40.6973742000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005910","TimeStamp":20140823,"NAME":"New York","OSM_ID":2005910,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5153852,35.5378852000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005880","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":2005880,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6597068999999,35.4218281,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005754","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2005754,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2175528,35.5811427,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005338","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2005338,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9847374,40.6973788000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005322","TimeStamp":20140823,"NAME":"New York","OSM_ID":2005322,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4540615,31.8090883,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005381","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2005381,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2175528,35.5811427,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005338","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2005338,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9847374,40.6973788000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005322","TimeStamp":20140823,"NAME":"New York","OSM_ID":2005322,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4486368,31.8205522000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005268","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2005268,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9809695,40.6978653,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005261","TimeStamp":20140823,"NAME":"New York","OSM_ID":2005261,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9952765,38.8854132000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005143","TimeStamp":20140408,"NAME":"District of Columbia","OSM_ID":2005143,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3302098,35.7038015000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005137","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2005137,"Version":3}}
@@ -205,10 +310,21 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.225066,35.6784801000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2004288","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2004288,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5108807,35.3350457000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2004209","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2004209,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5633951999999,35.4983897000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2004072","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":2004072,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3710664,35.6175073000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2004026","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2004026,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3710664,35.6175073000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2004026","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2004026,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3590985,35.1626571,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003812","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":2003812,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5314723,35.3317584000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003613","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2003613,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4441746,31.8053551,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2004041","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2004041,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3710664,35.6175073000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2004026","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2004026,"Version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3710664,35.6175073000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2004026","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2004026,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4481161,31.8692336,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003990","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2003990,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3590985,35.1626571,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003812","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":2003812,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5314723,35.3317584000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003613","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2003613,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4505242,31.856879,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003512","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2003512,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4011517,31.9272816000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003222","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2003222,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.412431,35.4491830000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003169","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2003169,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.33135,35.7428100000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003083","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2003083,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.33135,35.7428100000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003083","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2003083,"Version":2}}
@@ -216,23 +332,46 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.22066,35.7014600000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002668","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2002668,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3393283999999,35.7529987,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002484","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2002484,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3393283999999,35.7529987,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002484","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2002484,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9541659,40.6749677,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002412","TimeStamp":20140823,"NAME":"New York","OSM_ID":2002412,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4070915,35.4939383,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002385","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2002385,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5171645,35.4377983000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002233","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2002233,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5238466,35.5160060000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002454","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":2002454,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9541659,40.6749677,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002412","TimeStamp":20140823,"NAME":"New York","OSM_ID":2002412,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4070915,35.4939383,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002385","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2002385,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5171645,35.4377983000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002233","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2002233,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4255315,31.8559067,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002202","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2002202,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.000017,38.8965762,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002176","TimeStamp":20140408,"NAME":"District of Columbia","OSM_ID":2002176,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4360994,35.4253964000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002129","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2002129,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3801266999999,35.7279934000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2001995","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2001995,"Version":4}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3804699999999,35.72749,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2001995","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2001995,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4790037,35.4534263,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2001558","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":2001558,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6602776,35.5012181000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2001326","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2001326,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4919174,35.3552418,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000587","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2000587,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4496004,31.8654578000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000879","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2000879,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5617051999999,35.4934419000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000616","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":2000616,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4919174,35.3552418,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000587","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":2000587,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4636646,31.8149761,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000204","TimeStamp":20150915,"NAME":"Texas","OSM_ID":2000204,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.4163,35.2170760000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000176","TimeStamp":20140914,"NAME":"North Carolina","OSM_ID":2000176,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2188379,35.5824101000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000141","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":2000141,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2188379,35.5824101000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000141","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":2000141,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.8123538999999,35.6459492000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000037","TimeStamp":20141007,"NAME":"Tennessee","OSM_ID":2000037,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6369456,35.589209,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999928","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1999928,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9934838999999,38.895613,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999602","TimeStamp":20140201,"NAME":"District of Columbia","OSM_ID":1999602,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9868051999999,40.6956759,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999490","TimeStamp":20140823,"NAME":"New York","OSM_ID":1999490,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6261568,35.5119633,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999769","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1999769,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9934838999999,38.895613,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999602","TimeStamp":20140201,"NAME":"District of Columbia","OSM_ID":1999602,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4253566,31.8505538000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999502","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1999502,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9868051999999,40.6956759,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999490","TimeStamp":20140823,"NAME":"New York","OSM_ID":1999490,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.438701,31.8164644,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999393","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1999393,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5200602,35.3212437,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999371","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1999371,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2690906999999,35.7721164000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999280","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1999280,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2690906999999,35.7721164000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999280","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1999280,"Version":2}}
@@ -247,12 +386,21 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9874426,40.7355572000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1998140","TimeStamp":20140201,"NAME":"New York","OSM_ID":1998140,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2881002999999,35.6994577,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1998133","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1998133,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2881002999999,35.6994577,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1998133","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1998133,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.402015,31.8131960000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1998115","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1998115,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.416685,31.9101314000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1998114","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1998114,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5714450999999,35.5888006000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997945","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":1997945,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9760684999999,40.6968028000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997758","TimeStamp":20140823,"NAME":"New York","OSM_ID":1997758,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9583454,40.6924720000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997746","TimeStamp":20140823,"NAME":"New York","OSM_ID":1997746,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3823834999999,35.1765505000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997695","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":1997695,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6344,35.5647505000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997692","TimeStamp":20140202,"NAME":"Oklahoma","OSM_ID":1997692,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.385901,35.1806980000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997606","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":1997606,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4258909,31.8777989000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997430","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1997430,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5265262,35.4373123,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997269","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1997269,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.8892721999999,35.1871693000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997117","TimeStamp":20140821,"NAME":"North Carolina","OSM_ID":1997117,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5473504999999,35.4409126,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997068","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1997068,"Version":2}}
@@ -270,6 +418,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9762831,38.8977654,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995694","TimeStamp":20140201,"NAME":"District of Columbia","OSM_ID":1995694,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4176007999999,35.4196762,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995679","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":1995679,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.2295192,35.3417789000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995656","TimeStamp":20141007,"NAME":"Tennessee","OSM_ID":1995656,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4140119,31.8778216000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995593","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1995593,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6306294999999,35.5890206,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995587","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":1995587,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6103782,35.4629547000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995483","TimeStamp":20140821,"NAME":"Oklahoma","OSM_ID":1995483,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6103782,35.4629547000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995483","TimeStamp":20140126,"NAME":"Oklahoma","OSM_ID":1995483,"Version":2}}
@@ -281,12 +433,17 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5133643999999,35.3403402000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994688","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1994688,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5619452,35.4007837,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994634","TimeStamp":20140123,"NAME":"Oklahoma","OSM_ID":1994634,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4864765,35.4746856,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994414","TimeStamp":20140123,"NAME":"Oklahoma","OSM_ID":1994414,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4670455,35.4798375,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994363","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1994363,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.3314821,35.2133092,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994129","TimeStamp":20140914,"NAME":"North Carolina","OSM_ID":1994129,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3148207,38.7541189,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994083","TimeStamp":20141124,"NAME":"Missouri","OSM_ID":1994083,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.9880393999999,35.6214215000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1993491","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1993491,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6528380999999,35.5073484000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1993463","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1993463,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5560167,35.5885655000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1993257","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1993257,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9716152,40.6944046,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992754","TimeStamp":20140823,"NAME":"New York","OSM_ID":1992754,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3374219999999,35.7370626000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992628","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1992628,"Version":4}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.33751,35.73708,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992628","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1992628,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3715948999999,35.1893581,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992376","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":1992376,"Version":2}}
@@ -295,6 +452,22 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5568221,35.3778195,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991820","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1991820,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5701092,35.3876993000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991727","TimeStamp":20140123,"NAME":"Oklahoma","OSM_ID":1991727,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6751682,35.5687633000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991613","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":1991613,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3374219999999,35.7370626000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992628","TimeStamp":20150915,"NAME":"North Carolina","OSM_ID":1992628,"Version":5}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3374219999999,35.7370626000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992628","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1992628,"Version":4}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.33751,35.73708,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992628","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1992628,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4186013,31.8968306,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992475","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1992475,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3715948999999,35.1893581,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992376","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":1992376,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.630511,35.493409,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992206","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1992206,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4130873,31.8693255000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992169","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1992169,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5937433,35.4880043000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992087","TimeStamp":20140218,"NAME":"Oklahoma","OSM_ID":1992087,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.470016,35.3262517000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991929","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1991929,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.3895984,31.9251224000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991917","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1991917,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5568221,35.3778195,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991820","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1991820,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5701092,35.3876993000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991727","TimeStamp":20140123,"NAME":"Oklahoma","OSM_ID":1991727,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6751682,35.5687633000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991613","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":1991613,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5382625,35.5520753000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991514","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1991514,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.2556428,38.7490000000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991483","TimeStamp":20141124,"NAME":"Missouri","OSM_ID":1991483,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4949253,35.5064268,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990989","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1990989,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5927761999999,35.4385750000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990894","TimeStamp":20140202,"NAME":"Oklahoma","OSM_ID":1990894,"Version":2}}
@@ -339,9 +512,19 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.215795,35.703579,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987425","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1987425,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3726756,35.5216634000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987403","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1987403,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5906539,35.5007079000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987385","TimeStamp":20140218,"NAME":"Oklahoma","OSM_ID":1987385,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6464096,35.5809648000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987182","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":1987182,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.8888645,35.2108548000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987135","TimeStamp":20140821,"NAME":"North Carolina","OSM_ID":1987135,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4899146,35.5737066,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986704","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":1986704,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4759430999999,35.5402015000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987359","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1987359,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6464096,35.5809648000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987182","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":1987182,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.8888645,35.2108548000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987135","TimeStamp":20140821,"NAME":"North Carolina","OSM_ID":1987135,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4899146,35.5737066,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986704","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":1986704,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4788907,35.5153996000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986524","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1986524,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4328282,31.8758725000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986412","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1986412,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4030513,31.9023881000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986301","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1986301,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4141393,35.4435818000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1985902","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1985902,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6685510999999,35.5697918000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1985857","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1985857,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9922027,40.6952188000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1985282","TimeStamp":20140823,"NAME":"New York","OSM_ID":1985282,"Version":2}}
@@ -352,8 +535,16 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.15647,35.5879200000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984943","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1984943,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5670161,35.3272215000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984826","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1984826,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9827066,38.8973701,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984751","TimeStamp":20140201,"NAME":"District of Columbia","OSM_ID":1984751,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9542291,40.6838991000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984620","TimeStamp":20140823,"NAME":"New York","OSM_ID":1984620,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4312428,35.4575251000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984212","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":1984212,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4170157,31.8552489,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984657","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1984657,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9542291,40.6838991000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984620","TimeStamp":20140823,"NAME":"New York","OSM_ID":1984620,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4581665,31.8345416000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984414","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1984414,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4312428,35.4575251000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984212","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":1984212,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4296654,31.9060802000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984207","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1984207,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4573187999999,35.2744339000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984201","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1984201,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5639598,35.3406895000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984134","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1984134,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3261606,35.7390396000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984057","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1984057,"Version":3}}
@@ -362,11 +553,21 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.705238,41.0486480000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983892","TimeStamp":20140201,"NAME":"New York","OSM_ID":1983892,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.422692,35.4503147,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983750","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1983750,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.492487,35.4467757,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983640","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":1983640,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4525314,31.8198385000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983590","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1983590,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4785128,35.4834262000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983486","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1983486,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3245548,35.7673294000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983424","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1983424,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3245548,35.7673294000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983424","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1983424,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.0256740999999,35.5294198,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983379","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1983379,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6086597,35.5214493,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983350","TimeStamp":20140517,"NAME":"Oklahoma","OSM_ID":1983350,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.513388,35.3453402000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983308","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1983308,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4298656,31.9050225,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983264","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1983264,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.55495,35.4932200000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983196","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1983196,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4397514,35.4365260000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983075","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":1983075,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.514978,35.5561259,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982921","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":1982921,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5376859,35.4228278000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982851","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":1982851,"Version":2}}
@@ -374,30 +575,57 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.020432,38.8946016,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982743","TimeStamp":20140725,"NAME":"District of Columbia","OSM_ID":1982743,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5575492999999,35.5795583,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982730","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1982730,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3524906,35.5155510000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982718","TimeStamp":20140218,"NAME":"Oklahoma","OSM_ID":1982718,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9926399999999,38.8920000000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982517","TimeStamp":20140201,"NAME":"District of Columbia","OSM_ID":1982517,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2831429999999,35.7553950000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982410","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1982410,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2831429999999,35.7553950000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982410","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1982410,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4114655,31.8863632000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982693","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1982693,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4189852,31.9255524000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982547","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1982547,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9926399999999,38.8920000000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982517","TimeStamp":20140201,"NAME":"District of Columbia","OSM_ID":1982517,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2831429999999,35.7553950000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982410","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1982410,"Version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2831429999999,35.7553950000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982410","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1982410,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4931006,35.5305785,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982327","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1982327,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3772807999999,35.7343586000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982268","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1982268,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3772807999999,35.7343586000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982268","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1982268,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5185703,35.3985142000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982250","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1982250,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2246952,35.6776655,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982072","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1982072,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2246952,35.6776655,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982072","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1982072,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4358176,31.9412637,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1981914","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1981914,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.476453,35.3453159000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1981894","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1981894,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1179999999999,35.7525000000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1981871","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1981871,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1179999999999,35.7525000000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1981871","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1981871,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6285212,35.4888354,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1981477","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1981477,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4641979,31.8144140000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1981444","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1981444,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4516103,35.4229040000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1981413","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1981413,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9507607,40.6896676000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1981265","TimeStamp":20140823,"NAME":"New York","OSM_ID":1981265,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9944986,40.7289381000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1980992","TimeStamp":20140201,"NAME":"New York","OSM_ID":1980992,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.660429,35.5766045,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1980861","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1980861,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.640405,35.5130355000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1980328","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1980328,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9998629,38.8928537,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1980182","TimeStamp":20140408,"NAME":"District of Columbia","OSM_ID":1980182,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4486958,31.8305681000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1980323","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1980323,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9998629,38.8928537,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1980182","TimeStamp":20140408,"NAME":"District of Columbia","OSM_ID":1980182,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5689007,35.5249582000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1980080","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1980080,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.22356,35.6807400000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979965","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1979965,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.22356,35.6807400000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979965","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1979965,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.531143,35.3722927000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979935","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1979935,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.205976,35.7272360000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979903","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1979903,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.205976,35.7272360000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979903","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1979903,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3685184,35.51743,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979835","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1979835,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4753360999999,35.4753851,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979819","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1979819,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5400332999999,35.3997403000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979784","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1979784,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1997322,35.7486872000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979775","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1979775,"Version":4}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1997322,35.7486872000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979775","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1979775,"Version":3}}
@@ -405,6 +633,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.6896288,35.184109,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979646","TimeStamp":20140821,"NAME":"North Carolina","OSM_ID":1979646,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5813467,35.474721,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979635","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":1979635,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9931839,38.8975620000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979289","TimeStamp":20140201,"NAME":"District of Columbia","OSM_ID":1979289,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4168221,31.9186632,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979222","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1979222,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5039404,35.4514729000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978864","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1978864,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4844552,35.501333,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978621","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":1978621,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3026576,38.744784,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978423","TimeStamp":20141124,"NAME":"Missouri","OSM_ID":1978423,"Version":2}}
@@ -430,6 +662,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9866342,40.6982914000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1975692","TimeStamp":20140823,"NAME":"New York","OSM_ID":1975692,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.38485,35.6636,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1975532","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1975532,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.38485,35.6636,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1975532","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1975532,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4702646,35.488391,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1974977","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1974977,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4942761999999,35.395974,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1974935","TimeStamp":20140218,"NAME":"Oklahoma","OSM_ID":1974935,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.0501082,35.5030479000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1974138","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1974138,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3879654,35.7425267,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1974078","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1974078,"Version":3}}
@@ -440,11 +676,19 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1796285,35.7893443,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1973653","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1973653,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9730218999999,40.6928207,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1973584","TimeStamp":20140823,"NAME":"New York","OSM_ID":1973584,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5322682999999,35.420486,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1973343","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":1973343,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5135873999999,35.4918883,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1973248","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1973248,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.2653638,35.4670826,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1973217","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1973217,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1480536999999,35.7707942000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1973202","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1973202,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1480536999999,35.7707942000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1973202","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1973202,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3595844,35.5140413,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1973141","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1973141,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5332668,35.4222116,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972856","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1972856,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4913855,31.7555504000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972645","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1972645,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5657444,35.3381498000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972640","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1972640,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6566635999999,35.559331,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972579","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":1972579,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.2896215,35.2983449000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972300","TimeStamp":20141007,"NAME":"Tennessee","OSM_ID":1972300,"Version":2}}
@@ -453,8 +697,15 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.5732264,35.2709838000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1971964","TimeStamp":20140914,"NAME":"North Carolina","OSM_ID":1971964,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.8920077,35.2576094,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1971957","TimeStamp":20140821,"NAME":"North Carolina","OSM_ID":1971957,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6211021999999,35.5876313000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1971933","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1971933,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.1248879,35.2636680000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1971754","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":1971754,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5837281,35.5839954,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1971592","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1971592,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4624569,31.8207772000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1971882","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1971882,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.1248879,35.2636680000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1971754","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":1971754,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5837281,35.5839954,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1971592","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1971592,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5473499,35.4862857000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1971552","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1971552,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.387527,35.1160976,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1971424","TimeStamp":20140914,"NAME":"North Carolina","OSM_ID":1971424,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3170861999999,35.2577275,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1971147","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":1971147,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.0912572,35.6412320000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1970959","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1970959,"Version":3}}
@@ -466,22 +717,45 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1516415999999,35.7107811000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1970707","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1970707,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1516415999999,35.7107811000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1970707","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1970707,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3704288,35.4796215000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1970582","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1970582,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4423061,31.9409964000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1969875","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1969875,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3039189,38.7446483000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1969865","TimeStamp":20141124,"NAME":"Missouri","OSM_ID":1969865,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.153809,36.7532477,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1969670","TimeStamp":20140126,"NAME":"Oklahoma","OSM_ID":1969670,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4043895999999,29.8036480000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1969558","TimeStamp":20140204,"NAME":"Texas","OSM_ID":1969558,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3851175,35.4645877,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1969539","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1969539,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3354232999999,35.5369741000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1969469","TimeStamp":20140218,"NAME":"Oklahoma","OSM_ID":1969469,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9923022,40.7000033,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1969331","TimeStamp":20140823,"NAME":"New York","OSM_ID":1969331,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.010948,38.895856,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1969076","TimeStamp":20140725,"NAME":"District of Columbia","OSM_ID":1969076,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4700782,31.7662085000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1969386","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1969386,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9923022,40.7000033,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1969331","TimeStamp":20140823,"NAME":"New York","OSM_ID":1969331,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.010948,38.895856,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1969076","TimeStamp":20140725,"NAME":"District of Columbia","OSM_ID":1969076,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4771155,35.4906679000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968892","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1968892,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.2032379,35.364071,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968859","TimeStamp":20141007,"NAME":"Tennessee","OSM_ID":1968859,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9828024999999,40.6955503,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968378","TimeStamp":20140823,"NAME":"New York","OSM_ID":1968378,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.3975473,35.2344019000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968295","TimeStamp":20140914,"NAME":"North Carolina","OSM_ID":1968295,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3858337,35.4286569000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968181","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1968181,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3792643,35.416884,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968103","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1968103,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.769281,35.6812004000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1967374","TimeStamp":20141007,"NAME":"Tennessee","OSM_ID":1967374,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2211263,35.5294451,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1967240","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1967240,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4615801,35.5659561000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1967180","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":1967180,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0009517,35.2146935000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1966846","TimeStamp":20140914,"NAME":"North Carolina","OSM_ID":1966846,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4165607,31.8848797000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968140","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1968140,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3792643,35.416884,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968103","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1968103,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5666439,35.5640603000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1967516","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1967516,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.769281,35.6812004000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1967374","TimeStamp":20141007,"NAME":"Tennessee","OSM_ID":1967374,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2211263,35.5294451,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1967240","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1967240,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4069078,31.9272953,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1967229","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1967229,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4615801,35.5659561000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1967180","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":1967180,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0009517,35.2146935000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1966846","TimeStamp":20140914,"NAME":"North Carolina","OSM_ID":1966846,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.408141,31.8994967,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1966787","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1966787,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0116561999999,40.7406717000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1966783","TimeStamp":20140201,"NAME":"New York","OSM_ID":1966783,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5033696,35.3992786000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1966253","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1966253,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.1983404,35.3055272,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1966244","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":1966244,"Version":2}}
@@ -490,6 +764,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1948594,35.5933527,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965789","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1965789,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1948594,35.5933527,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965789","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1965789,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5011479999999,35.4756445,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965676","TimeStamp":20140204,"NAME":"Oklahoma","OSM_ID":1965676,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.3724086,31.8109505,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965510","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1965510,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4365097,35.4504095,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965388","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":1965388,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0816614,38.8741724000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965351","TimeStamp":20140201,"NAME":"Virginia","OSM_ID":1965351,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2179445,35.6617138,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965191","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1965191,"Version":3}}
@@ -503,6 +781,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.222956,35.6483724,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1964414","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1964414,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.222956,35.6483724,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1964414","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1964414,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5196357999999,35.3854460000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963873","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1963873,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5805943,35.5277304000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963687","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1963687,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.378277,35.1846176,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963323","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":1963323,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.0884189,35.5024845,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963264","TimeStamp":20141007,"NAME":"Tennessee","OSM_ID":1963264,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9867537,38.9015738000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1962987","TimeStamp":20140201,"NAME":"District of Columbia","OSM_ID":1962987,"Version":2}}
@@ -517,13 +799,23 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.0036239999999,35.7824333,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1962425","TimeStamp":20140821,"NAME":"North Carolina","OSM_ID":1962425,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.01587,38.8951200000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1962205","TimeStamp":20140201,"NAME":"District of Columbia","OSM_ID":1962205,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.2645866,35.2951729000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1962150","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":1962150,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.1797104999999,35.3112489000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961699","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":1961699,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.3815388,31.9287547000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961743","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1961743,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.1797104999999,35.3112489000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961699","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":1961699,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5116502,35.5682869,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961565","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1961565,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.4851159999999,35.1397867000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961495","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":1961495,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1487713,35.7122741000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961207","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1961207,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1487713,35.7122741000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961207","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1961207,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5982297,35.542587,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1960934","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":1960934,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4923052,35.4057461,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1960675","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1960675,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5628023,35.5829045,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1960578","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1960578,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5711919,35.4935516,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1960446","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1960446,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5652563,35.5950544,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1960435","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":1960435,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6015735999999,35.3964920000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1960388","TimeStamp":20140123,"NAME":"Oklahoma","OSM_ID":1960388,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4933685999999,35.3322454,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1960378","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1960378,"Version":2}}
@@ -542,6 +834,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3348283,35.7328628000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1958892","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1958892,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2691679,35.6411169,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1958766","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1958766,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2691679,35.6411169,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1958766","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1958766,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5265383,35.4729418000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1958524","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1958524,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.145296,35.3957833000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1958388","TimeStamp":20141007,"NAME":"Tennessee","OSM_ID":1958388,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.4768782,35.5888891000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1958258","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1958258,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.4768782,35.5888891000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1958258","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1958258,"Version":2}}
@@ -571,6 +867,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.7467253999999,35.2938695,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1955641","TimeStamp":20140914,"NAME":"North Carolina","OSM_ID":1955641,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.0986518999999,35.2951775000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1955485","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":1955485,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5150441,35.4608333,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1955477","TimeStamp":20140123,"NAME":"Oklahoma","OSM_ID":1955477,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4473992,31.8546225000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954857","TimeStamp":20150915,"NAME":"Texas","OSM_ID":1954857,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.9887338,35.5225423000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954604","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1954604,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1166999,35.5399484000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954305","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1954305,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5218512,35.4418516000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1953886","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1953886,"Version":2}}
@@ -584,6 +884,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3283517,35.7735725000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1952293","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1952293,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3283517,35.7735725000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1952293","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1952293,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0195732,38.8970589,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1952276","TimeStamp":20140725,"NAME":"District of Columbia","OSM_ID":1952276,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5198553,35.5648190000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1952172","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1952172,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3616744,35.1307679,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1952127","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":1952127,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.517149,35.4411985,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1952056","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1952056,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9845209,40.7317629,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1952050","TimeStamp":20140201,"NAME":"New York","OSM_ID":1952050,"Version":2}}
@@ -591,6 +895,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5495157999999,35.4525269000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1951905","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1951905,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.1341121,35.1879347,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1951870","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":1951870,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.9912719,35.5838142000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1951807","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1951807,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5017745,35.4980881000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1951611","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1951611,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3287424,35.7035990000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1951606","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1951606,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3287424,35.7035990000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1951606","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1951606,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4771608,35.3214121,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1951277","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1951277,"Version":2}}
@@ -618,12 +926,20 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.08932,35.4838500000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948479","TimeStamp":20141007,"NAME":"Tennessee","OSM_ID":1948479,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5554299999999,35.38392,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948454","TimeStamp":20140123,"NAME":"Oklahoma","OSM_ID":1948454,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3834199999999,35.18129,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948373","TimeStamp":20140823,"NAME":"North Carolina","OSM_ID":1948373,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5797899999999,35.5011200000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948357","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1948357,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4371,35.4370900000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948340","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":1948340,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5547,35.57683,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948148","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1948148,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.52572,35.4690000000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947681","TimeStamp":20140202,"NAME":"Oklahoma","OSM_ID":1947681,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.53025,35.53761,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947639","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":1947639,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1575999999999,35.72889,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947577","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1947577,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.99222,40.70086,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947560","TimeStamp":20140823,"NAME":"New York","OSM_ID":1947560,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.52284,35.46856,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947536","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1947536,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.27097,35.49373,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947435","TimeStamp":20140218,"NAME":"Oklahoma","OSM_ID":1947435,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.2117,35.36199,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947384","TimeStamp":20141007,"NAME":"Tennessee","OSM_ID":1947384,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.08582,35.4802700000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947289","TimeStamp":20141007,"NAME":"Tennessee","OSM_ID":1947289,"Version":2}}
@@ -639,6 +955,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.99923,38.8834800000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946222","TimeStamp":20140201,"NAME":"District of Columbia","OSM_ID":1946222,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.37943,35.7288500000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946221","TimeStamp":20140408,"NAME":"North Carolina","OSM_ID":1946221,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.37943,35.7288500000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946221","TimeStamp":20140123,"NAME":"North Carolina","OSM_ID":1946221,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.52451,35.4695600000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946081","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1946081,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.00515,40.7340300000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1945663","TimeStamp":20140201,"NAME":"New York","OSM_ID":1945663,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.77476,35.2381800000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1945591","TimeStamp":20140914,"NAME":"North Carolina","OSM_ID":1945591,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.64433,35.5051500000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1945503","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1945503,"Version":2}}
@@ -661,6 +981,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.58964,35.5946700000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943518","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":1943518,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0192215,38.8940284,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943508","TimeStamp":20140201,"NAME":"District of Columbia","OSM_ID":1943508,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.48549,35.3382800000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943483","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1943483,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7375299999999,35.50586,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943407","TimeStamp":20150819,"NAME":"Oklahoma","OSM_ID":1943407,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.48304,35.4062700000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943277","TimeStamp":20140201,"NAME":"Oklahoma","OSM_ID":1943277,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.44173,35.5138400000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943268","TimeStamp":20140214,"NAME":"Oklahoma","OSM_ID":1943268,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.24128,35.49328,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943264","TimeStamp":20140930,"NAME":"Oklahoma","OSM_ID":1943264,"Version":2}}
@@ -947,6 +1271,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0832093,26.6477852,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862643","TimeStamp":20140401,"NAME":"Florida","OSM_ID":1862643,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7455479,24.5812705000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862622","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1862622,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2292581999999,26.6846273,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862397","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1862397,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2386916,25.7799101000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862308","TimeStamp":20150915,"NAME":"Florida","OSM_ID":1862308,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1116192,26.7091879000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862167","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1862167,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.4227802999999,26.1378447000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862111","TimeStamp":20141214,"NAME":"Florida","OSM_ID":1862111,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2171845999999,26.6200878000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862056","TimeStamp":20140403,"NAME":"Florida","OSM_ID":1862056,"Version":2}}
@@ -1080,6 +1408,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.088336,26.6341200000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851319","TimeStamp":20140401,"NAME":"Florida","OSM_ID":1851319,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7868615,24.5573230000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851272","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1851272,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0908421999999,26.3806486,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851265","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1851265,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2435569,25.7825066,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851206","TimeStamp":20150915,"NAME":"Florida","OSM_ID":1851206,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7659811,24.5637307000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851167","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1851167,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1469691,26.3603705,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851086","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1851086,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1385533,26.2728174000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851072","TimeStamp":20140725,"NAME":"Florida","OSM_ID":1851072,"Version":2}}
@@ -1162,6 +1494,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0665521,26.6541323000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1845568","TimeStamp":20140401,"NAME":"Florida","OSM_ID":1845568,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0951709999999,26.9594090000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1845552","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1845552,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.244758,26.70716,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1845313","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1845313,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.38144,37.9245643,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1845048","TimeStamp":20151113,"NAME":"California","OSM_ID":1845048,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0616757,26.5891839,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1845025","TimeStamp":20140403,"NAME":"Florida","OSM_ID":1845025,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1126814,26.3597515000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1844980","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1844980,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1099072,26.2722426,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1844904","TimeStamp":20140725,"NAME":"Florida","OSM_ID":1844904,"Version":2}}
@@ -1192,6 +1528,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1400278,26.1591351000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841301","TimeStamp":20140725,"NAME":"Florida","OSM_ID":1841301,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1325765,26.6759411,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841172","TimeStamp":20140401,"NAME":"Florida","OSM_ID":1841172,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.102857,26.6535136000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841129","TimeStamp":20140401,"NAME":"Florida","OSM_ID":1841129,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2367088999999,25.7792863,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841084","TimeStamp":20150915,"NAME":"Florida","OSM_ID":1841084,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-115.3695699,32.8164783,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841080","TimeStamp":20141007,"NAME":"California","OSM_ID":1841080,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0744857999999,26.8233491,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1840964","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1840964,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0675218,26.7513645000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1840652","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1840652,"Version":2}}
@@ -1259,6 +1599,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1589082,26.1214657,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831839","TimeStamp":20140526,"NAME":"Florida","OSM_ID":1831839,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0951749,26.6423388000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831622","TimeStamp":20140415,"NAME":"Florida","OSM_ID":1831622,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0951749,26.6423388000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831622","TimeStamp":20140401,"NAME":"Florida","OSM_ID":1831622,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2169223,25.7858081000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831499","TimeStamp":20150915,"NAME":"Florida","OSM_ID":1831499,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1433165,26.0698989000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831438","TimeStamp":20140526,"NAME":"Florida","OSM_ID":1831438,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1977818999999,25.8085809,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831428","TimeStamp":20140725,"NAME":"Florida","OSM_ID":1831428,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2473525999999,26.6732118,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831400","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1831400,"Version":2}}
@@ -1273,6 +1617,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0789765,26.2995060000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830885","TimeStamp":20140415,"NAME":"Florida","OSM_ID":1830885,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.3730437,25.7637079,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830782","TimeStamp":20141214,"NAME":"Florida","OSM_ID":1830782,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0935436,26.9591616000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830712","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1830712,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2159402,25.7746214000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830700","TimeStamp":20150915,"NAME":"Florida","OSM_ID":1830700,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0574263,26.7141223,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830628","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1830628,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1418335,26.1744836,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830598","TimeStamp":20140725,"NAME":"Florida","OSM_ID":1830598,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1043706999999,26.8313218000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830584","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1830584,"Version":2}}
@@ -1281,6 +1629,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0765555,26.4610904,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830266","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1830266,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0540801,26.5000567000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830148","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1830148,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1692005,25.9159614000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830074","TimeStamp":20140725,"NAME":"Florida","OSM_ID":1830074,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2135714,25.7811261000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830057","TimeStamp":20150915,"NAME":"Florida","OSM_ID":1830057,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1372999,26.7974828000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830029","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1830029,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1427045,26.1115617,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830012","TimeStamp":20140725,"NAME":"Florida","OSM_ID":1830012,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.8040725,24.5549304,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1829987","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1829987,"Version":2}}
@@ -1340,6 +1692,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.11254,26.7849128,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1827174","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1827174,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1282077,26.4373304000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1827091","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1827091,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1774627,25.8898611000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1827055","TimeStamp":20140725,"NAME":"Florida","OSM_ID":1827055,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2145270999999,25.7885402000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1827007","TimeStamp":20150915,"NAME":"Florida","OSM_ID":1827007,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.6231169,28.3600341000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1826901","TimeStamp":20141214,"NAME":"Florida","OSM_ID":1826901,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2526190999999,26.6837474000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1826802","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1826802,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1309271,25.822777,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1826778","TimeStamp":20140725,"NAME":"Florida","OSM_ID":1826778,"Version":2}}
@@ -1353,6 +1709,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7674747999999,24.5643362000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1826165","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1826165,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0674384,26.7540018,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1826034","TimeStamp":20141214,"NAME":"Florida","OSM_ID":1826034,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.3851461,25.7308628000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1826027","TimeStamp":20141214,"NAME":"Florida","OSM_ID":1826027,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2159784,25.7886219000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1826025","TimeStamp":20150915,"NAME":"Florida","OSM_ID":1826025,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0621785,26.7559833,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825969","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1825969,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1023185,26.3584447000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825922","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1825922,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0617043999999,26.5891587,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825764","TimeStamp":20140403,"NAME":"Florida","OSM_ID":1825764,"Version":2}}
@@ -1401,6 +1761,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0951234999999,26.7002616,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1822347","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1822347,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0809312,26.7191453,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1822290","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1822290,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1573119,25.8488746,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1822262","TimeStamp":20140725,"NAME":"Florida","OSM_ID":1822262,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.3904131,37.9316258000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1822170","TimeStamp":20151113,"NAME":"California","OSM_ID":1822170,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1065637,26.1384381,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1822137","TimeStamp":20140415,"NAME":"Florida","OSM_ID":1822137,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.8683559,28.7351861000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1822093","TimeStamp":20141214,"NAME":"Florida","OSM_ID":1822093,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0832224,26.8382740000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1822019","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1822019,"Version":2}}
@@ -1417,6 +1781,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.4422593,29.9181083,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821200","TimeStamp":20141214,"NAME":"Florida","OSM_ID":1821200,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0651642,26.4106486000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821199","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1821199,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0799479999999,26.4400896000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821121","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1821121,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.1841458,37.9488105,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821115","TimeStamp":20151113,"NAME":"California","OSM_ID":1821115,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0360959,26.7031183,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821069","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1821069,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1499843999999,26.3559894000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1820647","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1820647,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0553073,26.6733605000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1820451","TimeStamp":20140415,"NAME":"Florida","OSM_ID":1820451,"Version":3}}
@@ -1481,11 +1849,19 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.6101202,28.3595528000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1815513","TimeStamp":20141214,"NAME":"Florida","OSM_ID":1815513,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2038570999999,26.3387572,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1815412","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1815412,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.081416,26.7543263000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1815375","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1815375,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.5393202,37.8325523,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1815284","TimeStamp":20151113,"NAME":"California","OSM_ID":1815284,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5712098,30.6053017,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1815109","TimeStamp":20141214,"NAME":"Florida","OSM_ID":1815109,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.3272558,25.7339946000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814958","TimeStamp":20141214,"NAME":"Florida","OSM_ID":1814958,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1201085,26.2998746000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814683","TimeStamp":20140415,"NAME":"Florida","OSM_ID":1814683,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0938772,26.3295757000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814619","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1814619,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0727833999999,26.6314157,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814492","TimeStamp":20140401,"NAME":"Florida","OSM_ID":1814492,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.4988861,37.9420655000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814484","TimeStamp":20151113,"NAME":"California","OSM_ID":1814484,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.6884125999999,28.3401404000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814212","TimeStamp":20141214,"NAME":"Florida","OSM_ID":1814212,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-111.6570902,35.1951592,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814162","TimeStamp":20140204,"NAME":"Arizona","OSM_ID":1814162,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0562019,26.8123613000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814134","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1814134,"Version":2}}
@@ -1521,6 +1897,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0872893,26.6362711,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1810936","TimeStamp":20140401,"NAME":"Florida","OSM_ID":1810936,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0959845,26.8361009000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1810904","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1810904,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1238509999999,26.3827771000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1810835","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1810835,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2394439999999,25.7799430000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1810820","TimeStamp":20150915,"NAME":"Florida","OSM_ID":1810820,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1214974,26.70653,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1810771","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1810771,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.21658,25.7431090000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1810766","TimeStamp":20141214,"NAME":"Florida","OSM_ID":1810766,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0749792999999,26.8036207000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1810741","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1810741,"Version":2}}
@@ -1555,6 +1935,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.099766,26.2281378000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1802300","TimeStamp":20140415,"NAME":"Florida","OSM_ID":1802300,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7953694999999,24.5568137000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1800102","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1800102,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.321163,25.7148237000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1799626","TimeStamp":20141214,"NAME":"Florida","OSM_ID":1799626,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.5241414,37.8765933,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1799317","TimeStamp":20151113,"NAME":"California","OSM_ID":1799317,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.2072222,26.5791667,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1797565","TimeStamp":20140403,"NAME":"Florida","OSM_ID":1797565,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0636527999999,26.6781216000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795697","TimeStamp":20140415,"NAME":"Florida","OSM_ID":1795697,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0636527999999,26.6781216000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795697","TimeStamp":20140401,"NAME":"Florida","OSM_ID":1795697,"Version":2}}
@@ -1578,6 +1962,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0668158,26.7411595,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1771444","TimeStamp":20140405,"NAME":"Florida","OSM_ID":1771444,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0708556,26.6293354000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1771231","TimeStamp":20140415,"NAME":"Florida","OSM_ID":1771231,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0708556,26.6293354000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1771231","TimeStamp":20140403,"NAME":"Florida","OSM_ID":1771231,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.2251181,37.8825817000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1771071","TimeStamp":20151113,"NAME":"California","OSM_ID":1771071,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1078623,26.6785178000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1771035","TimeStamp":20140401,"NAME":"Florida","OSM_ID":1771035,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0821114999999,26.6500899000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1770964","TimeStamp":20140415,"NAME":"Florida","OSM_ID":1770964,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0821114999999,26.6500899000001,0]},"properties":{"UserName":"BCook2","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1770964","TimeStamp":20140401,"NAME":"Florida","OSM_ID":1770964,"Version":2}}

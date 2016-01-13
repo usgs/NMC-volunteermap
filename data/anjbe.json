@@ -1,6 +1,13 @@
 {"name":"NewFeatureType","type":"FeatureCollection"
 ,"features":[
+<<<<<<< HEAD
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-108.7606581,33.7133615000001,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2063535","TimeStamp":20141231,"NAME":"New Mexico","OSM_ID":2063535,"Version":1}}
+=======
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7738051,34.4469896000001,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086549","TimeStamp":20150714,"NAME":"New Mexico","OSM_ID":2086549,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.8454206,34.345084,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071640","TimeStamp":20150714,"NAME":"New Mexico","OSM_ID":2071640,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4999975,35.0863549000001,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2068806","TimeStamp":20150714,"NAME":"New Mexico","OSM_ID":2068806,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.7606581,33.7133615000001,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2063535","TimeStamp":20141231,"NAME":"New Mexico","OSM_ID":2063535,"Version":1}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.5011429,35.0869814000001,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2063534","TimeStamp":20141230,"NAME":"New Mexico","OSM_ID":2063534,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.5011429,35.0869814000001,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2063534","TimeStamp":20141230,"NAME":"New Mexico","OSM_ID":2063534,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.2353806,34.1175684,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1764779","TimeStamp":20141230,"NAME":"New Mexico","OSM_ID":1764779,"Version":2}}
@@ -30,11 +37,23 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.8356978,36.7616261000001,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1726286","TimeStamp":20141230,"NAME":"New Mexico","OSM_ID":1726286,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.9114777,34.0374595000001,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724310","TimeStamp":20141230,"NAME":"New Mexico","OSM_ID":1724310,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.8351057,36.7618495,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1704088","TimeStamp":20141230,"NAME":"New Mexico","OSM_ID":1704088,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.1332644,34.2988346000001,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1699623","TimeStamp":20141230,"NAME":"New Mexico","OSM_ID":1699623,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.9060707,34.0665428,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1698644","TimeStamp":20141230,"NAME":"New Mexico","OSM_ID":1698644,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.7626852,33.7134879000001,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1686055","TimeStamp":20141231,"NAME":"New Mexico","OSM_ID":1686055,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.1341152,34.3026595000001,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1673987","TimeStamp":20141230,"NAME":"New Mexico","OSM_ID":1673987,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.9490165,35.6988833,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1668362","TimeStamp":20141231,"NAME":"New Mexico","OSM_ID":1668362,"Version":3}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7658644,34.5141418000001,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1703891","TimeStamp":20150714,"NAME":"New Mexico","OSM_ID":1703891,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.1332644,34.2988346000001,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1699623","TimeStamp":20141230,"NAME":"New Mexico","OSM_ID":1699623,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.8436655,34.3429185000001,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1698934","TimeStamp":20150714,"NAME":"New Mexico","OSM_ID":1698934,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.9060707,34.0665428,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1698644","TimeStamp":20141230,"NAME":"New Mexico","OSM_ID":1698644,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.7626852,33.7134879000001,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1686055","TimeStamp":20141231,"NAME":"New Mexico","OSM_ID":1686055,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.1341152,34.3026595000001,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1673987","TimeStamp":20141230,"NAME":"New Mexico","OSM_ID":1673987,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7667138,34.5125773,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1669850","TimeStamp":20150714,"NAME":"New Mexico","OSM_ID":1669850,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.9490165,35.6988833,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1668362","TimeStamp":20141231,"NAME":"New Mexico","OSM_ID":1668362,"Version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.8409463,34.3426278000001,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1666529","TimeStamp":20150714,"NAME":"New Mexico","OSM_ID":1666529,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.9181223,36.8448468,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1663066","TimeStamp":20141231,"NAME":"New Mexico","OSM_ID":1663066,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.8744971,34.1261694,0]},"properties":{"UserName":"anjbe","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1660670","TimeStamp":20141230,"NAME":"New Mexico","OSM_ID":1660670,"Version":2}}
 ]}

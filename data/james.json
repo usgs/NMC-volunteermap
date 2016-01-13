@@ -1,6 +1,15 @@
 {"name":"NewFeatureType","type":"FeatureCollection"
 ,"features":[
+<<<<<<< HEAD
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-85.6654922,42.9426287000001,0]},"properties":{"UserName":"james","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037016","TimeStamp":20131223,"NAME":"Michigan","OSM_ID":2037016,"Version":1}}
+=======
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.9929208999999,40.4217745,0]},"properties":{"UserName":"james","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2090301","TimeStamp":20151218,"NAME":"Pennsylvania","OSM_ID":2090301,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.0466658999999,40.4194875000001,0]},"properties":{"UserName":"james","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2090297","TimeStamp":20151218,"NAME":"Pennsylvania","OSM_ID":2090297,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.9087574,40.4742564000001,0]},"properties":{"UserName":"james","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2090296","TimeStamp":20151218,"NAME":"Pennsylvania","OSM_ID":2090296,"Version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.9086715999999,40.4742075,0]},"properties":{"UserName":"james","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2090296","TimeStamp":20151218,"NAME":"Pennsylvania","OSM_ID":2090296,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.9086715999999,40.4742075,0]},"properties":{"UserName":"james","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2090296","TimeStamp":20151218,"NAME":"Pennsylvania","OSM_ID":2090296,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.6654922,42.9426287000001,0]},"properties":{"UserName":"james","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037016","TimeStamp":20131223,"NAME":"Michigan","OSM_ID":2037016,"Version":1}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.6331628,42.9567495000001,0]},"properties":{"UserName":"james","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2035159","TimeStamp":20131022,"NAME":"Michigan","OSM_ID":2035159,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.6232236,42.9534955,0]},"properties":{"UserName":"james","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2035158","TimeStamp":20131022,"NAME":"Michigan","OSM_ID":2035158,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.6347453,42.9636931000001,0]},"properties":{"UserName":"james","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2035157","TimeStamp":20131022,"NAME":"Michigan","OSM_ID":2035157,"Version":1}}

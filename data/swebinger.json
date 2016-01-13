@@ -13,6 +13,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.2247196,43.8158545000001,0]},"properties":{"UserName":"swebinger","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008158","TimeStamp":20141217,"NAME":"Wisconsin","OSM_ID":2008158,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.2297075,43.8180630000001,0]},"properties":{"UserName":"swebinger","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2006762","TimeStamp":20141217,"NAME":"Wisconsin","OSM_ID":2006762,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.2401288999999,43.8082037,0]},"properties":{"UserName":"swebinger","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000504","TimeStamp":20141217,"NAME":"Wisconsin","OSM_ID":2000504,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.3062785,43.8178466000001,0]},"properties":{"UserName":"swebinger","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995089","TimeStamp":20151118,"NAME":"Minnesota","OSM_ID":1995089,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.3128667,43.8149710000001,0]},"properties":{"UserName":"swebinger","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994930","TimeStamp":20141217,"NAME":"Minnesota","OSM_ID":1994930,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.2449808,43.8061263000001,0]},"properties":{"UserName":"swebinger","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994354","TimeStamp":20141217,"NAME":"Wisconsin","OSM_ID":1994354,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.2279462,43.7957421,0]},"properties":{"UserName":"swebinger","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994271","TimeStamp":20141205,"NAME":"Wisconsin","OSM_ID":1994271,"Version":2}}

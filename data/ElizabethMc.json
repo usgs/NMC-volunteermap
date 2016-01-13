@@ -15,6 +15,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.400337,34.8155899000001,0]},"properties":{"UserName":"ElizabethMc","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1960113","TimeStamp":20141210,"NAME":"Texas","OSM_ID":1960113,"Version":6}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7260548,33.7880958000001,0]},"properties":{"UserName":"ElizabethMc","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1956988","TimeStamp":20140822,"NAME":"Texas","OSM_ID":1956988,"Version":4}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7254578,33.7884273,0]},"properties":{"UserName":"ElizabethMc","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1956988","TimeStamp":20140822,"NAME":"Texas","OSM_ID":1956988,"Version":3}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.863679,36.1470045,0]},"properties":{"UserName":"ElizabethMc","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943683","TimeStamp":20150911,"NAME":"Oklahoma","OSM_ID":1943683,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.7609136,42.2677977000001,0]},"properties":{"UserName":"ElizabethMc","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1941064","TimeStamp":20141117,"NAME":"Iowa","OSM_ID":1941064,"Version":4}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.3158858,42.4272742000001,0]},"properties":{"UserName":"ElizabethMc","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1940153","TimeStamp":20141204,"NAME":"Iowa","OSM_ID":1940153,"Version":4}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.3536971999999,43.1983444000001,0]},"properties":{"UserName":"ElizabethMc","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1939263","TimeStamp":20141204,"NAME":"Iowa","OSM_ID":1939263,"Version":5}}
@@ -105,6 +109,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.7378504,36.3915866,0]},"properties":{"UserName":"ElizabethMc","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1700091","TimeStamp":20130329,"NAME":"Arkansas","OSM_ID":1700091,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.7378504,36.3915866,0]},"properties":{"UserName":"ElizabethMc","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1700091","TimeStamp":20130329,"NAME":"Arkansas","OSM_ID":1700091,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.179639,47.7157213,0]},"properties":{"UserName":"ElizabethMc","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1699366","TimeStamp":20140801,"NAME":"Washington","OSM_ID":1699366,"Version":3}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.689036,39.5781940000001,0]},"properties":{"UserName":"ElizabethMc","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1694653","TimeStamp":20150904,"NAME":"Delaware","OSM_ID":1694653,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.369851,47.6934311000001,0]},"properties":{"UserName":"ElizabethMc","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1685928","TimeStamp":20140801,"NAME":"Washington","OSM_ID":1685928,"Version":4}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.7380029999999,36.3915339000001,0]},"properties":{"UserName":"ElizabethMc","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1659788","TimeStamp":20130329,"NAME":"Arkansas","OSM_ID":1659788,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.7380029999999,36.3915339000001,0]},"properties":{"UserName":"ElizabethMc","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1659788","TimeStamp":20130329,"NAME":"Arkansas","OSM_ID":1659788,"Version":2}}

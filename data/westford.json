@@ -6,7 +6,13 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4717568,43.0654804000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2079696","TimeStamp":20150506,"NAME":"New York","OSM_ID":2079696,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9525115,43.078967,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2078572","TimeStamp":20150511,"NAME":"New York","OSM_ID":2078572,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1535589,43.0504957000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2075379","TimeStamp":20150413,"NAME":"New York","OSM_ID":2075379,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.8604405999999,43.0545026,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069090","TimeStamp":20150511,"NAME":"New York","OSM_ID":2069090,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0155058999999,42.9003459,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069712","TimeStamp":20151027,"NAME":"New York","OSM_ID":2069712,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.8604405999999,43.0545026,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069090","TimeStamp":20150511,"NAME":"New York","OSM_ID":2069090,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1113989,43.0686179,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066082","TimeStamp":20150728,"NAME":"New York","OSM_ID":2066082,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0708796,42.9917333000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2064658","TimeStamp":20150214,"NAME":"New York","OSM_ID":2064658,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4207858999999,42.9513793,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2023039","TimeStamp":20140823,"NAME":"New York","OSM_ID":2023039,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2344899999999,43.0411700000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2022889","TimeStamp":20141029,"NAME":"New York","OSM_ID":2022889,"Version":2}}
@@ -46,11 +52,19 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9987785,34.6469048000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016573","TimeStamp":20140916,"NAME":"North Carolina","OSM_ID":2016573,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1828240999999,43.0943893,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015721","TimeStamp":20141026,"NAME":"New York","OSM_ID":2015721,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.14016,43.0455400000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015715","TimeStamp":20150506,"NAME":"New York","OSM_ID":2015715,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3353001999999,43.1664784000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015527","TimeStamp":20150707,"NAME":"New York","OSM_ID":2015527,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9520029999999,35.0831839000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015513","TimeStamp":20150323,"NAME":"North Carolina","OSM_ID":2015513,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.088449,43.0473160000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015213","TimeStamp":20141101,"NAME":"New York","OSM_ID":2015213,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1744835,43.0316181000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2014584","TimeStamp":20141107,"NAME":"New York","OSM_ID":2014584,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1480774999999,43.0824058000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2014384","TimeStamp":20141025,"NAME":"New York","OSM_ID":2014384,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1389816,42.9757266,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2014365","TimeStamp":20150108,"NAME":"New York","OSM_ID":2014365,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2197745999999,43.1485125,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013948","TimeStamp":20150707,"NAME":"New York","OSM_ID":2013948,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.1267,34.6129,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013788","TimeStamp":20141021,"NAME":"North Carolina","OSM_ID":2013788,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.224194,43.1336595000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013407","TimeStamp":20141020,"NAME":"New York","OSM_ID":2013407,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9620108999999,35.0182818000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012543","TimeStamp":20150402,"NAME":"North Carolina","OSM_ID":2012543,"Version":2}}
@@ -96,10 +110,18 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2861045,43.0340905,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2004106","TimeStamp":20141222,"NAME":"New York","OSM_ID":2004106,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1463199999999,43.0624500000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003440","TimeStamp":20141101,"NAME":"New York","OSM_ID":2003440,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.0036699999999,34.71221,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003077","TimeStamp":20140911,"NAME":"North Carolina","OSM_ID":2003077,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1171605,42.9225534,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002400","TimeStamp":20150728,"NAME":"New York","OSM_ID":2002400,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9700887,43.1622424,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002198","TimeStamp":20141011,"NAME":"New York","OSM_ID":2002198,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0019224,43.0227375000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2001716","TimeStamp":20141129,"NAME":"New York","OSM_ID":2001716,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.333043,43.1682672000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2001139","TimeStamp":20150413,"NAME":"New York","OSM_ID":2001139,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1505994,43.1011746,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000976","TimeStamp":20141027,"NAME":"New York","OSM_ID":2000976,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0967704999999,42.8878516,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000974","TimeStamp":20151027,"NAME":"New York","OSM_ID":2000974,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9767398,35.0481448,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000797","TimeStamp":20150323,"NAME":"North Carolina","OSM_ID":2000797,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.47299,43.0454895,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000738","TimeStamp":20150506,"NAME":"New York","OSM_ID":2000738,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9356093,35.0375705000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000196","TimeStamp":20150402,"NAME":"North Carolina","OSM_ID":2000196,"Version":2}}
@@ -107,6 +129,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.934382,34.9782527,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999290","TimeStamp":20150402,"NAME":"North Carolina","OSM_ID":1999290,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0878534999999,43.0321154000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999277","TimeStamp":20150413,"NAME":"New York","OSM_ID":1999277,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9370413999999,35.0768103,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999119","TimeStamp":20150323,"NAME":"North Carolina","OSM_ID":1999119,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9858737,42.8291447,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1998502","TimeStamp":20151027,"NAME":"New York","OSM_ID":1998502,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0820475,43.0397556,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1998499","TimeStamp":20150413,"NAME":"New York","OSM_ID":1998499,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9573085,42.9989111,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1998484","TimeStamp":20141014,"NAME":"New York","OSM_ID":1998484,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.207508,43.0341876000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1998476","TimeStamp":20141208,"NAME":"New York","OSM_ID":1998476,"Version":3}}
@@ -226,6 +252,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2050521,42.9313702000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1975257","TimeStamp":20141209,"NAME":"New York","OSM_ID":1975257,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0024557,43.0201825,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1975160","TimeStamp":20141014,"NAME":"New York","OSM_ID":1975160,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2477929,43.0442129,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1974845","TimeStamp":20141101,"NAME":"New York","OSM_ID":1974845,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3254722999999,43.1617033000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1974281","TimeStamp":20150707,"NAME":"New York","OSM_ID":1974281,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.8767511999999,43.0877337000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1973596","TimeStamp":20150511,"NAME":"New York","OSM_ID":1973596,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3358044999999,43.149592,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1973285","TimeStamp":20150413,"NAME":"New York","OSM_ID":1973285,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1291793999999,43.083539,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972730","TimeStamp":20141110,"NAME":"New York","OSM_ID":1972730,"Version":2}}
@@ -238,12 +268,20 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1352399,43.0487650000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1971029","TimeStamp":20141101,"NAME":"New York","OSM_ID":1971029,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1578281,42.9478666000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1970767","TimeStamp":20150108,"NAME":"New York","OSM_ID":1970767,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1421799999999,43.0981100000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1970762","TimeStamp":20141101,"NAME":"New York","OSM_ID":1970762,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3539787999999,43.1528861,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1970152","TimeStamp":20150707,"NAME":"New York","OSM_ID":1970152,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2108077,43.1869094,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1969638","TimeStamp":20141121,"NAME":"New York","OSM_ID":1969638,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.0049683,34.7127539000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1969544","TimeStamp":20140911,"NAME":"North Carolina","OSM_ID":1969544,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0743815,43.0901137000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1969486","TimeStamp":20141004,"NAME":"New York","OSM_ID":1969486,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.1956418,34.7034519000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968691","TimeStamp":20140827,"NAME":"North Carolina","OSM_ID":1968691,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.0091161,34.5990100000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968508","TimeStamp":20140829,"NAME":"North Carolina","OSM_ID":1968508,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0005178,43.0769073000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968062","TimeStamp":20150201,"NAME":"New York","OSM_ID":1968062,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1397878,43.0417509000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1967598","TimeStamp":20150728,"NAME":"New York","OSM_ID":1967598,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4423424,42.9722867,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1967405","TimeStamp":20140823,"NAME":"New York","OSM_ID":1967405,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2184354999999,43.0545754,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1967334","TimeStamp":20141029,"NAME":"New York","OSM_ID":1967334,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2723425999999,43.1258133000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1967328","TimeStamp":20150214,"NAME":"New York","OSM_ID":1967328,"Version":2}}
@@ -274,6 +312,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.0389807999999,34.6191157000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1960172","TimeStamp":20141021,"NAME":"North Carolina","OSM_ID":1960172,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.8999982,34.6599497,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959749","TimeStamp":20140829,"NAME":"North Carolina","OSM_ID":1959749,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0705478,43.0643518000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959409","TimeStamp":20141025,"NAME":"New York","OSM_ID":1959409,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0423651,43.1970742,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959183","TimeStamp":20150707,"NAME":"New York","OSM_ID":1959183,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0423651,43.1970742,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959183","TimeStamp":20141027,"NAME":"New York","OSM_ID":1959183,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1351375,43.0408515,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959160","TimeStamp":20141101,"NAME":"New York","OSM_ID":1959160,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9849526,43.0051217000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1958853","TimeStamp":20141022,"NAME":"New York","OSM_ID":1958853,"Version":2}}
@@ -306,6 +348,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1679625,43.0081015000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1951497","TimeStamp":20141107,"NAME":"New York","OSM_ID":1951497,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9809848,34.6056032000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1951319","TimeStamp":20141021,"NAME":"North Carolina","OSM_ID":1951319,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1411598999999,42.9772224000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950651","TimeStamp":20150108,"NAME":"New York","OSM_ID":1950651,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9668126,43.1558690000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950420","TimeStamp":20150707,"NAME":"New York","OSM_ID":1950420,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3759446999999,43.0841404000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950281","TimeStamp":20150309,"NAME":"New York","OSM_ID":1950281,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3321089999999,42.9775865,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950189","TimeStamp":20141209,"NAME":"New York","OSM_ID":1950189,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1102787,42.9934997,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1949954","TimeStamp":20141129,"NAME":"New York","OSM_ID":1949954,"Version":2}}
@@ -317,10 +363,20 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.05042,43.0436800000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948548","TimeStamp":20141014,"NAME":"New York","OSM_ID":1948548,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9983999999999,43.0799200000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948105","TimeStamp":20141014,"NAME":"New York","OSM_ID":1948105,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.87192,43.0432700000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947958","TimeStamp":20150511,"NAME":"New York","OSM_ID":1947958,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.13311,43.05535,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947562","TimeStamp":20141101,"NAME":"New York","OSM_ID":1947562,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9837699999999,43.00397,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947548","TimeStamp":20141117,"NAME":"New York","OSM_ID":1947548,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3419299999999,42.98242,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947191","TimeStamp":20141002,"NAME":"New York","OSM_ID":1947191,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.86662,43.0446900000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946404","TimeStamp":20150511,"NAME":"New York","OSM_ID":1946404,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.20674,43.1864600000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947793","TimeStamp":20150707,"NAME":"New York","OSM_ID":1947793,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.13311,43.05535,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947562","TimeStamp":20141101,"NAME":"New York","OSM_ID":1947562,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9837699999999,43.00397,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947548","TimeStamp":20141117,"NAME":"New York","OSM_ID":1947548,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.11907,43.16432,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947530","TimeStamp":20150707,"NAME":"New York","OSM_ID":1947530,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3419299999999,42.98242,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947191","TimeStamp":20141002,"NAME":"New York","OSM_ID":1947191,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.86662,43.0446900000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946404","TimeStamp":20150511,"NAME":"New York","OSM_ID":1946404,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.17211,43.04096,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946395","TimeStamp":20150728,"NAME":"New York","OSM_ID":1946395,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.19472,34.6803100000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946350","TimeStamp":20140827,"NAME":"North Carolina","OSM_ID":1946350,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.04983,34.58286,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946339","TimeStamp":20140830,"NAME":"North Carolina","OSM_ID":1946339,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.11965,43.04276,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946109","TimeStamp":20141101,"NAME":"New York","OSM_ID":1946109,"Version":2}}
@@ -333,9 +389,17 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.33356,43.15867,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1945159","TimeStamp":20150413,"NAME":"New York","OSM_ID":1945159,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.88271,35.02921,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944929","TimeStamp":20150402,"NAME":"North Carolina","OSM_ID":1944929,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.43172,42.9476000000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944610","TimeStamp":20140823,"NAME":"New York","OSM_ID":1944610,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.21257,43.0605400000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944226","TimeStamp":20141026,"NAME":"New York","OSM_ID":1944226,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2155099999999,43.10896,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944116","TimeStamp":20141117,"NAME":"New York","OSM_ID":1944116,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.93018,35.0304,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944073","TimeStamp":20150402,"NAME":"North Carolina","OSM_ID":1944073,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.12755,43.21736,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944467","TimeStamp":20150707,"NAME":"New York","OSM_ID":1944467,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.21257,43.0605400000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944226","TimeStamp":20141026,"NAME":"New York","OSM_ID":1944226,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2155099999999,43.10896,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944116","TimeStamp":20141117,"NAME":"New York","OSM_ID":1944116,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.93018,35.0304,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944073","TimeStamp":20150402,"NAME":"North Carolina","OSM_ID":1944073,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1453099999999,43.0495900000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943845","TimeStamp":20150728,"NAME":"New York","OSM_ID":1943845,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.24735,43.0448200000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943590","TimeStamp":20141101,"NAME":"New York","OSM_ID":1943590,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1279499999999,43.1325900000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943365","TimeStamp":20141010,"NAME":"New York","OSM_ID":1943365,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2127199999999,43.0612300000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943152","TimeStamp":20141029,"NAME":"New York","OSM_ID":1943152,"Version":2}}
@@ -343,9 +407,19 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1580144,43.0246691,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1942300","TimeStamp":20141101,"NAME":"New York","OSM_ID":1942300,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3361111,43.0877778,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1940515","TimeStamp":20150309,"NAME":"New York","OSM_ID":1940515,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2283333,43.0133333000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1940116","TimeStamp":20150214,"NAME":"New York","OSM_ID":1940116,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1132570999999,42.9497886,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1937677","TimeStamp":20150108,"NAME":"New York","OSM_ID":1937677,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9689185999999,34.7301642,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1935944","TimeStamp":20140911,"NAME":"North Carolina","OSM_ID":1935944,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.33,43.0863889,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1935615","TimeStamp":20150506,"NAME":"New York","OSM_ID":1935615,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0601994,43.0456222,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1938580","TimeStamp":20150728,"NAME":"New York","OSM_ID":1938580,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1132570999999,42.9497886,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1937677","TimeStamp":20150108,"NAME":"New York","OSM_ID":1937677,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1266667,42.9163889000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1937042","TimeStamp":20150728,"NAME":"New York","OSM_ID":1937042,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9738889,43.1477778,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1936007","TimeStamp":20150707,"NAME":"New York","OSM_ID":1936007,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9689185999999,34.7301642,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1935944","TimeStamp":20140911,"NAME":"North Carolina","OSM_ID":1935944,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.33,43.0863889,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1935615","TimeStamp":20150506,"NAME":"New York","OSM_ID":1935615,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3421542999999,43.1572896000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1935320","TimeStamp":20150707,"NAME":"New York","OSM_ID":1935320,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4571584,42.9806217,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1935319","TimeStamp":20140919,"NAME":"New York","OSM_ID":1935319,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1310996999999,43.1213079,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1934739","TimeStamp":20141010,"NAME":"New York","OSM_ID":1934739,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9138889,43.095,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1934162","TimeStamp":20150511,"NAME":"New York","OSM_ID":1934162,"Version":2}}
@@ -353,8 +427,15 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2138889,42.9338889000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1933635","TimeStamp":20141209,"NAME":"New York","OSM_ID":1933635,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2308333,43.0136111,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1933235","TimeStamp":20150214,"NAME":"New York","OSM_ID":1933235,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2561110999999,43.0413889000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1932822","TimeStamp":20150214,"NAME":"New York","OSM_ID":1932822,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.055755,42.9906218,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1931890","TimeStamp":20141129,"NAME":"New York","OSM_ID":1931890,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4193791,43.0378439,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1931809","TimeStamp":20150309,"NAME":"New York","OSM_ID":1931809,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3449322,43.1559007000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1932581","TimeStamp":20150707,"NAME":"New York","OSM_ID":1932581,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.055755,42.9906218,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1931890","TimeStamp":20141129,"NAME":"New York","OSM_ID":1931890,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4193791,43.0378439,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1931809","TimeStamp":20150309,"NAME":"New York","OSM_ID":1931809,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0651991999999,43.1772902000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1931617","TimeStamp":20150707,"NAME":"New York","OSM_ID":1931617,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3938227,43.0625664,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1930107","TimeStamp":20150506,"NAME":"New York","OSM_ID":1930107,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1354795,43.0314553000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1929054","TimeStamp":20141208,"NAME":"New York","OSM_ID":1929054,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0009861,43.0754066000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1928979","TimeStamp":20141004,"NAME":"New York","OSM_ID":1928979,"Version":2}}
@@ -363,9 +444,17 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1330404999999,43.2320393000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1925572","TimeStamp":20141027,"NAME":"New York","OSM_ID":1925572,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1393685,43.0850669000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1924868","TimeStamp":20150201,"NAME":"New York","OSM_ID":1924868,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3944443999999,42.9950000000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1924630","TimeStamp":20140919,"NAME":"New York","OSM_ID":1924630,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2519444,43.1319444000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1924184","TimeStamp":20150214,"NAME":"New York","OSM_ID":1924184,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3657659,43.0656221,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1923927","TimeStamp":20150309,"NAME":"New York","OSM_ID":1923927,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0879785,42.9611774000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1922786","TimeStamp":20150108,"NAME":"New York","OSM_ID":1922786,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0019444,43.0875,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1924299","TimeStamp":20150728,"NAME":"New York","OSM_ID":1924299,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2519444,43.1319444000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1924184","TimeStamp":20150214,"NAME":"New York","OSM_ID":1924184,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3657659,43.0656221,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1923927","TimeStamp":20150309,"NAME":"New York","OSM_ID":1923927,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0879785,42.9611774000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1922786","TimeStamp":20150108,"NAME":"New York","OSM_ID":1922786,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9988888999999,43.0252778,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1922401","TimeStamp":20150728,"NAME":"New York","OSM_ID":1922401,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2860403,42.9561774000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1922047","TimeStamp":20141209,"NAME":"New York","OSM_ID":1922047,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4385467,42.9228448000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1921834","TimeStamp":20140823,"NAME":"New York","OSM_ID":1921834,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2069329999999,43.0608543000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1921524","TimeStamp":20141029,"NAME":"New York","OSM_ID":1921524,"Version":2}}
@@ -384,9 +473,17 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1409781,42.9752360000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1915871","TimeStamp":20150108,"NAME":"New York","OSM_ID":1915871,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9740781,43.1534259000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1915867","TimeStamp":20141011,"NAME":"New York","OSM_ID":1915867,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9697222,43.0025000000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1915416","TimeStamp":20141129,"NAME":"New York","OSM_ID":1915416,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.8811365999999,34.6779442000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1915065","TimeStamp":20140829,"NAME":"North Carolina","OSM_ID":1915065,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1210932,43.0524249000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1914671","TimeStamp":20150108,"NAME":"New York","OSM_ID":1914671,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1552025,42.9895105000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1914559","TimeStamp":20150108,"NAME":"New York","OSM_ID":1914559,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9705556,43.1577778000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1915072","TimeStamp":20150707,"NAME":"New York","OSM_ID":1915072,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.8811365999999,34.6779442000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1915065","TimeStamp":20140829,"NAME":"North Carolina","OSM_ID":1915065,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1210932,43.0524249000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1914671","TimeStamp":20150108,"NAME":"New York","OSM_ID":1914671,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1552025,42.9895105000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1914559","TimeStamp":20150108,"NAME":"New York","OSM_ID":1914559,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2061111,43.1508333,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1914537","TimeStamp":20150707,"NAME":"New York","OSM_ID":1914537,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0743668,42.9797884000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1914467","TimeStamp":20150214,"NAME":"New York","OSM_ID":1914467,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3507651,42.9772883000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1914135","TimeStamp":20141209,"NAME":"New York","OSM_ID":1914135,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0774004,43.0650962,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1913881","TimeStamp":20141025,"NAME":"New York","OSM_ID":1913881,"Version":2}}
@@ -405,16 +502,30 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4957712999999,42.8809013000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1900278","TimeStamp":20140919,"NAME":"New York","OSM_ID":1900278,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9564171,34.9779418000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1900268","TimeStamp":20150402,"NAME":"North Carolina","OSM_ID":1900268,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9763889,43.0244444000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1900061","TimeStamp":20141129,"NAME":"New York","OSM_ID":1900061,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9828080999999,34.6404423000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1899854","TimeStamp":20140926,"NAME":"North Carolina","OSM_ID":1899854,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0268649,43.0492334,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1899998","TimeStamp":20150728,"NAME":"New York","OSM_ID":1899998,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9828080999999,34.6404423000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1899854","TimeStamp":20140926,"NAME":"North Carolina","OSM_ID":1899854,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0247222,43.1894444000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1899532","TimeStamp":20150707,"NAME":"New York","OSM_ID":1899532,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2877073,42.9350666,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1897458","TimeStamp":20141209,"NAME":"New York","OSM_ID":1897458,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4777151,43.0622885000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1897240","TimeStamp":20150506,"NAME":"New York","OSM_ID":1897240,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3235418,43.0378440000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1897135","TimeStamp":20150309,"NAME":"New York","OSM_ID":1897135,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4677146,42.8886788,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1896300","TimeStamp":20140919,"NAME":"New York","OSM_ID":1896300,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3188198,42.905067,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1894868","TimeStamp":20140919,"NAME":"New York","OSM_ID":1894868,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0652777999999,43.1041667000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1894749","TimeStamp":20141117,"NAME":"New York","OSM_ID":1894749,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2608332999999,43.0825,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1894491","TimeStamp":20150214,"NAME":"New York","OSM_ID":1894491,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3894443999999,43.0969444,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1894156","TimeStamp":20150309,"NAME":"New York","OSM_ID":1894156,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.8691666999999,43.0444444,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1893802","TimeStamp":20150511,"NAME":"New York","OSM_ID":1893802,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1199999999999,43.1819444000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1894697","TimeStamp":20150707,"NAME":"New York","OSM_ID":1894697,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2608332999999,43.0825,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1894491","TimeStamp":20150214,"NAME":"New York","OSM_ID":1894491,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3894443999999,43.0969444,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1894156","TimeStamp":20150309,"NAME":"New York","OSM_ID":1894156,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.8691666999999,43.0444444,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1893802","TimeStamp":20150511,"NAME":"New York","OSM_ID":1893802,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9163889,43.1383333000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1892960","TimeStamp":20150707,"NAME":"New York","OSM_ID":1892960,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2921522,43.1664565,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1892645","TimeStamp":20141121,"NAME":"New York","OSM_ID":1892645,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2679838999999,42.9739551000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1892082","TimeStamp":20141209,"NAME":"New York","OSM_ID":1892082,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9777187999999,43.0025097000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1891394","TimeStamp":20141014,"NAME":"New York","OSM_ID":1891394,"Version":2}}
@@ -424,6 +535,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9111374999999,34.9709978000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1889452","TimeStamp":20150402,"NAME":"North Carolina","OSM_ID":1889452,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.0742003999999,34.5476644,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1888956","TimeStamp":20141021,"NAME":"North Carolina","OSM_ID":1888956,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.0041979,34.6359975,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1888838","TimeStamp":20140905,"NAME":"North Carolina","OSM_ID":1888838,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1113119999999,43.1259007,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1888808","TimeStamp":20150707,"NAME":"New York","OSM_ID":1888808,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4488249999999,42.888401,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1887879","TimeStamp":20140919,"NAME":"New York","OSM_ID":1887879,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9822512,35.0062747000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1887272","TimeStamp":20150323,"NAME":"North Carolina","OSM_ID":1887272,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2075,43.1091667000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1886957","TimeStamp":20150214,"NAME":"New York","OSM_ID":1886957,"Version":2}}
@@ -437,6 +552,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2775,43.1736111000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1884521","TimeStamp":20141121,"NAME":"New York","OSM_ID":1884521,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1526727,43.0458372000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1883450","TimeStamp":20140908,"NAME":"New York","OSM_ID":1883450,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1454816,43.0250541,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1883279","TimeStamp":20141208,"NAME":"New York","OSM_ID":1883279,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9613065,43.1100675000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1882500","TimeStamp":20150707,"NAME":"New York","OSM_ID":1882500,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1580556,43.0752778,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1882232","TimeStamp":20150201,"NAME":"New York","OSM_ID":1882232,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4425477,42.9736061,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1881849","TimeStamp":20140823,"NAME":"New York","OSM_ID":1881849,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4613889,43.0575000000001,0]},"properties":{"UserName":"westford","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1881788","TimeStamp":20150506,"NAME":"New York","OSM_ID":1881788,"Version":2}}

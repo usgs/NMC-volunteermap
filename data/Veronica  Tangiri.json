@@ -165,6 +165,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.2934011,38.6075861,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944635","TimeStamp":20140103,"NAME":"Virginia","OSM_ID":1944635,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.2611087,38.6844235,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944318","TimeStamp":20131215,"NAME":"Virginia","OSM_ID":1944318,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.3406615,38.6742363000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943276","TimeStamp":20131215,"NAME":"Virginia","OSM_ID":1943276,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5513,38.813705,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943090","TimeStamp":20150731,"NAME":"Virginia","OSM_ID":1943090,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5513794,38.815392,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943090","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1943090,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.8102712,38.5542903,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1942887","TimeStamp":20140724,"NAME":"Virginia","OSM_ID":1942887,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.4460989999999,38.7326159,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1942551","TimeStamp":20140113,"NAME":"Virginia","OSM_ID":1942551,"Version":2}}
@@ -197,6 +201,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.2380565999999,38.8842796000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1936554","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1936554,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.2758176999999,38.755114,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1936452","TimeStamp":20141210,"NAME":"Virginia","OSM_ID":1936452,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.1333331,38.4995697000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1936148","TimeStamp":20140723,"NAME":"Virginia","OSM_ID":1936148,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5086009999999,38.8101142,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1936137","TimeStamp":20150731,"NAME":"Virginia","OSM_ID":1936137,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5086009999999,38.8101142,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1936137","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1936137,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.3919504,39.0776065000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1935730","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1935730,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.6477692,38.7492833000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1935550","TimeStamp":20140723,"NAME":"Virginia","OSM_ID":1935550,"Version":2}}
@@ -257,6 +265,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.674992,38.779838,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1923223","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1923223,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5277627999999,38.4920688,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1923129","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1923129,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.2355378999999,38.8370569000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1922841","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1922841,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5530462999999,38.8490022,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1922192","TimeStamp":20150731,"NAME":"Virginia","OSM_ID":1922192,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5530462999999,38.8490022,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1922192","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1922192,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.4313764999999,38.7328936000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1922185","TimeStamp":20140113,"NAME":"Virginia","OSM_ID":1922185,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.0491684,37.19404,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1922008","TimeStamp":20141227,"NAME":"Virginia","OSM_ID":1922008,"Version":2}}
@@ -267,6 +279,11 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.0144418,39.1067724000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1921173","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1921173,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5605419,38.5273457000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1921072","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1921072,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.0722201,38.9728870000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1920847","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1920847,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.3149811,38.2967941000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1920774","TimeStamp":20151017,"NAME":"Virginia","OSM_ID":1920774,"Version":4}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.3149811,38.2967941000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1920774","TimeStamp":20151017,"NAME":"Virginia","OSM_ID":1920774,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.3149811,38.2967941000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1920774","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1920774,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.4283419,38.3615172,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1919610","TimeStamp":20141210,"NAME":"Virginia","OSM_ID":1919610,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0885891,38.7067822000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1919379","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1919379,"Version":2}}
@@ -282,6 +299,11 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.4241736,39.0070525,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1916554","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1916554,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.1016661,39.1756598000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1916469","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1916469,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.2633172,38.7820578000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1915603","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1915603,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5458237999999,38.8140031,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1914979","TimeStamp":20150731,"NAME":"Virginia","OSM_ID":1914979,"Version":4}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5458237999999,38.8140031,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1914979","TimeStamp":20150731,"NAME":"Virginia","OSM_ID":1914979,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5458237999999,38.8140031,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1914979","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1914979,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.0858314,38.8812236000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1914853","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1914853,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5255409,38.3992931000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1914794","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1914794,"Version":2}}
@@ -376,6 +398,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.2297013,38.2876274000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1892863","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1892863,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.4402853,38.9795533000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1892825","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1892825,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.3580376,38.2995720000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1892712","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1892712,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.538046,38.8398357,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1892513","TimeStamp":20150731,"NAME":"Virginia","OSM_ID":1892513,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.538046,38.8398357,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1892513","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1892513,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.442,38.6728000000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1892362","TimeStamp":20140113,"NAME":"Virginia","OSM_ID":1892362,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.1260903,38.8637233000001,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1892153","TimeStamp":20141226,"NAME":"Virginia","OSM_ID":1892153,"Version":2}}
@@ -410,6 +436,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.9311066,38.6451203,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1884851","TimeStamp":20140813,"NAME":"Virginia","OSM_ID":1884851,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.4497319,38.3309622,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1884582","TimeStamp":20141210,"NAME":"Virginia","OSM_ID":1884582,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.7694367,38.1129137,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1883842","TimeStamp":20141209,"NAME":"Virginia","OSM_ID":1883842,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5308238,38.8476133,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1883689","TimeStamp":20150731,"NAME":"Virginia","OSM_ID":1883689,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5308238,38.8476133,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1883689","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1883689,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0774749,38.2629065,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1883142","TimeStamp":20140403,"NAME":"Virginia","OSM_ID":1883142,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.8883286,38.3481854,0]},"properties":{"UserName":"Veronica  Tangiri","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1883044","TimeStamp":20141210,"NAME":"Virginia","OSM_ID":1883044,"Version":2}}

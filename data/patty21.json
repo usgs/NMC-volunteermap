@@ -1,6 +1,23 @@
 {"name":"NewFeatureType","type":"FeatureCollection"
 ,"features":[
+<<<<<<< HEAD
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9423732,40.1624795000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2085752","TimeStamp":20150602,"NAME":"Nebraska","OSM_ID":2085752,"Version":1}}
+=======
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.472786,42.2358683000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2090508","TimeStamp":20151223,"NAME":"Nebraska","OSM_ID":2090508,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.383392,40.5330191,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2090037","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":2090037,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.3842503,40.5321711,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2090036","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":2090036,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.1075884,40.3436389,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2090033","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":2090033,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.5334374,40.4520148,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2090032","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":2090032,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.3711315,40.4182722,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2090031","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":2090031,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.2714519,41.9035852000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086599","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":2086599,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.045752,42.0452837,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086597","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":2086597,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.5216831,42.0422162,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086595","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":2086595,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.751366,41.9978122000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086594","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":2086594,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.7625455,42.0004672000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086593","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":2086593,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.8718857,42.0975364000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086592","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":2086592,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.7386898,41.5564911000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2086583","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":2086583,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9423732,40.1624795000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2085752","TimeStamp":20150602,"NAME":"Nebraska","OSM_ID":2085752,"Version":1}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.944991,40.1636930000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2085751","TimeStamp":20150602,"NAME":"Nebraska","OSM_ID":2085751,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.1606836,40.1109528000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2085750","TimeStamp":20150602,"NAME":"Nebraska","OSM_ID":2085750,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5948574,40.0592195,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2085749","TimeStamp":20150602,"NAME":"Nebraska","OSM_ID":2085749,"Version":1}}
@@ -138,9 +155,17 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.8306223,40.1313414000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080865","TimeStamp":20150602,"NAME":"Nebraska","OSM_ID":2080865,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.1334557,41.0823883,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2079712","TimeStamp":20150220,"NAME":"Nebraska","OSM_ID":2079712,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.8393068999999,40.3911249000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2078835","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":2078835,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.7033178,41.4653060000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2077084","TimeStamp":20150407,"NAME":"Nebraska","OSM_ID":2077084,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.098017,40.9068666000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2076547","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":2076547,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.3898849999999,40.7026483000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2076517","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":2076517,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.6416277,40.5155353000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2078713","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":2078713,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.7033178,41.4653060000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2077084","TimeStamp":20150407,"NAME":"Nebraska","OSM_ID":2077084,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.098017,40.9068666000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2076547","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":2076547,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.3898849999999,40.7026483000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2076517","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":2076517,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.8707231,42.0982004000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2076138","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":2076138,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.072816,41.3129553000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2076064","TimeStamp":20150203,"NAME":"Nebraska","OSM_ID":2076064,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6828601999999,40.2361807,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2076025","TimeStamp":20150602,"NAME":"Nebraska","OSM_ID":2076025,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9305358999999,41.2495673000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2075684","TimeStamp":20150127,"NAME":"Nebraska","OSM_ID":2075684,"Version":2}}
@@ -148,15 +173,28 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6107766,41.3969836000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074843","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":2074843,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0459244,41.2332031,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074225","TimeStamp":20150130,"NAME":"Nebraska","OSM_ID":2074225,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6017358999999,40.0599646000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074211","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":2074211,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.5337293,40.4557950000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074186","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":2074186,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.0415178,42.0436193,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073732","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":2073732,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.1374948,41.2582592000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073254","TimeStamp":20150203,"NAME":"Nebraska","OSM_ID":2073254,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.9274081999999,40.0095045,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073187","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":2073187,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0245097,41.2020672,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2072975","TimeStamp":20150130,"NAME":"Nebraska","OSM_ID":2072975,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.8513771999999,40.6765520000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071758","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":2071758,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.1077119,40.3488116,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071414","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":2071414,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9592393999999,41.3364372,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2070726","TimeStamp":20150128,"NAME":"Nebraska","OSM_ID":2070726,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0594523,41.4473243,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2070229","TimeStamp":20150407,"NAME":"Nebraska","OSM_ID":2070229,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.7734535,40.2291522,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067712","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":2067712,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.7305853,40.4824351,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067280","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":2067280,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.2312692,41.286747,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2065770","TimeStamp":20150203,"NAME":"Nebraska","OSM_ID":2065770,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.9272754,42.0226121000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2065707","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":2065707,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9937069,41.2861138000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2063779","TimeStamp":20150123,"NAME":"Nebraska","OSM_ID":2063779,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.010519,41.3145178,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2063778","TimeStamp":20150123,"NAME":"Nebraska","OSM_ID":2063778,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0263011,41.2720846,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2063777","TimeStamp":20150123,"NAME":"Nebraska","OSM_ID":2063777,"Version":1}}
@@ -214,11 +252,19 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6689099,40.8074425,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1875131","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1875131,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.9715919,41.3629677000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874887","TimeStamp":20150407,"NAME":"Nebraska","OSM_ID":1874887,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9169587,40.3374508000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874832","TimeStamp":20150429,"NAME":"Nebraska","OSM_ID":1874832,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.6686789,41.8777931000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874752","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":1874752,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.1136744999999,41.2395574000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874703","TimeStamp":20150203,"NAME":"Nebraska","OSM_ID":1874703,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3696504,41.4311184000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874701","TimeStamp":20150430,"NAME":"Nebraska","OSM_ID":1874701,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.0794489,40.7107454000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874609","TimeStamp":20150424,"NAME":"Nebraska","OSM_ID":1874609,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6496041,40.7776683000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874496","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1874496,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1187070999999,40.6493837,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874259","TimeStamp":20150424,"NAME":"Nebraska","OSM_ID":1874259,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.8649475999999,40.5881967,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874230","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1874230,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.3756491999999,40.4601389000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874048","TimeStamp":20150427,"NAME":"Nebraska","OSM_ID":1874048,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0403325,41.2483427000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1873917","TimeStamp":20150123,"NAME":"Nebraska","OSM_ID":1873917,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.009404,41.3183725000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1873830","TimeStamp":20150123,"NAME":"Nebraska","OSM_ID":1873830,"Version":2}}
@@ -236,6 +282,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0290558,41.2713086000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1873568","TimeStamp":20150123,"NAME":"Nebraska","OSM_ID":1873568,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6204332,40.8212586000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1873549","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1873549,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0070444999999,41.3196075000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1873495","TimeStamp":20150123,"NAME":"Nebraska","OSM_ID":1873495,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.8617974,42.1007372,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1873420","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":1873420,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.95627,41.2638900000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1873414","TimeStamp":20150123,"NAME":"Nebraska","OSM_ID":1873414,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.7355497,40.7844054,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1873263","TimeStamp":20150424,"NAME":"Nebraska","OSM_ID":1873263,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9503836,41.219498,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1873256","TimeStamp":20150122,"NAME":"Nebraska","OSM_ID":1873256,"Version":2}}
@@ -300,6 +350,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.96725,41.13275,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1868795","TimeStamp":20150122,"NAME":"Nebraska","OSM_ID":1868795,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.300594,40.8445405000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1868736","TimeStamp":20150429,"NAME":"Nebraska","OSM_ID":1868736,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7048536,40.8009098000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1868681","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1868681,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.6455175,41.8729059,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1868664","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":1868664,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.063385,41.2799130000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1868610","TimeStamp":20150203,"NAME":"Nebraska","OSM_ID":1868610,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.15554,41.1963428,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1868481","TimeStamp":20150203,"NAME":"Nebraska","OSM_ID":1868481,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6882604,40.855332,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1868290","TimeStamp":20150430,"NAME":"Nebraska","OSM_ID":1868290,"Version":2}}
@@ -399,6 +453,11 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9865834999999,41.3148840000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862357","TimeStamp":20150123,"NAME":"Nebraska","OSM_ID":1862357,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6387693999999,40.8303405,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862321","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1862321,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.1023198,41.242282,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862257","TimeStamp":20150203,"NAME":"Nebraska","OSM_ID":1862257,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.4738073999999,42.2387422,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862231","TimeStamp":20151223,"NAME":"Nebraska","OSM_ID":1862231,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.8742818,42.1060466000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862063","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":1862063,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0607851999999,41.4461433000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1861944","TimeStamp":20150407,"NAME":"Nebraska","OSM_ID":1861944,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9933609,41.261803,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1861764","TimeStamp":20150130,"NAME":"Nebraska","OSM_ID":1861764,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.0144777,40.8661314,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1861618","TimeStamp":20150427,"NAME":"Nebraska","OSM_ID":1861618,"Version":2}}
@@ -519,6 +578,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.9954307,42.8234818,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853370","TimeStamp":20150416,"NAME":"Nebraska","OSM_ID":1853370,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7366277,40.8612296000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853269","TimeStamp":20150429,"NAME":"Nebraska","OSM_ID":1853269,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.1738662,41.1732069,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853205","TimeStamp":20150203,"NAME":"Nebraska","OSM_ID":1853205,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.0259844,40.6668572,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1852820","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1852820,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.08565,40.6983076000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1852793","TimeStamp":20150424,"NAME":"Nebraska","OSM_ID":1852793,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.348534,41.4219340000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1852682","TimeStamp":20150430,"NAME":"Nebraska","OSM_ID":1852682,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.8553932999999,42.5472085000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1852440","TimeStamp":20150416,"NAME":"Nebraska","OSM_ID":1852440,"Version":2}}
@@ -527,6 +590,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3337842,40.917023,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1852189","TimeStamp":20150422,"NAME":"Nebraska","OSM_ID":1852189,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7505424,40.7899876000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1852037","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1852037,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.1013128,40.6835669000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851953","TimeStamp":20150424,"NAME":"Nebraska","OSM_ID":1851953,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.6701925,41.860954,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851832","TimeStamp":20150717,"NAME":"Nebraska","OSM_ID":1851832,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3413864,40.8987684000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851799","TimeStamp":20150422,"NAME":"Nebraska","OSM_ID":1851799,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.2097238,42.8043138,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851751","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1851751,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.8607732,40.6879916,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851711","TimeStamp":20150424,"NAME":"Nebraska","OSM_ID":1851711,"Version":2}}
@@ -578,6 +645,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3600102999999,41.6885500000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848317","TimeStamp":20150416,"NAME":"Nebraska","OSM_ID":1848317,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.1594895,41.2062354,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848163","TimeStamp":20150203,"NAME":"Nebraska","OSM_ID":1848163,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.9951531,42.8243472,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1847829","TimeStamp":20150416,"NAME":"Nebraska","OSM_ID":1847829,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.6555742,41.8673889,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1847826","TimeStamp":20150717,"NAME":"Nebraska","OSM_ID":1847826,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9535485,41.3100785,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1847794","TimeStamp":20150123,"NAME":"Nebraska","OSM_ID":1847794,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3788390999999,41.4364273,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1847765","TimeStamp":20150430,"NAME":"Nebraska","OSM_ID":1847765,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.374725,41.435635,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1847750","TimeStamp":20150430,"NAME":"Nebraska","OSM_ID":1847750,"Version":2}}
@@ -645,12 +716,20 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6164497999999,40.8359647,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842973","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1842973,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.7409643999999,40.7848055000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842821","TimeStamp":20150424,"NAME":"Nebraska","OSM_ID":1842821,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.3721091,41.0456049000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842811","TimeStamp":20150407,"NAME":"Nebraska","OSM_ID":1842811,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.8718995,42.1061127,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842748","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":1842748,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6301662,41.2242947,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842676","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1842676,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6672746,40.8032832000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842621","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1842621,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.1590861,41.3654236,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842564","TimeStamp":20150429,"NAME":"Nebraska","OSM_ID":1842564,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.03738,41.2098343000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842550","TimeStamp":20150129,"NAME":"Nebraska","OSM_ID":1842550,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6356016999999,40.8093468000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842445","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1842445,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.7205524,40.8436827,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842435","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1842435,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.7454943,41.558362,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842411","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":1842411,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.5013797,41.8128123000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842354","TimeStamp":20150416,"NAME":"Nebraska","OSM_ID":1842354,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0104732999999,41.2175585000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842344","TimeStamp":20150130,"NAME":"Nebraska","OSM_ID":1842344,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0492472,41.1823035,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842322","TimeStamp":20150129,"NAME":"Nebraska","OSM_ID":1842322,"Version":2}}
@@ -679,12 +758,20 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9316808999999,41.2494431000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1833965","TimeStamp":20150114,"NAME":"Nebraska","OSM_ID":1833965,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.92645,41.1766700000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1832981","TimeStamp":20150122,"NAME":"Nebraska","OSM_ID":1832981,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.8440899999999,40.38638,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1832851","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1832851,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.66261,41.23675,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1832749","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":1832749,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.04014,41.1416100000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1832594","TimeStamp":20150130,"NAME":"Nebraska","OSM_ID":1832594,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.04014,41.1416100000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1832594","TimeStamp":20150127,"NAME":"Nebraska","OSM_ID":1832594,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0197765999999,42.2341532,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1832487","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1832487,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.01124,40.1757900000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1832480","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1832480,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9571971,41.2983474000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1832057","TimeStamp":20150123,"NAME":"Nebraska","OSM_ID":1832057,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6025099999999,40.52565,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1832049","TimeStamp":20150424,"NAME":"Nebraska","OSM_ID":1832049,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.6623571,41.2355755,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831990","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":1831990,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.92629,41.96155,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831985","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1831985,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.86224,42.26838,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831892","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1831892,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.62576,40.20183,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831697","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1831697,"Version":2}}
@@ -697,6 +784,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.71982,41.1283100000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831053","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1831053,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4169199999999,42.0338100000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830887","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1830887,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.86308,40.6767,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830869","TimeStamp":20150424,"NAME":"Nebraska","OSM_ID":1830869,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.4778143,42.2374467000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830776","TimeStamp":20151223,"NAME":"Nebraska","OSM_ID":1830776,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.93586,41.2553500000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830733","TimeStamp":20150120,"NAME":"Nebraska","OSM_ID":1830733,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.08038,40.6958100000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830684","TimeStamp":20150424,"NAME":"Nebraska","OSM_ID":1830684,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.39239,40.5813000000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830682","TimeStamp":20150424,"NAME":"Nebraska","OSM_ID":1830682,"Version":2}}
@@ -782,6 +873,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4310257,42.0341976,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1826122","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1826122,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.1499146,40.1084706,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1826093","TimeStamp":20150602,"NAME":"Nebraska","OSM_ID":1826093,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9774167,41.2564,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1826022","TimeStamp":20150123,"NAME":"Nebraska","OSM_ID":1826022,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.4706118,42.2324715,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825995","TimeStamp":20151223,"NAME":"Nebraska","OSM_ID":1825995,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7060319,41.8433871,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825994","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1825994,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.1334487999999,41.2499652000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825928","TimeStamp":20150429,"NAME":"Nebraska","OSM_ID":1825928,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3880032,40.590469,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825895","TimeStamp":20150424,"NAME":"Nebraska","OSM_ID":1825895,"Version":2}}
@@ -871,14 +966,28 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.5744766,41.9972172000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1807873","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1807873,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.660626,40.6036255000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1807726","TimeStamp":20150430,"NAME":"Nebraska","OSM_ID":1807726,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3278286,42.1055596,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1807684","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1807684,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5711597,41.6808425,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1807612","TimeStamp":20150416,"NAME":"Nebraska","OSM_ID":1807612,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3106169,40.9447344000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1807609","TimeStamp":20150422,"NAME":"Nebraska","OSM_ID":1807609,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3678483,41.6675116000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1807580","TimeStamp":20150416,"NAME":"Nebraska","OSM_ID":1807580,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.0205062,40.6712926000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1807649","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1807649,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5711597,41.6808425,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1807612","TimeStamp":20150416,"NAME":"Nebraska","OSM_ID":1807612,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3106169,40.9447344000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1807609","TimeStamp":20150422,"NAME":"Nebraska","OSM_ID":1807609,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3678483,41.6675116000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1807580","TimeStamp":20150416,"NAME":"Nebraska","OSM_ID":1807580,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.965436,40.3777798,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1807497","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1807497,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.4000109,40.7111117000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1807285","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1807285,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3414352999999,40.9011218000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1807243","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1807243,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.3764038,41.0780543000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1807237","TimeStamp":20150407,"NAME":"Nebraska","OSM_ID":1807237,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.4497549,42.2241602,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1806953","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1806953,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4641483,40.0872230000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1806919","TimeStamp":20150602,"NAME":"Nebraska","OSM_ID":1806919,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.9104347,40.4208377000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1806884","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1806884,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.872379,40.3850038000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1806773","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1806773,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.5326483,40.4230625000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1806766","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1806766,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0436731999999,41.2112459000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1806553","TimeStamp":20150129,"NAME":"Nebraska","OSM_ID":1806553,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4247746,42.0438933,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1806469","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1806469,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.9448025999999,40.1019576,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1806456","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1806456,"Version":2}}
@@ -887,6 +996,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5019271,40.0727797000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1806268","TimeStamp":20150602,"NAME":"Nebraska","OSM_ID":1806268,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.2822318,40.6975014000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1806218","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1806218,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.029739,41.2363878,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805960","TimeStamp":20150123,"NAME":"Nebraska","OSM_ID":1805960,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.6479293,40.4447298000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805769","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1805769,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5733183,40.2183333,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805580","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1805580,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9419581,41.1919432,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805454","TimeStamp":20150122,"NAME":"Nebraska","OSM_ID":1805454,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6997541,41.8449989000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805413","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1805413,"Version":2}}
@@ -899,6 +1012,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.2142039,41.4600104,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1804631","TimeStamp":20150407,"NAME":"Nebraska","OSM_ID":1804631,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.5773396,42.5805557,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1804599","TimeStamp":20150416,"NAME":"Nebraska","OSM_ID":1804599,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7889128,40.5419469,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1804574","TimeStamp":20150424,"NAME":"Nebraska","OSM_ID":1804574,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.0371036,42.0449976,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1804562","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":1804562,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.2353365,40.8752900000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1804535","TimeStamp":20150422,"NAME":"Nebraska","OSM_ID":1804535,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5231107,42.0466710000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1804346","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1804346,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.8006313,40.5614035,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1804189","TimeStamp":20150430,"NAME":"Nebraska","OSM_ID":1804189,"Version":2}}
@@ -931,6 +1048,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3297750999999,40.343624,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1801450","TimeStamp":20150430,"NAME":"Nebraska","OSM_ID":1801450,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.5541982,41.9877723000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1801345","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1801345,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.5930842,41.7855522,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1801302","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1801302,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.8082305,40.5524957000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1801288","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1801288,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7217079,40.1463957,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1801232","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1801232,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5964306,40.1888931,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1801212","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1801212,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.4753441999999,40.8594572000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1801192","TimeStamp":20150422,"NAME":"Nebraska","OSM_ID":1801192,"Version":2}}
@@ -949,9 +1070,19 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.247802,41.2669433,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1799458","TimeStamp":20150429,"NAME":"Nebraska","OSM_ID":1799458,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.966125,41.3347192000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1799155","TimeStamp":20150128,"NAME":"Nebraska","OSM_ID":1799155,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.62837,42.2780521,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1799018","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1799018,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0414049,41.1758322000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798963","TimeStamp":20150129,"NAME":"Nebraska","OSM_ID":1798963,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0261205,40.8525012000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798788","TimeStamp":20150429,"NAME":"Nebraska","OSM_ID":1798788,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9908632999999,40.2991688000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798736","TimeStamp":20150429,"NAME":"Nebraska","OSM_ID":1798736,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.0376262,40.6705623,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798982","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1798982,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0414049,41.1758322000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798963","TimeStamp":20150129,"NAME":"Nebraska","OSM_ID":1798963,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0261205,40.8525012000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798788","TimeStamp":20150429,"NAME":"Nebraska","OSM_ID":1798788,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9908632999999,40.2991688000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798736","TimeStamp":20150429,"NAME":"Nebraska","OSM_ID":1798736,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.0976608,40.3366651000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798580","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1798580,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.2743749,42.0885746000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798460","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":1798460,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.7534879,40.4452857000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798429","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1798429,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.7211048,40.4769463000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798366","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1798366,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7603005,40.5661133,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798215","TimeStamp":20150424,"NAME":"Nebraska","OSM_ID":1798215,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3880963,40.2202797,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798134","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1798134,"Version":2}}
@@ -961,6 +1092,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.768918,41.4788927000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1797861","TimeStamp":20150416,"NAME":"Nebraska","OSM_ID":1797861,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9958492,41.2388878,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1797815","TimeStamp":20150123,"NAME":"Nebraska","OSM_ID":1797815,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6836628999999,41.692232,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1797810","TimeStamp":20150416,"NAME":"Nebraska","OSM_ID":1797810,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.0896051,40.3441655,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1797761","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1797761,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.542842,40.4522364000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1797725","TimeStamp":20150430,"NAME":"Nebraska","OSM_ID":1797725,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.5308527,40.2761111,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1797707","TimeStamp":20150427,"NAME":"Nebraska","OSM_ID":1797707,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3478307,40.2775126000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1797663","TimeStamp":20150430,"NAME":"Nebraska","OSM_ID":1797663,"Version":2}}
@@ -974,9 +1109,17 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8736345999999,40.8130598000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1796438","TimeStamp":20150429,"NAME":"Nebraska","OSM_ID":1796438,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.8748022,40.7561248000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1796297","TimeStamp":20150422,"NAME":"Nebraska","OSM_ID":1796297,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.8311068,40.3127792000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1796295","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1796295,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.9406438,41.6141761000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1796166","TimeStamp":20150407,"NAME":"Nebraska","OSM_ID":1796166,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9341956,40.2919460000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1796143","TimeStamp":20150429,"NAME":"Nebraska","OSM_ID":1796143,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4064299999999,40.2488905000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795854","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1795854,"Version":2}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.4015315,40.5491742,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1796204","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1796204,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.9406438,41.6141761000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1796166","TimeStamp":20150407,"NAME":"Nebraska","OSM_ID":1796166,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9341956,40.2919460000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1796143","TimeStamp":20150429,"NAME":"Nebraska","OSM_ID":1796143,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4064299999999,40.2488905000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795854","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1795854,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.5629273,40.3941731,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795803","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1795803,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.2925494,40.2277902000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795786","TimeStamp":20150430,"NAME":"Nebraska","OSM_ID":1795786,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8939162,40.4508362,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795577","TimeStamp":20150429,"NAME":"Nebraska","OSM_ID":1795577,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.4403364999999,40.3516801000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795568","TimeStamp":20150430,"NAME":"Nebraska","OSM_ID":1795568,"Version":2}}
@@ -1031,6 +1174,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.4279243,40.2422274,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1791360","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1791360,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.8605507999999,40.1961122000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1791278","TimeStamp":20150602,"NAME":"Nebraska","OSM_ID":1791278,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3681147,40.5986245,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1791270","TimeStamp":20150424,"NAME":"Nebraska","OSM_ID":1791270,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.1926349,40.5566734000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1791029","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1791029,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7928302,40.8855683,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1790963","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1790963,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6008601,41.3880572,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1790753","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1790753,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.5497501,41.8008287000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1790752","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1790752,"Version":2}}
@@ -1097,6 +1244,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9486396999999,40.4050028,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1785630","TimeStamp":20150429,"NAME":"Nebraska","OSM_ID":1785630,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9866958,40.481115,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1785571","TimeStamp":20150429,"NAME":"Nebraska","OSM_ID":1785571,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.8759133999999,40.7558470000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1785435","TimeStamp":20150422,"NAME":"Nebraska","OSM_ID":1785435,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.0202327,40.6715661000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1785220","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1785220,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.3990535,40.4188853000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1785175","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1785175,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9127877,41.0105547000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1784935","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1784935,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.1291854,41.1902767,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1784806","TimeStamp":20150203,"NAME":"Nebraska","OSM_ID":1784806,"Version":2}}
@@ -1135,6 +1286,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3731094,40.2058462000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1781947","TimeStamp":20150430,"NAME":"Nebraska","OSM_ID":1781947,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3761649,40.1761241,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1781941","TimeStamp":20150430,"NAME":"Nebraska","OSM_ID":1781941,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.2353363999999,40.8736233000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1781846","TimeStamp":20150422,"NAME":"Nebraska","OSM_ID":1781846,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.574863,41.9674986000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1781830","TimeStamp":20150716,"NAME":"Nebraska","OSM_ID":1781830,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.7964709999999,41.4891779000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1781823","TimeStamp":20150407,"NAME":"Nebraska","OSM_ID":1781823,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9850145,41.3272195000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1781745","TimeStamp":20150123,"NAME":"Nebraska","OSM_ID":1781745,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7455811,40.3055558,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1781725","TimeStamp":20150427,"NAME":"Nebraska","OSM_ID":1781725,"Version":2}}
@@ -1162,6 +1317,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6227632,40.0675018000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1779454","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1779454,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9255873,41.3936186,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1779279","TimeStamp":20150407,"NAME":"Nebraska","OSM_ID":1779279,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.4361694,40.3344577,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1779244","TimeStamp":20150430,"NAME":"Nebraska","OSM_ID":1779244,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.4830901,42.2497163,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1778963","TimeStamp":20151223,"NAME":"Nebraska","OSM_ID":1778963,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3642173,42.0422269000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1778921","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1778921,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9758624,40.6288937,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1778761","TimeStamp":20150424,"NAME":"Nebraska","OSM_ID":1778761,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7986521,40.1613965000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1778607","TimeStamp":20150430,"NAME":"Nebraska","OSM_ID":1778607,"Version":2}}
@@ -1172,6 +1331,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.8330488,40.1380568000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1778253","TimeStamp":20150602,"NAME":"Nebraska","OSM_ID":1778253,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9400052,40.7413913,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1778225","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1778225,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0100154,41.3113866,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1777956","TimeStamp":20150123,"NAME":"Nebraska","OSM_ID":1777956,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.236829,40.3936086000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1777940","TimeStamp":20151209,"NAME":"Nebraska","OSM_ID":1777940,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.654432,40.2044454000001,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1777928","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1777928,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4730374,40.1519443,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1777741","TimeStamp":20150309,"NAME":"Nebraska","OSM_ID":1777741,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1919931,42.171392,0]},"properties":{"UserName":"patty21","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1777597","TimeStamp":20150423,"NAME":"Nebraska","OSM_ID":1777597,"Version":2}}

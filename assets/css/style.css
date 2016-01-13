@@ -11,7 +11,11 @@ html, body {
 }
 .navbar-inverse {
   background-color: #16a085;
+<<<<<<< HEAD
   z-index: 99999;
+=======
+  z-index: 1010;
+>>>>>>> gh-pages
 }
 #closePanel {
   float: right;
@@ -24,7 +28,11 @@ html, body {
 }
 #sidebar {
   background-color: #1abc9c;
+<<<<<<< HEAD
   z-index: 9999;
+=======
+  z-index: 1000;
+>>>>>>> gh-pages
 }
 #sidebarHeader {
   padding-bottom: 5;
@@ -215,3 +223,34 @@ html body div#map.leaflet-container.leaflet-fade-anim div.leaflet-map-pane div.l
   border-radius: 0px;
   -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
 }
+<<<<<<< HEAD
+=======
+
+li { cursor: pointer; cursor: hand; }
+li:hover {color: #ffffff;}
+#badge{width: 400; height: auto}
+.modal-content {
+   background-color: rgba(0, 0, 0, 0.0);
+   border: 0px solid rgba(0, 0, 0, 0.2);
+    border-radius: 0px;
+    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.5);
+}
+html body.modal-open div#about.modal.fade.in div.modal-dialog div.modal-content{
+   background-color: rgba(255, 255, 255, 1);
+   border: 0px solid rgba(159, 159, 159, 1);
+    border-radius: 5px;
+    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.5);
+}
+html body.modal-open div#about.modal.fade.in div.modal-dialog div.modal-content div.modal-header button.close{
+  margin-right: 0px;
+}
+.close{
+  color: #1abc9c;
+  opacity: 0.8;
+  font-size: 35px;
+  margin-right: 50;
+}
+.close:hover{
+  color:#fff;
+}
+>>>>>>> gh-pages

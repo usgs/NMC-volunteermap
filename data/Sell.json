@@ -1,6 +1,11 @@
 {"name":"NewFeatureType","type":"FeatureCollection"
 ,"features":[
+<<<<<<< HEAD
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-116.3098488,45.5360136,0]},"properties":{"UserName":"Sell","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080207","TimeStamp":20150311,"NAME":"Idaho","OSM_ID":2080207,"Version":2}}
+=======
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.2792806,45.6359428000001,0]},"properties":{"UserName":"Sell","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2087640","TimeStamp":20150831,"NAME":"Idaho","OSM_ID":2087640,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.3098488,45.5360136,0]},"properties":{"UserName":"Sell","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080207","TimeStamp":20150311,"NAME":"Idaho","OSM_ID":2080207,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.3002932,45.7622203000001,0]},"properties":{"UserName":"Sell","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2075780","TimeStamp":20150311,"NAME":"Idaho","OSM_ID":2075780,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-115.679123,45.2658897000001,0]},"properties":{"UserName":"Sell","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2062616","TimeStamp":20141007,"NAME":"Idaho","OSM_ID":2062616,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.3197311,45.4183874,0]},"properties":{"UserName":"Sell","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2062615","TimeStamp":20141006,"NAME":"Idaho","OSM_ID":2062615,"Version":1}}

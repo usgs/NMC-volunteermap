@@ -42,6 +42,21 @@ L.control.layers(basemaps, null, {
 }).addTo(map);
 
 //Create list of users automatic
+<<<<<<< HEAD
+=======
+var users = {};
+
+$.ajax({
+  url: "./data/users.json",
+  async: false,
+  dataType: 'json',
+  success: function(data) {
+    users = data
+  }
+});
+
+
+>>>>>>> gh-pages
 var suma = 0;
 var o = '';
 for (var i = 0; i < users.length; i++) {
@@ -49,8 +64,16 @@ for (var i = 0; i < users.length; i++) {
     '<a class="users" href="#' + users[i].UserName + '"> ' + users[i].UserName + ' - ' + users[i].TotalUniqu + '</a>' +
     '</li>';
 };
+<<<<<<< HEAD
 $('#userlayers').append(o);
 
+=======
+
+$('#userlayers').append(o);
+
+
+
+>>>>>>> gh-pages
 //typeahead set-up
 var substringMatcher = function(strs) {
   return function findMatches(q, cb) {
@@ -230,6 +253,17 @@ $('#userlayers li').click(function() {
         }
       }
     }
+<<<<<<< HEAD
+=======
+    var countList = $('#earnedBadges li').length;
+    console.log(countList);
+    $('#earnedBadges li').click(function() {
+      var badge = $(this).html();
+      var badgeID = "'#" + badge + "'";
+      $("#badgeModal").modal('show')
+      $('#badge').attr('src', './assets/img/' + $(this).html() + '.png');
+    });
+>>>>>>> gh-pages
   });
 });
 
@@ -237,7 +271,10 @@ $('#userlayers li').click(function() {
 $('#searchBoxBtn').click(function() {
   var url = $('#searchinput').val();
   console.log(url);
+<<<<<<< HEAD
   console.log(url);
+=======
+>>>>>>> gh-pages
   if (geojson !== undefined) {
     map.removeLayer(geojson);
   }
@@ -262,7 +299,17 @@ $('#searchBoxBtn').click(function() {
         gotDate = users[i].date;
       }
     }
+<<<<<<< HEAD
     $("#volunteerNameSidebar").html(url);
+=======
+    for (var i = 0; i < users.length; i++) {
+      if (users[i].UserName == url) {
+        gotTotalEdits = users[i].TotalUniqu;
+      }
+    }
+    $("#volunteerNameSidebar").html(url);
+    $("#totalEdits").html("Total Edits: " + gotTotalEdits);
+>>>>>>> gh-pages
     $("#since").html("Volunteer since: " + gotDate);
     //testing nesting using d3
     d3.json("./data/" + url + ".json", function(json) {
@@ -341,9 +388,22 @@ $('#searchBoxBtn').click(function() {
         }
       }
     }
+<<<<<<< HEAD
   });
 });
 
+=======
+    $('#earnedBadges li').click(function() {
+      var badge = $(this).html();
+      var badgeID = "'#" + badge + "'";
+      $("#badgeModal").modal('show')
+      $('#badge').attr('src', './assets/img/' + $(this).html() + '.png');
+    });
+  });
+});
+
+
+>>>>>>> gh-pages
 //show #progress div when making ajax loads
 $(document).ajaxStart(function() {
   $("#progress").show();
@@ -363,11 +423,14 @@ $("#searchclear").click(function() {
   $(this).hide();
 });
 
+<<<<<<< HEAD
 // $("#searchclear").click(function(evt) {
 //   evt.preventDefault();
 //   $("#searchinput").val("");
 // });
 
+=======
+>>>>>>> gh-pages
 //collapse and show sidebar
 $('#sidebar').slideReveal({
   trigger: $("#showSidebar, #closePanel"),

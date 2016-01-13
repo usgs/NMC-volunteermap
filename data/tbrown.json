@@ -1,6 +1,12 @@
 {"name":"NewFeatureType","type":"FeatureCollection"
 ,"features":[
+<<<<<<< HEAD
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-76.782302,38.5311090000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2062557","TimeStamp":20140930,"NAME":"Maryland","OSM_ID":2062557,"Version":1}}
+=======
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7811431,38.5283178,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2088785","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":2088785,"Version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.782302,38.5311090000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2062557","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":2062557,"Version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.782302,38.5311090000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2062557","TimeStamp":20140930,"NAME":"Maryland","OSM_ID":2062557,"Version":1}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5800058999999,38.5391608,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2044036","TimeStamp":20150511,"NAME":"Maryland","OSM_ID":2044036,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5800058999999,38.5391608,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2044036","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":2044036,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.2438741,45.2123189000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043010","TimeStamp":20140703,"NAME":"Montana","OSM_ID":2043010,"Version":1}}
@@ -53,6 +59,11 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.1340938,38.4409884,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2038029","TimeStamp":20140206,"NAME":"Maryland","OSM_ID":2038029,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.2747432,38.9572305,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2038001","TimeStamp":20140628,"NAME":"Virginia","OSM_ID":2038001,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9849522,38.5236888000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037843","TimeStamp":20140123,"NAME":"Maryland","OSM_ID":2037843,"Version":1}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9827380999999,38.5245155000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037842","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":2037842,"Version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9827380999999,38.5245155000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037842","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":2037842,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9827152999999,38.5245575000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037842","TimeStamp":20140123,"NAME":"Maryland","OSM_ID":2037842,"Version":1}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6612835999999,38.720713,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037815","TimeStamp":20140123,"NAME":"Maryland","OSM_ID":2037815,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6612835999999,38.720713,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037815","TimeStamp":20140123,"NAME":"Maryland","OSM_ID":2037815,"Version":1}}
@@ -92,6 +103,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.777298,39.1438140000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2034939","TimeStamp":20140610,"NAME":"Maryland","OSM_ID":2034939,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7736194,39.1416677,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2034935","TimeStamp":20140306,"NAME":"Maryland","OSM_ID":2034935,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0172982,38.8401086000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2034925","TimeStamp":20140120,"NAME":"District of Columbia","OSM_ID":2034925,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4911524999999,38.9789109000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2028798","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":2028798,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4911524999999,38.9789109000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2028798","TimeStamp":20140221,"NAME":"Maryland","OSM_ID":2028798,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.118329,38.72648,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2022367","TimeStamp":20140821,"NAME":"Virginia","OSM_ID":2022367,"Version":5}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.118329,38.72648,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2022367","TimeStamp":20140814,"NAME":"Virginia","OSM_ID":2022367,"Version":4}}
@@ -320,6 +335,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.582283,38.5535786,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1761908","TimeStamp":20150511,"NAME":"Maryland","OSM_ID":1761908,"Version":5}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.582283,38.5535786,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1761908","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1761908,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.582283,38.5535786,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1761908","TimeStamp":20140123,"NAME":"Maryland","OSM_ID":1761908,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9601767,38.5308705,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1761806","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1761806,"Version":4}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9601767,38.5308705,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1761806","TimeStamp":20140210,"NAME":"Maryland","OSM_ID":1761806,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.959961,38.6478194000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1761680","TimeStamp":20140203,"NAME":"Maryland","OSM_ID":1761680,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7724842,38.9866318000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1761640","TimeStamp":20140821,"NAME":"Maryland","OSM_ID":1761640,"Version":6}}
@@ -616,6 +635,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5723133,38.5536737,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1742764","TimeStamp":20140120,"NAME":"Maryland","OSM_ID":1742764,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4442461,38.3619736000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1742663","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1742663,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4442461,38.3619736000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1742663","TimeStamp":20140120,"NAME":"Maryland","OSM_ID":1742663,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9869677,38.5285389000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1742546","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1742546,"Version":4}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9869677,38.5285389000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1742546","TimeStamp":20140128,"NAME":"Maryland","OSM_ID":1742546,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5579494,39.0775231000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1742493","TimeStamp":20140630,"NAME":"Maryland","OSM_ID":1742493,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5579494,39.0775231000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1742493","TimeStamp":20140306,"NAME":"Maryland","OSM_ID":1742493,"Version":2}}
@@ -688,6 +711,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.8912534,38.7197442,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738319","TimeStamp":20140808,"NAME":"Maryland","OSM_ID":1738319,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5423004,38.3370357000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738251","TimeStamp":20140415,"NAME":"Maryland","OSM_ID":1738251,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9309684999999,38.6153972000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738244","TimeStamp":20140320,"NAME":"Maryland","OSM_ID":1738244,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.859998,38.5740148,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738204","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1738204,"Version":4}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.859998,38.5740148,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738204","TimeStamp":20140206,"NAME":"Maryland","OSM_ID":1738204,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0156086,38.7579488000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738134","TimeStamp":20140821,"NAME":"Maryland","OSM_ID":1738134,"Version":5}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0156086,38.7579488000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738134","TimeStamp":20140814,"NAME":"Maryland","OSM_ID":1738134,"Version":4}}
@@ -750,6 +777,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9146987,38.9522782000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734572","TimeStamp":20140821,"NAME":"Maryland","OSM_ID":1734572,"Version":5}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9146987,38.9522782000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734572","TimeStamp":20140814,"NAME":"Maryland","OSM_ID":1734572,"Version":4}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9146987,38.9522782000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734572","TimeStamp":20140731,"NAME":"Maryland","OSM_ID":1734572,"Version":3}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.8380907,38.5403441,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734307","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1734307,"Version":7}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.837079,38.5395259000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734307","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1734307,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.837079,38.5395259000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734307","TimeStamp":20140131,"NAME":"Maryland","OSM_ID":1734307,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6253043,38.7080050000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734277","TimeStamp":20150601,"NAME":"Maryland","OSM_ID":1734277,"Version":5}}
@@ -826,6 +857,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7802478,39.0084433000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1730855","TimeStamp":20140811,"NAME":"Maryland","OSM_ID":1730855,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9917579999999,38.7308843000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1730800","TimeStamp":20140814,"NAME":"Maryland","OSM_ID":1730800,"Version":4}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9917579999999,38.7308843000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1730800","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1730800,"Version":3}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.8448630999999,38.5559222000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1730799","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1730799,"Version":5}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.8448362999999,38.5558861000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1730799","TimeStamp":20140901,"NAME":"Maryland","OSM_ID":1730799,"Version":4}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.8446915,38.5556764,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1730799","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1730799,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.8446915,38.5556764,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1730799","TimeStamp":20140131,"NAME":"Maryland","OSM_ID":1730799,"Version":2}}
@@ -850,6 +885,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9008049999999,38.6187298,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1729784","TimeStamp":20140221,"NAME":"Maryland","OSM_ID":1729784,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4623544999999,38.3438442,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1729753","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1729753,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4623544999999,38.3438442,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1729753","TimeStamp":20140122,"NAME":"Maryland","OSM_ID":1729753,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.678015,38.5118847000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1729742","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1729742,"Version":4}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6780174,38.5117892000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1729742","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1729742,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6780174,38.5117892000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1729742","TimeStamp":20140128,"NAME":"Maryland","OSM_ID":1729742,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9771562,38.4382704000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1729705","TimeStamp":20140320,"NAME":"Maryland","OSM_ID":1729705,"Version":2}}
@@ -863,6 +902,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0330427,38.6646369000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1729054","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1729054,"Version":4}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0330427,38.6646369000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1729054","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1729054,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0330427,38.6646369000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1729054","TimeStamp":20140318,"NAME":"Maryland","OSM_ID":1729054,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9811046,38.5276091000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1729021","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1729021,"Version":4}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9811046,38.5276091000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1729021","TimeStamp":20140128,"NAME":"Maryland","OSM_ID":1729021,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9811046,38.5276091000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1729021","TimeStamp":20140128,"NAME":"Maryland","OSM_ID":1729021,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6148754,39.2199149,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1729019","TimeStamp":20140516,"NAME":"Maryland","OSM_ID":1729019,"Version":2}}
@@ -924,6 +967,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7665171,38.4639054,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1726448","TimeStamp":20140408,"NAME":"Maryland","OSM_ID":1726448,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.8799422,38.2904078,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1726416","TimeStamp":20140206,"NAME":"Maryland","OSM_ID":1726416,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.766453,38.2599604000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1726404","TimeStamp":20140408,"NAME":"Maryland","OSM_ID":1726404,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7730079,38.5352256,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1726387","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1726387,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.773083,38.5351920000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1726387","TimeStamp":20140131,"NAME":"Maryland","OSM_ID":1726387,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5359117,38.8020673,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1726369","TimeStamp":20140304,"NAME":"Maryland","OSM_ID":1726369,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5359117,38.8020673,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1726369","TimeStamp":20140304,"NAME":"Maryland","OSM_ID":1726369,"Version":2}}
@@ -954,6 +1001,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.445253,38.2751398,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724897","TimeStamp":20140408,"NAME":"Maryland","OSM_ID":1724897,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.72891,39.0976585000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724808","TimeStamp":20140324,"NAME":"Maryland","OSM_ID":1724808,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.67297,38.32257,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724722","TimeStamp":20140424,"NAME":"Maryland","OSM_ID":1724722,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9723888999999,38.5291721,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724335","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1724335,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9723888999999,38.5291721,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724335","TimeStamp":20140123,"NAME":"Maryland","OSM_ID":1724335,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6381984,38.3020214000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724234","TimeStamp":20140408,"NAME":"Maryland","OSM_ID":1724234,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9201199999999,38.6180400000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1723979","TimeStamp":20140221,"NAME":"Maryland","OSM_ID":1723979,"Version":2}}
@@ -961,11 +1012,19 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5961956,38.5599249000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1723558","TimeStamp":20150511,"NAME":"Maryland","OSM_ID":1723558,"Version":4}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5961956,38.5599249000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1723558","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1723558,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5961956,38.5599249000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1723558","TimeStamp":20140120,"NAME":"Maryland","OSM_ID":1723558,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9772452,38.5288441000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1723398","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1723398,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9772452,38.5288441000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1723398","TimeStamp":20140128,"NAME":"Maryland","OSM_ID":1723398,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6313312,38.3059682000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1723367","TimeStamp":20140424,"NAME":"Maryland","OSM_ID":1723367,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6308888,38.3059513000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1723367","TimeStamp":20140424,"NAME":"Maryland","OSM_ID":1723367,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.8802671,38.6516459000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1723365","TimeStamp":20140210,"NAME":"Maryland","OSM_ID":1723365,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7485889,39.099652,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1723079","TimeStamp":20140630,"NAME":"Maryland","OSM_ID":1723079,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9828643,38.5231397000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722814","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1722814,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9828643,38.5231397000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722814","TimeStamp":20140123,"NAME":"Maryland","OSM_ID":1722814,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6895385999999,39.0123955,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1721795","TimeStamp":20140528,"NAME":"Maryland","OSM_ID":1721795,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6055362,39.0254059000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1721331","TimeStamp":20140630,"NAME":"Maryland","OSM_ID":1721331,"Version":2}}
@@ -996,6 +1055,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9294504,39.6571706,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1716283","TimeStamp":20140701,"NAME":"Maryland","OSM_ID":1716283,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3741550999999,38.1225031000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1715873","TimeStamp":20140430,"NAME":"Maryland","OSM_ID":1715873,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4636154,38.2615947,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1715782","TimeStamp":20140430,"NAME":"Maryland","OSM_ID":1715782,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.678906,38.5121687000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1715705","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1715705,"Version":4}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.678906,38.5121687000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1715705","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1715705,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.678906,38.5121687000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1715705","TimeStamp":20140128,"NAME":"Maryland","OSM_ID":1715705,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3672971999999,38.1229691,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1715642","TimeStamp":20140430,"NAME":"Maryland","OSM_ID":1715642,"Version":2}}
@@ -1003,6 +1066,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5351808999999,38.698516,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1715007","TimeStamp":20150601,"NAME":"Maryland","OSM_ID":1715007,"Version":4}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5351808999999,38.698516,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1715007","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1715007,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5351808999999,38.698516,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1715007","TimeStamp":20140122,"NAME":"Maryland","OSM_ID":1715007,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9794525,38.5290107000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1714623","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1714623,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9794525,38.5290107000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1714623","TimeStamp":20140320,"NAME":"Maryland","OSM_ID":1714623,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7656161,38.2597497,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1714546","TimeStamp":20140408,"NAME":"Maryland","OSM_ID":1714546,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.842344,38.6964481000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1714306","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1714306,"Version":4}}
@@ -1062,6 +1129,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5828645,38.5343487000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1704408","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1704408,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5828645,38.5343487000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1704408","TimeStamp":20140120,"NAME":"Maryland","OSM_ID":1704408,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4894791,38.9666202000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1704052","TimeStamp":20140513,"NAME":"Maryland","OSM_ID":1704052,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7813901,38.5329669000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1703614","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1703614,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7813901,38.5329669000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1703614","TimeStamp":20140120,"NAME":"Maryland","OSM_ID":1703614,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5823147,38.9509575000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1703359","TimeStamp":20140324,"NAME":"Maryland","OSM_ID":1703359,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.1314667,38.6041755000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1703280","TimeStamp":20140221,"NAME":"Maryland","OSM_ID":1703280,"Version":2}}
@@ -1112,7 +1183,13 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4257059999999,38.188615,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697548","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1697548,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4257059999999,38.188615,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697548","TimeStamp":20140122,"NAME":"Maryland","OSM_ID":1697548,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6122675999999,39.3930079,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697544","TimeStamp":20140221,"NAME":"Maryland","OSM_ID":1697544,"Version":2}}
+<<<<<<< HEAD
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4816924,38.9805075,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697371","TimeStamp":20140221,"NAME":"Maryland","OSM_ID":1697371,"Version":3}}
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4840591999999,38.9821638000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697371","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1697371,"Version":4}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4816924,38.9805075,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697371","TimeStamp":20140221,"NAME":"Maryland","OSM_ID":1697371,"Version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0093279,38.5596475,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697366","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1697366,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0093279,38.5596475,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697366","TimeStamp":20140123,"NAME":"Maryland","OSM_ID":1697366,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9338706999999,39.6515094000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1696785","TimeStamp":20140701,"NAME":"Maryland","OSM_ID":1696785,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4621615999999,39.1173464,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1696607","TimeStamp":20140630,"NAME":"Maryland","OSM_ID":1696607,"Version":2}}
@@ -1130,6 +1207,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5516231999999,38.2881814,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1693625","TimeStamp":20140430,"NAME":"Maryland","OSM_ID":1693625,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6490552,39.2009448000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1693545","TimeStamp":20140630,"NAME":"Maryland","OSM_ID":1693545,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6819366,39.0568964,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1693403","TimeStamp":20140528,"NAME":"Maryland","OSM_ID":1693403,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9646954999999,38.5323432000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1693370","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1693370,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9646954999999,38.5323432000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1693370","TimeStamp":20140128,"NAME":"Maryland","OSM_ID":1693370,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9381731999999,38.3537053000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1693244","TimeStamp":20140320,"NAME":"Maryland","OSM_ID":1693244,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7165424,39.1609051,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1692816","TimeStamp":20140610,"NAME":"Maryland","OSM_ID":1692816,"Version":2}}
@@ -1199,6 +1280,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5213310999999,38.1951651000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1680764","TimeStamp":20140430,"NAME":"Maryland","OSM_ID":1680764,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7276039,38.5709890000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1680396","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1680396,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7276039,38.5709890000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1680396","TimeStamp":20140131,"NAME":"Maryland","OSM_ID":1680396,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.8382246,38.5392393000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1680197","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1680197,"Version":5}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.8363578,38.5398435000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1680197","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1680197,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.8363578,38.5398435000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1680197","TimeStamp":20140131,"NAME":"Maryland","OSM_ID":1680197,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.1651310999999,38.5586575,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1680191","TimeStamp":20140318,"NAME":"Maryland","OSM_ID":1680191,"Version":2}}
@@ -1235,6 +1320,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.920653,39.6558776000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1672262","TimeStamp":20140701,"NAME":"Maryland","OSM_ID":1672262,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9009228,38.5874686000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1672179","TimeStamp":20140320,"NAME":"Maryland","OSM_ID":1672179,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6413975999999,38.3000662000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1671342","TimeStamp":20140424,"NAME":"Maryland","OSM_ID":1671342,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7607161999999,38.5408541,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1671262","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1671262,"Version":4}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7607161999999,38.5408541,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1671262","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1671262,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7607161999999,38.5408541,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1671262","TimeStamp":20140131,"NAME":"Maryland","OSM_ID":1671262,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0777548999999,38.6187293,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1671008","TimeStamp":20140320,"NAME":"Maryland","OSM_ID":1671008,"Version":2}}
@@ -1302,6 +1391,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6180143999999,38.5242889,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1663201","TimeStamp":20140806,"NAME":"Maryland","OSM_ID":1663201,"Version":3}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6180143999999,38.5242889,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1663201","TimeStamp":20140121,"NAME":"Maryland","OSM_ID":1663201,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6780234999999,39.1234420000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1662838","TimeStamp":20140603,"NAME":"Maryland","OSM_ID":1662838,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9774737,38.5215101000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1662717","TimeStamp":20151021,"NAME":"Maryland","OSM_ID":1662717,"Version":3}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9774737,38.5215101000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1662717","TimeStamp":20140128,"NAME":"Maryland","OSM_ID":1662717,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.6735796999999,39.1970521000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1662235","TimeStamp":20140630,"NAME":"Maryland","OSM_ID":1662235,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7066353,39.0903869000001,0]},"properties":{"UserName":"tbrown","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1662233","TimeStamp":20140603,"NAME":"Maryland","OSM_ID":1662233,"Version":2}}

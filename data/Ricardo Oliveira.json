@@ -133,6 +133,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.3543042,33.9166609000001,0]},"properties":{"UserName":"Ricardo Oliveira","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825404","TimeStamp":20150513,"NAME":"California","OSM_ID":1825404,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.6496754,34.0384527000001,0]},"properties":{"UserName":"Ricardo Oliveira","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825361","TimeStamp":20150417,"NAME":"California","OSM_ID":1825361,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.3845699,33.7447946,0]},"properties":{"UserName":"Ricardo Oliveira","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825352","TimeStamp":20150513,"NAME":"California","OSM_ID":1825352,"Version":2}}
+<<<<<<< HEAD
+=======
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.4055827,34.0231388,0]},"properties":{"UserName":"Ricardo Oliveira","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825245","TimeStamp":20151215,"NAME":"California","OSM_ID":1825245,"Version":2}}
+>>>>>>> gh-pages
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.1707155,34.0532220000001,0]},"properties":{"UserName":"Ricardo Oliveira","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825216","TimeStamp":20150513,"NAME":"California","OSM_ID":1825216,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.1468555,34.0173033,0]},"properties":{"UserName":"Ricardo Oliveira","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825139","TimeStamp":20150513,"NAME":"California","OSM_ID":1825139,"Version":2}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.26394,34.03743,0]},"properties":{"UserName":"Ricardo Oliveira","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1824934","TimeStamp":20150513,"NAME":"California","OSM_ID":1824934,"Version":2}}
