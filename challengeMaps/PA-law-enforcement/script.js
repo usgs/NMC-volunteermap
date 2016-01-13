@@ -50,7 +50,7 @@ $.getJSON("./data/finished.geojson", function(data) {
         icon: L.ExtraMarkers.icon({
           icon: 'fa-check fa-2x',
           shape: 'square',
-          markerColor: 'green-light',
+          markerColor: 'yellow',
           prefix: 'fa'
         }),
       });
@@ -69,7 +69,7 @@ $.getJSON("./data/tobechecked.geojson", function(data) {
         icon: L.ExtraMarkers.icon({
           icon: 'fa-exclamation fa-2x',
           shape: 'square',
-          markerColor: 'yellow',
+          markerColor: 'red',
           prefix: 'fa'
         }),
       });
@@ -87,7 +87,7 @@ $.getJSON("./data/tobepeerreviwed.geojson", function(data) {
       return L.marker(latlng, {
         icon: L.ExtraMarkers.icon({
           icon: 'fa-times fa-2x',
-          markerColor: 'cyan',
+          markerColor: 'green-light',
           shape: 'square',
           prefix: 'fa'
         }),
@@ -113,7 +113,7 @@ $("#finished").click(function(){
               icon: L.ExtraMarkers.icon({
                 icon: 'fa-check fa-2x',
                 shape: 'square',
-                markerColor: 'green-light',
+                markerColor: 'yellow',
                 prefix: 'fa'
               }),
             });
@@ -141,7 +141,7 @@ $("#tobechecked").click(function(){
               icon: L.ExtraMarkers.icon({
                 icon: 'fa-exclamation fa-2x',
                 shape: 'square',
-                markerColor: 'yellow',
+                markerColor: 'red',
                 prefix: 'fa'
               }),
             });
@@ -168,7 +168,7 @@ $("#tobepeerreviwed").click(function(){
             return L.marker(latlng, {
               icon: L.ExtraMarkers.icon({
                 icon: 'fa-times fa-2x',
-                markerColor: 'cyan',
+                markerColor: 'green-light',
                 shape: 'square',
                 prefix: 'fa'
               }),
