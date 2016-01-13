@@ -1,21 +1,21 @@
 //the base maps
 var imageryTopo = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSImageryTopo/MapServer/WmsServer?", {
   layers: 0,
-  attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer"<USGS</a>'
+  attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer">USGS</a>'
 });
 
 var nationalMap = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSTopo/MapServer/WmsServer?", {
   layers: 0,
-  attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer"<USGS</a<'
+  attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer">USGS</a>'
 });
 
 var imagery = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSImageryOnly/MapServer/WmsServer?", {
   layers: 0,
-  attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer"<USGS</a<'
+  attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer">USGS</a>'
 });
 
-var southWest = L.latLng(39.50, -81.01),
-  northEast = L.latLng(42.39, -74.26),
+var southWest = L.latLng(39.50, -82.51),
+  northEast = L.latLng(43.39, -72.26),
   bounds = L.latLngBounds(southWest, northEast);
 
 var map = L.map('map', {
@@ -39,42 +39,155 @@ L.control.layers(basemaps, null, {
   position: 'bottomleft'
 }).addTo(map);
 
-var addPoints = function(layer, url, icon, markerColor) {
-  $.getJSON(url, function(data) {
-    layer = L.geoJson(data, {
-      onEachFeature: function(feature, layer) {
-        layer.bindPopup(feature.properties.Name + '<hr> <a href="' + feature.properties.Description + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
-      },
-      pointToLayer: function(feature, latlng) {
-        return L.marker(latlng, {
-          icon: L.AwesomeMarkers.icon({
-            icon: icon,
-            markerColor: markerColor,
-            prefix: 'fa'
-          }),
-        });
-      }
-    }).addTo(map)
-    console.log(layer)
-  });
-};
-
-addPoints("finishedLayer", "./data/finished.geojson", 'fa-check fa-2x', 'green');
-addPoints("tobecheckedLayer", "./data/tobechecked.geojson", 'fa-exclamation fa-2x', 'orange');
-addPoints("tobepeerreviwedLayer", "./data/tobepeerreviwed.geojson", 'fa-times fa-2x', 'purple');
-
-//Legend toggle
-$(".markers-legend").hover(
-  function() {
-    original = $(this).find('i').attr('class');
-    $(this).css("background-position", "-612px 0").css("padding-top", "8px").css("padding-left", "8px");
-    $(this).find("i").attr('class', 'fa fa-eye-slash');
-    console.log(original)
-  }, function() {
-    $(this).removeAttr('style');
-    $(this).find("i").attr('class', original);
-  }
-);
-$(".markers-legend").click(function(){
-    thisLayer = this.id
+$.getJSON("./data/finished.geojson", function(data) {
+  $('#finishedDescr').append(" (" + data.features.length + " points)")
+  finished = L.geoJson(data, {
+    onEachFeature: function(feature, layer) {
+      layer.bindPopup(feature.properties.Name + '<hr> <a href="' + feature.properties.Description + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+    },
+    pointToLayer: function(feature, latlng) {
+      return L.marker(latlng, {
+        icon: L.ExtraMarkers.icon({
+          icon: 'fa-check fa-2x',
+          shape: 'square',
+          markerColor: 'green-light',
+          prefix: 'fa'
+        }),
+      });
+    }
+  })
+  map.addLayer(finished)
 });
+$.getJSON("./data/tobechecked.geojson", function(data) {
+    $('#tobecheckedDescr').append(" (" + data.features.length + " points)")
+  tobechecked = L.geoJson(data, {
+    onEachFeature: function(feature, layer) {
+      layer.bindPopup(feature.properties.Name + '<hr> <a href="' + feature.properties.Description + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+    },
+    pointToLayer: function(feature, latlng) {
+      return L.marker(latlng, {
+        icon: L.ExtraMarkers.icon({
+          icon: 'fa-exclamation fa-2x',
+          shape: 'square',
+          markerColor: 'yellow',
+          prefix: 'fa'
+        }),
+      });
+    }
+  })
+  map.addLayer(tobechecked)
+});
+$.getJSON("./data/tobepeerreviwed.geojson", function(data) {
+  $('#tobepeerreviwedDescr').append(" (" + data.features.length + " points)")
+  tobepeerreviwed = L.geoJson(data, {
+    onEachFeature: function(feature, layer) {
+      layer.bindPopup(feature.properties.Name + '<hr> <a href="' + feature.properties.Description + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+    },
+    pointToLayer: function(feature, latlng) {
+      return L.marker(latlng, {
+        icon: L.ExtraMarkers.icon({
+          icon: 'fa-times fa-2x',
+          markerColor: 'cyan',
+          shape: 'square',
+          prefix: 'fa'
+        }),
+      });
+    }
+  })
+  map.addLayer(tobepeerreviwed)
+});
+
+$("#finished").click(function(){
+    if(map.hasLayer(finished)){
+      map.removeLayer(finished)
+      $(this).css("background-position", "-144px -46px").css("padding-top", "8px").css("padding-left", "8px");
+      $(this).find("i").attr('class', 'fa fa-eye-slash');
+    } else {
+      $.getJSON("./data/finished.geojson", function(data) {
+        finished = L.geoJson(data, {
+          onEachFeature: function(feature, layer) {
+            layer.bindPopup(feature.properties.Name + '<hr> <a href="' + feature.properties.Description + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+          },
+          pointToLayer: function(feature, latlng) {
+            return L.marker(latlng, {
+              icon: L.ExtraMarkers.icon({
+                icon: 'fa-check fa-2x',
+                shape: 'square',
+                markerColor: 'green-light',
+                prefix: 'fa'
+              }),
+            });
+          }
+        })
+        map.addLayer(finished)
+      });
+      $(this).removeAttr('style');
+      $(this).find('i').attr('class', 'fa fa-check');
+    }
+});
+$("#tobechecked").click(function(){
+    if(map.hasLayer(tobechecked)){
+      map.removeLayer(tobechecked)
+      $(this).css("background-position", "-144px -46px").css("padding-top", "8px").css("padding-left", "8px");
+      $(this).find("i").attr('class', 'fa fa-eye-slash');
+    } else {
+      $.getJSON("./data/tobechecked.geojson", function(data) {
+        tobechecked = L.geoJson(data, {
+          onEachFeature: function(feature, layer) {
+            layer.bindPopup(feature.properties.Name + '<hr> <a href="' + feature.properties.Description + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+          },
+          pointToLayer: function(feature, latlng) {
+            return L.marker(latlng, {
+              icon: L.ExtraMarkers.icon({
+                icon: 'fa-exclamation fa-2x',
+                shape: 'square',
+                markerColor: 'yellow',
+                prefix: 'fa'
+              }),
+            });
+          }
+        })
+        map.addLayer(tobechecked)
+      });
+      $(this).removeAttr('style');
+      $(this).find('i').attr('class', 'fa fa-exclamation');
+    }
+});
+$("#tobepeerreviwed").click(function(){
+    if(map.hasLayer(tobepeerreviwed)){
+      map.removeLayer(tobepeerreviwed)
+      $(this).css("background-position", "-144px -46px").css("padding-top", "8px").css("padding-left", "8px");
+      $(this).find("i").attr('class', 'fa fa-eye-slash');
+    } else {
+      $.getJSON("./data/tobepeerreviwed.geojson", function(data) {
+        tobepeerreviwed = L.geoJson(data, {
+          onEachFeature: function(feature, layer) {
+            layer.bindPopup(feature.properties.Name + '<hr> <a href="' + feature.properties.Description + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+          },
+          pointToLayer: function(feature, latlng) {
+            return L.marker(latlng, {
+              icon: L.ExtraMarkers.icon({
+                icon: 'fa-times fa-2x',
+                markerColor: 'cyan',
+                shape: 'square',
+                prefix: 'fa'
+              }),
+            });
+          }
+        })
+        map.addLayer(tobepeerreviwed)
+      });
+      $(this).removeAttr('style');
+      $(this).find('i').attr('class', 'fa fa-times');
+    }
+});
+
+$(".markers-legend").hover(function(){
+  $(this).css('cursor', 'pointer');
+  original = $(this).find("i").attr('class');
+  $(this).css("background-position", "-144px -46px").css("padding-top", "8px").css("padding-left", "8px");
+  $(this).find("i").attr('class', 'fa fa-eye-slash');
+}, function(){
+  $(this).removeAttr('style');
+  $(this).find('i').attr('class', original);
+})

@@ -5,11 +5,17 @@ html, body {
   width: 100%;
   overflow: hidden;
 }
+#map{
+  height: 100%;
+  z-index: 999;
+  width: 70%
+}
 .nounderline {
   text-decoration: none !important
 }
 #info {
   background-color: #2c782f;
+  width: 30%
 }
 #header h1 {
   font-size: 28px;
@@ -36,6 +42,7 @@ h2 {
   background-color: #0f5c08;
   text-shadow: 0px 2px 2px #0A0A0A;
   box-shadow: 0px 2px 2px #073203;
+  z-index: 1000
 }
 h2:after {
   content: ' ';
@@ -67,72 +74,31 @@ h2:after {
   color: #ffffff;
   font-size: 25
 }
-.info p {
-  padding: 0px;
-  margin: 0 !important;
-  text-indent: 0px;
-  text-align: inherit;
-}
-ul {
-  list-style-type: none;
-  padding-left: 0;
-}
-li>a>div:hover {
-  background-color: rgb(19, 129, 11);
-  opacity: 0.7;
-  color: beige;
-  font-weight: bold;
-}
-li>a>div {
-  margin-left: -15;
-  padding-left: 15px;
-  margin-right: -8;
-  color: #281616;
-}
-.my-legend ul li {
-  font-size: 80%;
-  list-style: none;
-  margin-left: 0;
-  line-height: 18px;
-  margin-bottom: 2px;
-}
-.my-legend ul.legend-labels li span {
-  display: block;
-  float: left;
-  height: 20px;
-  width: 30px;
-  margin-right: 5px;
-  margin-left: 0;
-}
-.my-legend .legend-source {
-  font-size: 70%;
-  color: #999;
-  clear: both;
-}
-.my-legend a {
-  color: #777;
-}
 .markers-legend {
-  background: url('../plugins/leaflet-awesome-markers/images/markers-soft.png') no-repeat 0 0;
+  background: url('../plugins/leaflet-extra-markers/css/images/markers_default.png') no-repeat 0 0;
   width: 35px;
   height: 46px;
   color: #ffffff;
     display: inline-block;
 }
 #finished {
-  background-position: -72px 0;
+  background-position: -432px -46px;
   padding-top: 8px;
   padding-left: 8px
 }
 #tobechecked {
-  background-position: -36px 0;
+  background-position: -108px -46px;
   padding-top: 11px;
   padding-left: 14px
 }
 #tobepeerreviwed {
-  background-position: -504px 0;
+  background-position: -216px -46px;
   padding-top: 8px;
   padding-left: 10px
+}
+.markers-legend:hover{
+  background-position: -108px -46px;
+  cursor: pointer;
 }
 .markers-descri{
   display: inline-block;
