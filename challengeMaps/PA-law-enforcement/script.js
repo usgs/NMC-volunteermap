@@ -39,11 +39,11 @@ L.control.layers(basemaps, null, {
   position: 'bottomleft'
 }).addTo(map);
 
-$.getJSON("./data/finished.geojson", function(data) {
+$.getJSON("./data/finished.json", function(data) {
   $('#finishedDescr').append(" (" + data.features.length + " points)")
   finished = L.geoJson(data, {
     onEachFeature: function(feature, layer) {
-      layer.bindPopup(feature.properties.Name + '<hr> <a href="' + feature.properties.Description + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+      layer.bindPopup(feature.properties.name + '<hr> <a href="' + feature.properties.link + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
     },
     pointToLayer: function(feature, latlng) {
       return L.marker(latlng, {
@@ -58,11 +58,11 @@ $.getJSON("./data/finished.geojson", function(data) {
   })
   map.addLayer(finished)
 });
-$.getJSON("./data/tobechecked.geojson", function(data) {
+$.getJSON("./data/tobechecked.json", function(data) {
     $('#tobecheckedDescr').append(" (" + data.features.length + " points)")
   tobechecked = L.geoJson(data, {
     onEachFeature: function(feature, layer) {
-      layer.bindPopup(feature.properties.Name + '<hr> <a href="' + feature.properties.Description + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+      layer.bindPopup(feature.properties.name + '<hr> <a href="' + feature.properties.link + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
     },
     pointToLayer: function(feature, latlng) {
       return L.marker(latlng, {
@@ -77,11 +77,11 @@ $.getJSON("./data/tobechecked.geojson", function(data) {
   })
   map.addLayer(tobechecked)
 });
-$.getJSON("./data/tobepeerreviwed.geojson", function(data) {
+$.getJSON("./data/tobepeerreviwed.json", function(data) {
   $('#tobepeerreviwedDescr').append(" (" + data.features.length + " points)")
   tobepeerreviwed = L.geoJson(data, {
     onEachFeature: function(feature, layer) {
-      layer.bindPopup(feature.properties.Name + '<hr> <a href="' + feature.properties.Description + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+      layer.bindPopup(feature.properties.name + '<hr> <a href="' + feature.properties.link + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
     },
     pointToLayer: function(feature, latlng) {
       return L.marker(latlng, {
@@ -103,10 +103,10 @@ $("#finished").click(function(){
       $(this).css("background-position", "-144px -46px").css("padding-top", "8px").css("padding-left", "8px");
       $(this).find("i").attr('class', 'fa fa-eye-slash');
     } else {
-      $.getJSON("./data/finished.geojson", function(data) {
+      $.getJSON("./data/finished.json", function(data) {
         finished = L.geoJson(data, {
           onEachFeature: function(feature, layer) {
-            layer.bindPopup(feature.properties.Name + '<hr> <a href="' + feature.properties.Description + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+            layer.bindPopup(feature.properties.name + '<hr> <a href="' + feature.properties.link + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
           },
           pointToLayer: function(feature, latlng) {
             return L.marker(latlng, {
@@ -131,10 +131,10 @@ $("#tobechecked").click(function(){
       $(this).css("background-position", "-144px -46px").css("padding-top", "8px").css("padding-left", "8px");
       $(this).find("i").attr('class', 'fa fa-eye-slash');
     } else {
-      $.getJSON("./data/tobechecked.geojson", function(data) {
+      $.getJSON("./data/tobechecked.json", function(data) {
         tobechecked = L.geoJson(data, {
           onEachFeature: function(feature, layer) {
-            layer.bindPopup(feature.properties.Name + '<hr> <a href="' + feature.properties.Description + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+            layer.bindPopup(feature.properties.name + '<hr> <a href="' + feature.properties.link + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
           },
           pointToLayer: function(feature, latlng) {
             return L.marker(latlng, {
@@ -159,10 +159,10 @@ $("#tobepeerreviwed").click(function(){
       $(this).css("background-position", "-144px -46px").css("padding-top", "8px").css("padding-left", "8px");
       $(this).find("i").attr('class', 'fa fa-eye-slash');
     } else {
-      $.getJSON("./data/tobepeerreviwed.geojson", function(data) {
+      $.getJSON("./data/tobepeerreviwed.json", function(data) {
         tobepeerreviwed = L.geoJson(data, {
           onEachFeature: function(feature, layer) {
-            layer.bindPopup(feature.properties.Name + '<hr> <a href="' + feature.properties.Description + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+            layer.bindPopup(feature.properties.name + '<hr> <a href="' + feature.properties.link + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
           },
           pointToLayer: function(feature, latlng) {
             return L.marker(latlng, {
@@ -182,12 +182,12 @@ $("#tobepeerreviwed").click(function(){
     }
 });
 
-$(".markers-legend").hover(function(){
-  $(this).css('cursor', 'pointer');
-  original = $(this).find("i").attr('class');
-  $(this).css("background-position", "-144px -46px").css("padding-top", "8px").css("padding-left", "8px");
-  $(this).find("i").attr('class', 'fa fa-eye-slash');
-}, function(){
-  $(this).removeAttr('style');
-  $(this).find('i').attr('class', original);
-})
+// $(".markers-legend").hover(function(){
+//   $(this).css('cursor', 'pointer');
+//   original = $(this).find("i").attr('class');
+//   $(this).css("background-position", "-144px -46px").css("padding-top", "8px").css("padding-left", "8px");
+//   $(this).find("i").attr('class', 'fa fa-eye-slash');
+// }, function(){
+//   $(this).removeAttr('style');
+//   $(this).find('i').attr('class', original);
+// })
