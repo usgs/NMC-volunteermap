@@ -1,0 +1,33 @@
+{"name":"NewFeatureType","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9929785,40.5778055]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1974647/history","NAME":"New York","node_id":1974647,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9755913,40.6811433]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1973558/history","NAME":"New York","node_id":1973558,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.965044,40.5852637]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1972432/history","NAME":"New York","node_id":1972432,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9275547,40.6293034]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1970790/history","NAME":"New York","node_id":1970790,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9485933,40.6390523]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1970018/history","NAME":"New York","node_id":1970018,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9980189,40.6392108]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1969495/history","NAME":"New York","node_id":1969495,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0203963,40.6463683]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1968774/history","NAME":"New York","node_id":1968774,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8163491,40.7007813]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1968310/history","NAME":"New York","node_id":1968310,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9335904,40.6595499]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1966475/history","NAME":"New York","node_id":1966475,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.92488,40.7682632]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1966141/history","NAME":"New York","node_id":1966141,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8166312,40.755536]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1965587/history","NAME":"New York","node_id":1965587,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9451623,40.6550757]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1965081/history","NAME":"New York","node_id":1965081,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.68635,40.6811]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1963769/history","NAME":"New York","node_id":1963769,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.97912,40.66782]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1963739/history","NAME":"New York","node_id":1963739,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9460762,40.656538]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1961563/history","NAME":"New York","node_id":1961563,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9485522,40.6138713]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1961424/history","NAME":"New York","node_id":1961424,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9761868,40.5767463]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1960632/history","NAME":"New York","node_id":1960632,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9913847,40.6250322]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1958393/history","NAME":"New York","node_id":1958393,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8043765,40.717002]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1957873/history","NAME":"New York","node_id":1957873,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8043765,40.717002]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1957873/history","NAME":"New York","node_id":1957873,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.851551,40.7291279]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1955910/history","NAME":"New York","node_id":1955910,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9590422,40.6753844]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1954628/history","NAME":"New York","node_id":1954628,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0242972,40.6087501]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1949006/history","NAME":"New York","node_id":1949006,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.0834934,33.50811]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1871984/history","NAME":"Arizona","node_id":1871984,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.0699959,33.4761667]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1868229/history","NAME":"Arizona","node_id":1868229,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.1043738,33.4954295]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1854133/history","NAME":"Arizona","node_id":1854133,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.0981774,33.4888596]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1853112/history","NAME":"Arizona","node_id":1853112,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.083062,33.478627]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1847965/history","NAME":"Arizona","node_id":1847965,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.0966946,33.4943736]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1847571/history","NAME":"Arizona","node_id":1847571,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.0832565,33.4828643]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1842279/history","NAME":"Arizona","node_id":1842279,"version":2}}
+]}
