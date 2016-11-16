@@ -1,0 +1,32 @@
+{"name":"NewFeatureType","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.6631145,39.2777672]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2038126/history","NAME":"Missouri","node_id":2038126,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.12119,40.60655]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1945527/history","NAME":"New York","node_id":1945527,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.82019,42.70642]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944845/history","NAME":"New York","node_id":1944845,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.3354437,41.8747345]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1942372/history","NAME":"Iowa","node_id":1942372,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.4738447,36.3758455]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1939131/history","NAME":"Tennessee","node_id":1939131,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.2222616,36.3806117]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1934519/history","NAME":"Tennessee","node_id":1934519,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.2493305,42.8214603]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1930561/history","NAME":"New York","node_id":1930561,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.2168299,42.7497945]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1928903/history","NAME":"New York","node_id":1928903,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.1218095,42.0083196]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1926345/history","NAME":"Iowa","node_id":1926345,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5484985,35.7500912]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1917789/history","NAME":"Tennessee","node_id":1917789,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.029757,36.1253363]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1911835/history","NAME":"Tennessee","node_id":1911835,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5482207,35.750369]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1906989/history","NAME":"Tennessee","node_id":1906989,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.8314486,36.3389519]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1903991/history","NAME":"Tennessee","node_id":1903991,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.1216598,42.0083196]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1900151/history","NAME":"Iowa","node_id":1900151,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.0314237,36.1258918]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1899332/history","NAME":"Tennessee","node_id":1899332,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.0155865,34.3251668]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1891871/history","NAME":"North Carolina","node_id":1891871,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.4725476,36.3753365]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1885755/history","NAME":"Tennessee","node_id":1885755,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.0003805,43.6589325]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1882430/history","NAME":"Minnesota","node_id":1882430,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.088986,29.96419]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1840534/history","NAME":"Louisiana","node_id":1840534,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.0940683,29.9616337]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1840526/history","NAME":"Louisiana","node_id":1840526,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.0984,30.4695]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1840505/history","NAME":"Louisiana","node_id":1840505,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-92.0315205,32.6934706]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1807951/history","NAME":"Louisiana","node_id":1807951,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.3746554,31.2218426]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1805514/history","NAME":"Alabama","node_id":1805514,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1258778,26.2586922]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1781735/history","NAME":"Florida","node_id":1781735,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9309904,38.796437]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1769765/history","NAME":"Maryland","node_id":1769765,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.789092,39.25034]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1691237/history","NAME":"Ohio","node_id":1691237,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.9999446,41.3467175]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1677261/history","NAME":"Ohio","node_id":1677261,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.1231495,47.2177391]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1662821/history","NAME":"Washington","node_id":1662821,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.7890284,39.2499563]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1662403/history","NAME":"Ohio","node_id":1662403,"version":3}}
+]}
