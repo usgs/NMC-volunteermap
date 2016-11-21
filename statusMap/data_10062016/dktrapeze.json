@@ -1,0 +1,33 @@
+{"name":"NewFeatureType","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3828717,42.4714511]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2087646/history","NAME":"New York","node_id":2087646,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4112701,42.1159557]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2084913/history","NAME":"Massachusetts","node_id":2084913,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5225174,42.1795999]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2084912/history","NAME":"New York","node_id":2084912,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.431891,42.1908648]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2084911/history","NAME":"Massachusetts","node_id":2084911,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4159157,42.1608995]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2084573/history","NAME":"Massachusetts","node_id":2084573,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4196118,42.1607424]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2084572/history","NAME":"Massachusetts","node_id":2084572,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4286401,42.1915127]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2084571/history","NAME":"Massachusetts","node_id":2084571,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6554891,43.557084]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2084570/history","NAME":"New York","node_id":2084570,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6554891,43.557084]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2084570/history","NAME":"New York","node_id":2084570,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.655929,43.5571889]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2084569/history","NAME":"New York","node_id":2084569,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6538084,43.5600559]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2078624/history","NAME":"New York","node_id":2078624,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3911824,42.468231]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2078145/history","NAME":"New York","node_id":2078145,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5845329,42.1749694]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2077404/history","NAME":"New York","node_id":2077404,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3100505,42.2810718]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2071074/history","NAME":"Massachusetts","node_id":2071074,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5824668,42.1734647]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1966630/history","NAME":"New York","node_id":1966630,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4425344,42.4104582]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1965631/history","NAME":"New York","node_id":1965631,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3920491,42.466383]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1962613/history","NAME":"New York","node_id":1962613,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4082187,42.1889605]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1859813/history","NAME":"Massachusetts","node_id":1859813,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4082187,42.1889605]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1859813/history","NAME":"Massachusetts","node_id":1859813,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3450878,42.2307274]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1847823/history","NAME":"Massachusetts","node_id":1847823,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3450878,42.2307274]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1847823/history","NAME":"Massachusetts","node_id":1847823,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3086023,42.2810953]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1831819/history","NAME":"Massachusetts","node_id":1831819,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3640703,42.1892442]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1829583/history","NAME":"Massachusetts","node_id":1829583,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.43678,42.19732]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1828636/history","NAME":"Massachusetts","node_id":1828636,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3053835,42.2823823]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1819151/history","NAME":"Massachusetts","node_id":1819151,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4228374,42.2264762]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1818634/history","NAME":"Massachusetts","node_id":1818634,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4290824,42.191927]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1814020/history","NAME":"Massachusetts","node_id":1814020,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4149205,42.1610882]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1812760/history","NAME":"Massachusetts","node_id":1812760,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.380008,42.209241]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1809304/history","NAME":"Massachusetts","node_id":1809304,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4376143,42.2000892]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1803410/history","NAME":"Massachusetts","node_id":1803410,"version":2}}
+]}

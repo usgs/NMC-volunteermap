@@ -1,0 +1,39 @@
+{"name":"NewFeatureType","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2799341,28.2394521]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2084433/history","NAME":"Florida","node_id":2084433,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1561595,28.1882576]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2084421/history","NAME":"Florida","node_id":2084421,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1540352,28.2015336]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2084420/history","NAME":"Florida","node_id":2084420,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1522971,28.187974]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2084419/history","NAME":"Florida","node_id":2084419,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3004039,28.2334433]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1875089/history","NAME":"Florida","node_id":1875089,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3021036,28.2546055]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1869323/history","NAME":"Florida","node_id":1869323,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2752745,28.2398845]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1867740/history","NAME":"Florida","node_id":1867740,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2548075,28.2332371]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1863538/history","NAME":"Florida","node_id":1863538,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3270073,28.2475992]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1863229/history","NAME":"Florida","node_id":1863229,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.310517,28.2513033]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1863060/history","NAME":"Florida","node_id":1863060,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2741542,28.2372828]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1860850/history","NAME":"Florida","node_id":1860850,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3282356,28.2602107]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1860156/history","NAME":"Florida","node_id":1860156,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.290857,28.1854993]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1857999/history","NAME":"Florida","node_id":1857999,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3341176,28.2588135]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1857292/history","NAME":"Florida","node_id":1857292,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3178409,28.2498988]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1832300/history","NAME":"Florida","node_id":1832300,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3028291,28.243586]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1826682/history","NAME":"Florida","node_id":1826682,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1950394,28.266728]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1825558/history","NAME":"Florida","node_id":1825558,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3173282,28.2248547]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1823146/history","NAME":"Florida","node_id":1823146,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2437075,28.1802758]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1823098/history","NAME":"Florida","node_id":1823098,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3555695,28.2806704]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1821924/history","NAME":"Florida","node_id":1821924,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.0755088,28.1462465]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1821591/history","NAME":"Florida","node_id":1821591,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2873644,28.249272]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1816756/history","NAME":"Florida","node_id":1816756,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.3509979,28.3290658]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1814874/history","NAME":"Florida","node_id":1814874,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2759918,28.1967446]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1814799/history","NAME":"Florida","node_id":1814799,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2759918,28.1967446]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1814799/history","NAME":"Florida","node_id":1814799,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.9995964,27.8760449]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1812355/history","NAME":"Florida","node_id":1812355,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2383657,28.2989016]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1811443/history","NAME":"Florida","node_id":1811443,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2620496,28.2486527]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1795142/history","NAME":"Florida","node_id":1795142,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1203799,32.7298793]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1767808/history","NAME":"New Mexico","node_id":1767808,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1222721,32.728658]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1746154/history","NAME":"New Mexico","node_id":1746154,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1421543,32.7232125]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1744348/history","NAME":"New Mexico","node_id":1744348,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1393478,32.7226858]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1736398/history","NAME":"New Mexico","node_id":1736398,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1629349,32.7209144]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1735060/history","NAME":"New Mexico","node_id":1735060,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1158255,32.7160736]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1733620/history","NAME":"New Mexico","node_id":1733620,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1204917,32.709508]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1732340/history","NAME":"New Mexico","node_id":1732340,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.128542,32.7267769]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1660266/history","NAME":"New Mexico","node_id":1660266,"version":2}}
+]}

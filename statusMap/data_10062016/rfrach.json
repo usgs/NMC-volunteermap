@@ -1,0 +1,34 @@
+{"name":"NewFeatureType","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.478321,32.6334725]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2062298/history","NAME":"Alabama","node_id":2062298,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6632441,42.7124144]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2022662/history","NAME":"New York","node_id":2022662,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6091494,42.6414646]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2021464/history","NAME":"New York","node_id":2021464,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.660522,42.7381171]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2018830/history","NAME":"New York","node_id":2018830,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5434356,42.6382838]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2014489/history","NAME":"New York","node_id":2014489,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5434356,42.6382838]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2014489/history","NAME":"New York","node_id":2014489,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6716991,42.7285415]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2004101/history","NAME":"New York","node_id":2004101,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5697591,42.6900378]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2001436/history","NAME":"New York","node_id":2001436,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6527302,42.6536567]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1998658/history","NAME":"New York","node_id":1998658,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6716978,42.7266744]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1990867/history","NAME":"New York","node_id":1990867,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5726434,42.644669]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1985654/history","NAME":"New York","node_id":1985654,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6685342,42.7263829]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1984715/history","NAME":"New York","node_id":1984715,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5822204,42.6636073]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1979258/history","NAME":"New York","node_id":1979258,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.578168,42.6962211]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1950868/history","NAME":"New York","node_id":1950868,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6078775,42.6464311]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1920977/history","NAME":"New York","node_id":1920977,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.4799137,32.5873234]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1868647/history","NAME":"Alabama","node_id":1868647,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.4947864,32.6177829]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1867042/history","NAME":"Alabama","node_id":1867042,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.5059911,32.6402647]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1860594/history","NAME":"Alabama","node_id":1860594,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.5059911,32.6402647]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1860594/history","NAME":"Alabama","node_id":1860594,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.4782265,32.6142875]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1858205/history","NAME":"Alabama","node_id":1858205,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.5132384,32.619596]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1858046/history","NAME":"Alabama","node_id":1858046,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.4502958,32.6379935]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1857734/history","NAME":"Alabama","node_id":1857734,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.4637677,32.597187]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1851104/history","NAME":"Alabama","node_id":1851104,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.4567126,32.5640092]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1850507/history","NAME":"Alabama","node_id":1850507,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.4846513,32.6209288]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1849893/history","NAME":"Alabama","node_id":1849893,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.4690462,32.5858411]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1848498/history","NAME":"Alabama","node_id":1848498,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.4766154,32.5982581]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1845596/history","NAME":"Alabama","node_id":1845596,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.4642282,32.6003377]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1843020/history","NAME":"Alabama","node_id":1843020,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.4720728,32.5896752]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1840764/history","NAME":"Alabama","node_id":1840764,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.4768082,32.6119235]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1835957/history","NAME":"Alabama","node_id":1835957,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.484813,32.6024335]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1809613/history","NAME":"Alabama","node_id":1809613,"version":2}}
+]}

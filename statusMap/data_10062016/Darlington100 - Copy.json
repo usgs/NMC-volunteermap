@@ -1,0 +1,32 @@
+{"name":"NewFeatureType","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3732408,41.8779625]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2089271/history","NAME":"Rhode Island","node_id":2089271,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3762664,41.8768481]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2089270/history","NAME":"Rhode Island","node_id":2089270,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3653391,41.8808722]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2089269/history","NAME":"Rhode Island","node_id":2089269,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3441442,41.8827753]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2089268/history","NAME":"Rhode Island","node_id":2089268,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.486256,41.4396098]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2081907/history","NAME":"Rhode Island","node_id":2081907,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.486256,41.4396098]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2081907/history","NAME":"Rhode Island","node_id":2081907,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3635594,41.8669341]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2075841/history","NAME":"Rhode Island","node_id":2075841,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4459425,41.816713]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2071465/history","NAME":"Rhode Island","node_id":2071465,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3718548,41.876378]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1870439/history","NAME":"Rhode Island","node_id":1870439,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3531613,41.8878707]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1868326/history","NAME":"Rhode Island","node_id":1868326,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4777482,41.4425785]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1863968/history","NAME":"Rhode Island","node_id":1863968,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3560078,41.8675613]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1863145/history","NAME":"Rhode Island","node_id":1863145,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3549262,41.8872842]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1859232/history","NAME":"Rhode Island","node_id":1859232,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5464705,41.3862256]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1856000/history","NAME":"Rhode Island","node_id":1856000,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3710244,41.8755631]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1851882/history","NAME":"Rhode Island","node_id":1851882,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3647731,41.8883208]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1841961/history","NAME":"Rhode Island","node_id":1841961,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3537727,41.8818477]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1840999/history","NAME":"Rhode Island","node_id":1840999,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3546559,41.8816097]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1840759/history","NAME":"Rhode Island","node_id":1840759,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3762196,41.8699766]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1826845/history","NAME":"Rhode Island","node_id":1826845,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3762196,41.8699766]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1826845/history","NAME":"Rhode Island","node_id":1826845,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5242549,41.3914747]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1821981/history","NAME":"Rhode Island","node_id":1821981,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3539922,41.8679555]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1819955/history","NAME":"Rhode Island","node_id":1819955,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5603814,41.4268243]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1817013/history","NAME":"Rhode Island","node_id":1817013,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5515705,41.3872062]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1816929/history","NAME":"Rhode Island","node_id":1816929,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3669871,41.8862655]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1811544/history","NAME":"Rhode Island","node_id":1811544,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.368944,41.8834332]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1782861/history","NAME":"Rhode Island","node_id":1782861,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.368944,41.8814888]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1778546/history","NAME":"Rhode Island","node_id":1778546,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5104216,41.4627233]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1771127/history","NAME":"Rhode Island","node_id":1771127,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5104216,41.4627233]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1771127/history","NAME":"Rhode Island","node_id":1771127,"version":2}}
+]}
