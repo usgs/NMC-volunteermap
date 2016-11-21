@@ -1,0 +1,31 @@
+{"name":"NewFeatureType","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1860124,34.1055648]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2038931/history","NAME":"South Carolina","node_id":2038931,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2354694,34.1290705]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1766836/history","NAME":"South Carolina","node_id":1766836,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.176697,34.0709394]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1765877/history","NAME":"South Carolina","node_id":1765877,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1777408,34.1363585]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1765851/history","NAME":"South Carolina","node_id":1765851,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2035881,34.1518925]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1765228/history","NAME":"South Carolina","node_id":1765228,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1845552,34.0907584]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1759104/history","NAME":"South Carolina","node_id":1759104,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1993933,34.1527893]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1756333/history","NAME":"South Carolina","node_id":1756333,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1679417,34.0641948]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1754338/history","NAME":"South Carolina","node_id":1754338,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1721983,34.0677322]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1753988/history","NAME":"South Carolina","node_id":1753988,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1557502,34.0529453]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1753743/history","NAME":"South Carolina","node_id":1753743,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1846009,34.084323]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1752185/history","NAME":"South Carolina","node_id":1752185,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1771746,34.0731032]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1752007/history","NAME":"South Carolina","node_id":1752007,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2091672,34.1076694]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1751525/history","NAME":"South Carolina","node_id":1751525,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1649836,34.1455122]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1747459/history","NAME":"South Carolina","node_id":1747459,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1256048,34.0434907]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1745361/history","NAME":"South Carolina","node_id":1745361,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1824895,34.1031945]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1739859/history","NAME":"South Carolina","node_id":1739859,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1976742,34.1144427]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1734507/history","NAME":"South Carolina","node_id":1734507,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.0920535,34.0498612]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1731879/history","NAME":"South Carolina","node_id":1731879,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2362252,34.1248259]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1729575/history","NAME":"South Carolina","node_id":1729575,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.268063,34.1427609]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1727555/history","NAME":"South Carolina","node_id":1727555,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1798564,34.0778831]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1724393/history","NAME":"South Carolina","node_id":1724393,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1775566,34.078109]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1723409/history","NAME":"South Carolina","node_id":1723409,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.19727,34.14113]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720626/history","NAME":"South Carolina","node_id":1720626,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1664,34.0671]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1719149/history","NAME":"South Carolina","node_id":1719149,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2164112,34.1255133]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1713609/history","NAME":"South Carolina","node_id":1713609,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1602664,34.0508005]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1701620/history","NAME":"South Carolina","node_id":1701620,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1329691,34.0452823]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1698420/history","NAME":"South Carolina","node_id":1698420,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.2181514,34.1273713]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1674673/history","NAME":"South Carolina","node_id":1674673,"version":2}}
+]}

@@ -1,0 +1,31 @@
+{"name":"NewFeatureType","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.818587,46.8629568]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2093738/history","NAME":"North Dakota","node_id":2093738,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7536462,46.8655337]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2093725/history","NAME":"Minnesota","node_id":2093725,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7651476,46.8842486]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2093723/history","NAME":"Minnesota","node_id":2093723,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7028778,46.8755233]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2072442/history","NAME":"Minnesota","node_id":2072442,"version":4}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6509771,46.7783928]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2064036/history","NAME":"Minnesota","node_id":2064036,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6509771,46.7783928]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2064036/history","NAME":"Minnesota","node_id":2064036,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7518872,46.878152]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2014350/history","NAME":"Minnesota","node_id":2014350,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7694338,46.8643511]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2009740/history","NAME":"Minnesota","node_id":2009740,"version":4}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7640481,46.8722433]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2008678/history","NAME":"Minnesota","node_id":2008678,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7569081,46.8504996]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2002221/history","NAME":"Minnesota","node_id":2002221,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7616222,46.8544411]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2001913/history","NAME":"Minnesota","node_id":2001913,"version":4}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7617154,46.8422739]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2000857/history","NAME":"Minnesota","node_id":2000857,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7637698,46.8434595]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1998323/history","NAME":"Minnesota","node_id":1998323,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7451843,46.8619073]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1992085/history","NAME":"Minnesota","node_id":1992085,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7607368,46.8318965]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1989221/history","NAME":"Minnesota","node_id":1989221,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7607368,46.8318965]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1989221/history","NAME":"Minnesota","node_id":1989221,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7567206,46.8668228]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1987142/history","NAME":"Minnesota","node_id":1987142,"version":4}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6525714,46.7777871]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1974068/history","NAME":"Minnesota","node_id":1974068,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.748264,46.8509034]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1967771/history","NAME":"Minnesota","node_id":1967771,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7615827,46.8764412]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1966343/history","NAME":"Minnesota","node_id":1966343,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.754983,46.873475]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1955206/history","NAME":"Minnesota","node_id":1955206,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.754983,46.873475]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1955206/history","NAME":"Minnesota","node_id":1955206,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7614689,46.9074633]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1934357/history","NAME":"Minnesota","node_id":1934357,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7701638,46.8410109]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1912927/history","NAME":"Minnesota","node_id":1912927,"version":4}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7693482,46.7833117]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1910082/history","NAME":"Minnesota","node_id":1910082,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7670792,46.865781]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1878936/history","NAME":"Minnesota","node_id":1878936,"version":4}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7849644,46.8787851]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1722050/history","NAME":"North Dakota","node_id":1722050,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8064716,46.8052422]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1663141/history","NAME":"North Dakota","node_id":1663141,"version":2}}
+]}

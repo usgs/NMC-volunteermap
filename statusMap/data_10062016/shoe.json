@@ -1,0 +1,31 @@
+{"name":"NewFeatureType","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7753089,46.9156334]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1769656/history","NAME":"North Dakota","node_id":1769656,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8214137,46.8161289]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1769328/history","NAME":"North Dakota","node_id":1769328,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8067423,46.8531022]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1767211/history","NAME":"North Dakota","node_id":1767211,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8106935,46.8197817]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1765819/history","NAME":"North Dakota","node_id":1765819,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8523471,46.813871]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1760694/history","NAME":"North Dakota","node_id":1760694,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7895687,46.8587218]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1758108/history","NAME":"North Dakota","node_id":1758108,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7902724,46.9038632]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1756779/history","NAME":"North Dakota","node_id":1756779,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7978228,46.8508146]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1756253/history","NAME":"North Dakota","node_id":1756253,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8015679,46.8260958]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1753761/history","NAME":"North Dakota","node_id":1753761,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7907313,46.8738348]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1753342/history","NAME":"North Dakota","node_id":1753342,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7978157,46.88006]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1752251/history","NAME":"North Dakota","node_id":1752251,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7978157,46.88006]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1752251/history","NAME":"North Dakota","node_id":1752251,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7926004,46.8464103]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1750689/history","NAME":"North Dakota","node_id":1750689,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8112239,46.7946471]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1750591/history","NAME":"North Dakota","node_id":1750591,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8096497,46.8713552]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1749957/history","NAME":"North Dakota","node_id":1749957,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8114376,46.854879]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1746944/history","NAME":"North Dakota","node_id":1746944,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7882602,46.8669468]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1746879/history","NAME":"North Dakota","node_id":1746879,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7912973,46.8961478]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1746061/history","NAME":"North Dakota","node_id":1746061,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7867268,46.9021219]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1742501/history","NAME":"North Dakota","node_id":1742501,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7725153,46.8830199]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1742186/history","NAME":"North Dakota","node_id":1742186,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8261232,46.8878074]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1738200/history","NAME":"North Dakota","node_id":1738200,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8065163,46.8628167]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1738192/history","NAME":"North Dakota","node_id":1738192,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.796156,46.860042]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1737185/history","NAME":"North Dakota","node_id":1737185,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7825406,46.8875474]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1737074/history","NAME":"North Dakota","node_id":1737074,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7910914,46.8817178]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1733678/history","NAME":"North Dakota","node_id":1733678,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7941479,46.8879188]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1732803/history","NAME":"North Dakota","node_id":1732803,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7904337,46.9146684]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1731902/history","NAME":"North Dakota","node_id":1731902,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7907311,46.8742968]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1696741/history","NAME":"North Dakota","node_id":1696741,"version":2}}
+]}

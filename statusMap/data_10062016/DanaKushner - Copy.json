@@ -1,0 +1,30 @@
+{"name":"NewFeatureType","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.8011417,41.3224446]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2086656/history","NAME":"Pennsylvania","node_id":2086656,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0814464,41.8127044]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2086170/history","NAME":"Pennsylvania","node_id":2086170,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0722464,41.8040996]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2086169/history","NAME":"Pennsylvania","node_id":2086169,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0729357,41.7868305]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2086168/history","NAME":"Pennsylvania","node_id":2086168,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0781151,41.8065068]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2086167/history","NAME":"Pennsylvania","node_id":2086167,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.700039,41.3710548]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2086166/history","NAME":"Pennsylvania","node_id":2086166,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.6959272,41.3732475]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2086165/history","NAME":"New York","node_id":2086165,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.6715137,41.3056877]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2086164/history","NAME":"New Jersey","node_id":2086164,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.6592936,41.270944]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2086163/history","NAME":"New Jersey","node_id":2086163,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.6814642,41.3710519]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2017440/history","NAME":"New York","node_id":2017440,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.6817677,41.3676754]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1973400/history","NAME":"New York","node_id":1973400,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.6840435,41.3686395]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1970441/history","NAME":"New York","node_id":1970441,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.6844805,41.3596457]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1968099/history","NAME":"New York","node_id":1968099,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.6826559,41.3652782]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1913811/history","NAME":"New York","node_id":1913811,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.6890518,41.3600939]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1898073/history","NAME":"New York","node_id":1898073,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.7392222,41.3482946]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1761409/history","NAME":"Pennsylvania","node_id":1761409,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.254039,40.7213723]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1757647/history","NAME":"New Jersey","node_id":1757647,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.7373488,41.3499692]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1753164/history","NAME":"Pennsylvania","node_id":1753164,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.7396924,41.3493139]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1737952/history","NAME":"Pennsylvania","node_id":1737952,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.70456,41.36778]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1722563/history","NAME":"Pennsylvania","node_id":1722563,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.8016487,41.3239423]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1718695/history","NAME":"Pennsylvania","node_id":1718695,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.2542979,40.7232144]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1707851/history","NAME":"New Jersey","node_id":1707851,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.6980559,41.3639066]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1705065/history","NAME":"Pennsylvania","node_id":1705065,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.7125705,41.3593783]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1704179/history","NAME":"Pennsylvania","node_id":1704179,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.8020793,41.3243922]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1702510/history","NAME":"Pennsylvania","node_id":1702510,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.2567848,40.7100198]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1668231/history","NAME":"New Jersey","node_id":1668231,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.2515177,40.7265619]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1658241/history","NAME":"New Jersey","node_id":1658241,"version":2}}
+]}

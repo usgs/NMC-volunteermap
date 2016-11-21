@@ -1,0 +1,33 @@
+{"name":"NewFeatureType","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0831013,40.9614718]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2093983/history","NAME":"New Jersey","node_id":2093983,"version":1}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0363218,40.912632]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2077401/history","NAME":"New Jersey","node_id":2077401,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0309272,40.9545553]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2076734/history","NAME":"New Jersey","node_id":2076734,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0263513,40.9188075]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2065642/history","NAME":"New Jersey","node_id":2065642,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.6369995,37.7525047]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1821733/history","NAME":"Nevada","node_id":1821733,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.2079632,41.3313742]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1797522/history","NAME":"Nebraska","node_id":1797522,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.025818,40.9504265]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1764572/history","NAME":"New Jersey","node_id":1764572,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0104824,40.9139519]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1764221/history","NAME":"New Jersey","node_id":1764221,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0233816,40.9274431]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1755776/history","NAME":"New Jersey","node_id":1755776,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.012088,40.9463064]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1752768/history","NAME":"New Jersey","node_id":1752768,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0184215,40.9376868]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1746312/history","NAME":"New Jersey","node_id":1746312,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0253386,40.9277183]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1746152/history","NAME":"New Jersey","node_id":1746152,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0820655,40.9611367]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1745240/history","NAME":"New Jersey","node_id":1745240,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0136418,40.9406147]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1737797/history","NAME":"New Jersey","node_id":1737797,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0215105,40.9181062]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1736565/history","NAME":"New Jersey","node_id":1736565,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0126319,40.9377085]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1736295/history","NAME":"New Jersey","node_id":1736295,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0215152,40.9420683]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1735771/history","NAME":"New Jersey","node_id":1735771,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0272,40.92491]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1718162/history","NAME":"New Jersey","node_id":1718162,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0247824,40.9321794]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1706542/history","NAME":"New Jersey","node_id":1706542,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0247824,40.9321794]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1706542/history","NAME":"New Jersey","node_id":1706542,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0178276,40.9497466]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1702840/history","NAME":"New Jersey","node_id":1702840,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0178276,40.9497466]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1702840/history","NAME":"New Jersey","node_id":1702840,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.094086,40.953733]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1698635/history","NAME":"New Jersey","node_id":1698635,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.071287,40.962905]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1697844/history","NAME":"New Jersey","node_id":1697844,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0515291,40.9714869]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1683619/history","NAME":"New Jersey","node_id":1683619,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.028473,40.9248209]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1672798/history","NAME":"New Jersey","node_id":1672798,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0862526,40.9400984]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1672466/history","NAME":"New Jersey","node_id":1672466,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0595849,40.9731535]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1663664/history","NAME":"New Jersey","node_id":1663664,"version":2}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0199707,40.9459875]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1658378/history","NAME":"New Jersey","node_id":1658378,"version":3}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0199707,40.9459875]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1658378/history","NAME":"New Jersey","node_id":1658378,"version":2}}
+]}
