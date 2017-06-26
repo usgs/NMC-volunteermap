@@ -41,39 +41,6 @@ L.control.layers(basemaps, null, {
   position: 'bottomright'
 }).addTo(map);
 
-//Create list of users automatic
-<<<<<<< HEAD
-=======
-var users = {};
-
-$.ajax({
-  url: "./data/users.json",
-  async: false,
-  dataType: 'json',
-  success: function(data) {
-    users = data
-  }
-});
-
-
->>>>>>> gh-pages
-var suma = 0;
-var o = '';
-for (var i = 0; i < users.length; i++) {
-  o += '<li  id="' + users[i].UserName + '">' +
-    '<a class="users" href="#' + users[i].UserName + '"> ' + users[i].UserName + ' - ' + users[i].TotalUniqu + '</a>' +
-    '</li>';
-};
-<<<<<<< HEAD
-$('#userlayers').append(o);
-
-=======
-
-$('#userlayers').append(o);
-
-
-
->>>>>>> gh-pages
 //typeahead set-up
 var substringMatcher = function(strs) {
   return function findMatches(q, cb) {
@@ -92,22 +59,6 @@ var substringMatcher = function(strs) {
     cb(matches);
   };
 };
-
-var sourceArr = [];
-
-for (var i = 0; i < users.length; i++) {
-  sourceArr.push(users[i].UserName);
-}
-
-$('#searchinput').typeahead({
-  hint: true,
-  highlight: true,
-  minLength: 1
-}, {
-  name: 'sourceArr',
-  source: substringMatcher(sourceArr)
-});
-
 
 //nice progress bar
 var progress = document.getElementById('progress');
@@ -164,19 +115,7 @@ $('#userlayers li').click(function() {
     map.fitBounds(geojson.getBounds());
     $("#searchinput").val(""); //this clears the search box
     $("#volunteerName").html("<p>" + url + "<p>");
-    for (var i = 0; i < users.length; i++) {
-      if (users[i].UserName == url) {
-        gotDate = users[i].date;
-      }
-    };
-    for (var i = 0; i < users.length; i++) {
-      if (users[i].UserName == url) {
-        gotTotalEdits = users[i].TotalUniqu;
-      }
-    }
-    $("#volunteerNameSidebar").html(url);
-    $("#totalEdits").html("Total Edits: " + gotTotalEdits);
-    $("#since").html("Volunteer since: " + gotDate);
+    
     //testing nesting using d3
     d3.json("./data/" + url + ".json", function(json) {
       var stateName = d3.nest()
@@ -192,69 +131,7 @@ $('#userlayers li').click(function() {
         }
       }
     });
-    for (var i = 0; i < users.length; i++) {
-      if (users[i].UserName == url) {
-        var edits = users[i].TotalUniqu;
-        if (users[i].TotalUniqu > 6000) {
-          $.extend(users[i], {
-            tier: "11"
-          });
-          $('#earnedBadges').append("<li>Squadron of Biplane Spectators</li><li>Ring of Reconnaissance Rocketeers</li><li>Flock of Winged Witnesses</li><li>Family of Floating Photogrammetrists</li><li>Theodolite Assemblage</li><li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 5000 && users[i].TotalUniqu < 5999) {
-          $.extend(users[i], {
-            tier: "10"
-          });
-          $('#earnedBadges').append("<li>Ring of Reconnaissance Rocketeers</li><li>Flock of Winged Witnesses</li><li>Family of Floating Photogrammetrists</li><li>Theodolite Assemblage</li><li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 4000 && users[i].TotalUniqu < 4999) {
-          $.extend(users[i], {
-            tier: "9"
-          });
-          $('#earnedBadges').append("<li>Flock of Winged Witnesses</li><li>Family of Floating Photogrammetrists</li><li>Theodolite Assemblage</li><li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 3000 && users[i].TotalUniqu < 3999) {
-          $.extend(users[i], {
-            tier: "8"
-          });
-          $('#earnedBadges').append("<li>Family of Floating Photogrammetrists</li><li>Theodolite Assemblage</li><li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 2000 && users[i].TotalUniqu < 2999) {
-          $.extend(users[i], {
-            tier: "7"
-          });
-          $('#earnedBadges').append("<li>Theodolite Assemblage</li><li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 1000 && users[i].TotalUniqu < 1999) {
-          $.extend(users[i], {
-            tier: "6"
-          });
-          $('#earnedBadges').append("<li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 500 && users[i].TotalUniqu < 999) {
-          $.extend(users[i], {
-            tier: "5"
-          });
-          $('#earnedBadges').append("<li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 200 && users[i].TotalUniqu < 499) {
-          $.extend(users[i], {
-            tier: "4"
-          });
-          $('#earnedBadges').append("<li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 100 && users[i].TotalUniqu < 199) {
-          $.extend(users[i], {
-            tier: "3"
-          });
-          $('#earnedBadges').append("<li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 50 && users[i].TotalUniqu < 99) {
-          $.extend(users[i], {
-            tier: "2"
-          });
-          $('#earnedBadges').append("<li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 24 && users[i].TotalUniqu < 49) {
-          $.extend(users[i], {
-            tier: "1"
-          });
-          $('#earnedBadges').append("<li>Order of the Surveyor's Chain</li>")
-        }
-      }
-    }
-<<<<<<< HEAD
-=======
+    
     var countList = $('#earnedBadges li').length;
     console.log(countList);
     $('#earnedBadges li').click(function() {
@@ -263,7 +140,6 @@ $('#userlayers li').click(function() {
       $("#badgeModal").modal('show')
       $('#badge').attr('src', './assets/img/' + $(this).html() + '.png');
     });
->>>>>>> gh-pages
   });
 });
 
@@ -271,10 +147,6 @@ $('#userlayers li').click(function() {
 $('#searchBoxBtn').click(function() {
   var url = $('#searchinput').val();
   console.log(url);
-<<<<<<< HEAD
-  console.log(url);
-=======
->>>>>>> gh-pages
   if (geojson !== undefined) {
     map.removeLayer(geojson);
   }
@@ -294,23 +166,8 @@ $('#searchBoxBtn').click(function() {
     map.fitBounds(geojson.getBounds());
     $("#searchinput").val(""); //this clears the search box
     $("#volunteerName").html("<p>" + url + "<p>");
-    for (var i = 0; i < users.length; i++) {
-      if (users[i].UserName == url) {
-        gotDate = users[i].date;
-      }
-    }
-<<<<<<< HEAD
+
     $("#volunteerNameSidebar").html(url);
-=======
-    for (var i = 0; i < users.length; i++) {
-      if (users[i].UserName == url) {
-        gotTotalEdits = users[i].TotalUniqu;
-      }
-    }
-    $("#volunteerNameSidebar").html(url);
-    $("#totalEdits").html("Total Edits: " + gotTotalEdits);
->>>>>>> gh-pages
-    $("#since").html("Volunteer since: " + gotDate);
     //testing nesting using d3
     d3.json("./data/" + url + ".json", function(json) {
       var stateName = d3.nest()
@@ -327,72 +184,7 @@ $('#searchBoxBtn').click(function() {
         }
       }
     });
-    for (var i = 0; i < users.length; i++) {
-      if (users[i].UserName == url) {
-        var edits = users[i].TotalUniqu;
-        if (users[i].TotalUniqu > 6000) {
-          $.extend(users[i], {
-            tier: "11"
-          });
-          $('#earnedBadges').append("<li>Squadron of Biplane Spectators</li><li>Ring of Reconnaissance Rocketeers</li><li>Flock of Winged Witnesses</li><li>Family of Floating Photogrammetrists</li><li>Theodolite Assemblage</li><li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 5000 && users[i].TotalUniqu < 5999) {
-          $.extend(users[i], {
-            tier: "10"
-          });
-          $('#earnedBadges').append("<li>Ring of Reconnaissance Rocketeers</li><li>Flock of Winged Witnesses</li><li>Family of Floating Photogrammetrists</li><li>Theodolite Assemblage</li><li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 4000 && users[i].TotalUniqu < 4999) {
-          $.extend(users[i], {
-            tier: "9"
-          });
-          $('#earnedBadges').append("<li>Flock of Winged Witnesses</li><li>Family of Floating Photogrammetrists</li><li>Theodolite Assemblage</li><li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 3000 && users[i].TotalUniqu < 3999) {
-          $.extend(users[i], {
-            tier: "8"
-          });
-          $('#earnedBadges').append("<li>Family of Floating Photogrammetrists</li><li>Theodolite Assemblage</li><li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 2000 && users[i].TotalUniqu < 2999) {
-          $.extend(users[i], {
-            tier: "7"
-          });
-          $('#earnedBadges').append("<li>Theodolite Assemblage</li><li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 1000 && users[i].TotalUniqu < 1999) {
-          $.extend(users[i], {
-            tier: "6"
-          });
-          $('#earnedBadges').append("<li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 500 && users[i].TotalUniqu < 999) {
-          $.extend(users[i], {
-            tier: "5"
-          });
-          $('#earnedBadges').append("<li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 200 && users[i].TotalUniqu < 499) {
-          $.extend(users[i], {
-            tier: "4"
-          });
-          $('#earnedBadges').append("<li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 100 && users[i].TotalUniqu < 199) {
-          $.extend(users[i], {
-            tier: "3"
-          });
-          $('#earnedBadges').append("<li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 50 && users[i].TotalUniqu < 99) {
-          $.extend(users[i], {
-            tier: "2"
-          });
-          $('#earnedBadges').append("<li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 25 && users[i].TotalUniqu < 49) {
-          $.extend(users[i], {
-            tier: "1"
-          });
-          $('#earnedBadges').append("<li>Order of the Surveyor's Chain</li>")
-        }
-      }
-    }
-<<<<<<< HEAD
-  });
-});
-
-=======
+    
     $('#earnedBadges li').click(function() {
       var badge = $(this).html();
       var badgeID = "'#" + badge + "'";
@@ -402,8 +194,6 @@ $('#searchBoxBtn').click(function() {
   });
 });
 
-
->>>>>>> gh-pages
 //show #progress div when making ajax loads
 $(document).ajaxStart(function() {
   $("#progress").show();
@@ -423,14 +213,7 @@ $("#searchclear").click(function() {
   $(this).hide();
 });
 
-<<<<<<< HEAD
-// $("#searchclear").click(function(evt) {
-//   evt.preventDefault();
-//   $("#searchinput").val("");
-// });
 
-=======
->>>>>>> gh-pages
 //collapse and show sidebar
 $('#sidebar').slideReveal({
   trigger: $("#showSidebar, #closePanel"),
