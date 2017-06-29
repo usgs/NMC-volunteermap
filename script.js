@@ -21,6 +21,13 @@ var basemaps = {
   "The National Map Imagery": imagery
 }
 
+/*
+ Here is where you set the boundaries
+ HINT: Depending on how these challenge things are set up you could just use the same file that's supplying
+    the feature data to the map to also send it the boundaries so you only need to update one file later on
+ HINT: read above hint for Title
+*/
+
 var southWest = L.latLng(11.232404, -185.885037),
   northEast = L.latLng(72.675988, -50.814728),
   bounds = L.latLngBounds(southWest, northEast);
