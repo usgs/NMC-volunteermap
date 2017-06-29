@@ -212,12 +212,3 @@ $("#searchclear").click(function() {
   $("#searchinput").val('');
   $(this).hide();
 });
-
-
-//collapse and show sidebar
-$('#sidebar').slideReveal({
-  trigger: $("#showSidebar, #closePanel"),
-  width: 320,
-  push: false,
-  top: 50,
-});
