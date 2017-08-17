@@ -14,25 +14,29 @@ var imagery = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/US
   attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer">USGS</a>'
 });
 
-var service = L.mapServer.wms("https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer?f=jsapi")
+//var service = L.mapServer.wms("https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer?f=jsapi")
+
+var featureLayer = new L.esri.clusteredFeatureLayer({
+          url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0"
+/*
+          onEachFeature: function(featureClicked){ 
+            featureClicked.on("click", function(test, testA){
+                            console.log("HITS : " , test) 
+                          })
+          }
+*/
+        });
+
+featureLayer.eachFeature(function(layer){ 
+  console.log('ayer: ', layer)
+})
 							 
 var southWest = L.latLng(37.04, -89.29),
   northEast = L.latLng(42.49, -87.10),
   bounds = L.latLngBounds(southWest, northEast);
 
-var editStatus  = L.markerClusterGroup({
-	showCoverageOnHover: true, 
-	zoomToBoundsOnClick: true 
-}); 
 
-var editStatus = L.Icon.extend({
-	options: {
-		iconSize: [50, 64],
-		shadowSize: [50, 64],
-		iconAnchor: [25, 64],
-		shadowAnchor: [0, 64],
-	}
-});
+/*
 var markers = new 
 L.MarkerClusterGroup ({showCoverageOnHover:false});
 function populate () {
@@ -44,21 +48,25 @@ function populate () {
 	}
 		}
 populate();
+*/
 var filtered = L.markerClusterGroup({
 	chunkedLoading: true, 
 	zoomToBoundsOnClick: false
 })
-
+/*
 data.addLayer(tobechecked).addTo(map),
 data.addLayer(tobepeerreviwed).addTo(map),
 data.addLayer(finished).addTo(map);
-
+*/
 var map = L.map('map', {
   layers: [imageryTopo],
   'zoomControl': false,
   'minZoom': 4,
   'maxBounds': bounds
 }).setView([40.63, -77.84], 7);
+
+featureLayer.addTo(map);
+
 //zoom custom position
 L.control.zoom({
   position: 'topright'
@@ -84,8 +92,9 @@ var edit_status_lists = {
     "needsReviewd": [],
     "finshed": []
 }
-
+/*
 var grouping = editStatusArray["needsChecked","needsReviewd",  "finshed"]
+*/
 /*
 $.getJSON("./data/Schools.json", function(data) {
   console.log("YAY THIS POS WORKS! " , data)
@@ -221,6 +230,7 @@ $("#finished").click(function(){
       $(this).css("background-position", "-144px -46px").css("padding-top", "8px").css("padding-left", "8px");
       $(this).find("i").attr('class', 'fa fa-eye-slash');
     } else {
+/*
       $.getJSON("./data/finished.json", function(data) {
         finished = L.geoJson(data, {
           onEachFeature: function(feature, layer) {
@@ -238,7 +248,8 @@ $("#finished").click(function(){
           }
         })
         map.addLayer(finished)
-      });
+
+      });*/
       $(this).removeAttr('style');
       $(this).find('i').attr('class', 'fa fa-check');
     }
@@ -249,6 +260,7 @@ $("#tobechecked").click(function(){
       $(this).css("background-position", "-144px -46px").css("padding-top", "8px").css("padding-left", "8px");
       $(this).find("i").attr('class', 'fa fa-eye-slash');
     } else {
+/*
       $.getJSON("./data/tobechecked.json", function(data) {
         tobechecked = L.geoJson(data, {
           onEachFeature: function(feature, layer) {
@@ -266,7 +278,8 @@ $("#tobechecked").click(function(){
           }
         })
         map.addLayer(tobechecked)
-      });
+
+      });*/
       $(this).removeAttr('style');
       $(this).find('i').attr('class', 'fa fa-exclamation');
     }
@@ -277,6 +290,7 @@ $("#tobepeerreviwed").click(function(){
       $(this).css("background-position", "-144px -46px").css("padding-top", "8px").css("padding-left", "8px");
       $(this).find("i").attr('class', 'fa fa-eye-slash');
     } else {
+/*
       $.getJSON("./data/tobepeerreviwed.json", function(data) {
         tobepeerreviwed = L.geoJson(data, {
           onEachFeature: function(feature, layer) {
@@ -294,12 +308,15 @@ $("#tobepeerreviwed").click(function(){
           }
         })
         map.addLayer(tobepeerreviwed)
-      });
+
+      });*/
       $(this).removeAttr('style');
       $(this).find('i').attr('class', 'fa fa-times');
     }
 });
-map.addLayer(markers);
+
+// map.addLayer(markers);
+
 // $(".markers-legend").hover(function(){
 //   $(this).css('cursor', 'pointer');
 //   original = $(this).find("i").attr('class');
