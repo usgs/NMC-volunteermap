@@ -7,15 +7,11 @@ html, body {
 }
 #map {
   height: calc(100% - 52px);
-  width: 100%;
+  /*width: 100%;*/
 }
 .navbar-inverse {
   background-color: #16a085;
-<<<<<<< HEAD
-  z-index: 99999;
-=======
   z-index: 1010;
->>>>>>> gh-pages
 }
 #closePanel {
   float: right;
@@ -27,12 +23,12 @@ html, body {
   color: #a87e7a;
 }
 #sidebar {
-  background-color: #1abc9c;
-<<<<<<< HEAD
-  z-index: 9999;
-=======
+  background-color: #16a085;
   z-index: 1000;
->>>>>>> gh-pages
+  width: 320;
+  /*top: 50;*/
+  float: left;
+  height: 100%;
 }
 #sidebarHeader {
   padding-bottom: 5;
@@ -223,8 +219,6 @@ html body div#map.leaflet-container.leaflet-fade-anim div.leaflet-map-pane div.l
   border-radius: 0px;
   -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
 }
-<<<<<<< HEAD
-=======
 
 li { cursor: pointer; cursor: hand; }
 li:hover {color: #ffffff;}
@@ -253,4 +247,3 @@ html body.modal-open div#about.modal.fade.in div.modal-dialog div.modal-content 
 .close:hover{
   color:#fff;
 }
->>>>>>> gh-pages

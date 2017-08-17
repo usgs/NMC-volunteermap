@@ -1,122 +1,87 @@
 <html>
 
 <head>
-  <title>Volunteer Edited Points</title>
+  <title>National Map Corps Edited Points</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css" />  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="./assets/plugins/Leaflet-cluster-markers/css/MarkerCluster.css">
+  <link rel="stylesheet" href="./assets/plugins/Leaflet-cluster-markers/css/MarkerCluster.Default.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+  <link rel="stylesheet" href="./assets/plugins/leaflet-awesome-markers/leaflet.awesome-markers.css" />
+  <link rel="stylesheet" href="./assets/plugins/leaflet-extra-markers/css/leaflet.extra-markers.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+  <script src='https://code.jquery.com/jquery-1.11.0.min.js'></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+  <script src="./assets/plugins/Leaflet-cluster-markers/JS/leaflet.markercluster.js"></script>
+  <script src="./assets/plugins/leaflet-awesome-markers/leaflet.awesome-markers.js"></script>
+  <script src="./assets/plugins/leaflet-extra-markers/js/leaflet.extra-markers.min.js"></script>
+  <script src="./assets/plugins/esri-leaflet/esri-leaflet.js"></script>
+  <script src="./assets/plugins/esri-leaflet/esri-leaflet-clustered-feature-layer-src.js"></script>
   <script>
     L_PREFER_CANVAS = true;
   </script>
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-  <script src="./assets/plugins/leaflet.markercluster-src.js"></script>
-  <script src="https://code.jquery.com/jquery-2.1.3.js"></script>
-  <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-  <script src="./assets/plugins/slidereveal.min.js"></script>
-  <script src="./assets/plugins/typeahead.bundle.js"></script>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js" charset="utf-8"></script>
   <link rel="stylesheet" href="./assets/css/style.css">
 </head>
-
 <body>
-  <nav class="navbar navbar-inverse">
-    <div class="container-fluid">
-      <!-- Brand and toggle get grouped for better mobile display -->
-      <div class="navbar-header">
-        <a class="navbar-brand" href="http://nationalmap.gov/TheNationalMapCorps/">
-          <img alt="Homepage" id="logo" src="./assets/img/tnmc.jpg">
-        </a>
-      </div>
-
-      <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="navbar-collapse" id="bs-example-navbar-collapse-1">
-        <ul class="nav navbar-nav">
-          <!-- dropdown for user selection -->
-          <li class="dropdown" id="usermenu">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Volunteers <span class="caret"></span></a>
-            <ul class="dropdown-menu" id="userlayers">
-            </ul>
-          </li>
-        </ul>
-        <form class="navbar-form navbar-left" role="search">
-          <div class="btn-group ">
-            <input id="searchinput" type="search" class="form-control" data-provide="typeahead" placeholder="Search for a Volunteer">
-            <span id="searchclear" class="glyphicon glyphicon-remove-circle"></span>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-3" id="Info" style="height: 100%;">
+        <div id="header" class="ribbon">
+          <h2>The National Map Corps </br> Challenge Map</h2>
+          <!-- <hr> -->
+          <h2> Illinois:Schools </h2>
+        </div>
+        <div id="layerControl" style="padding-top: 15px">
+        </div>
+        <div class="info" style="margin-top: 15px">
+          <h4>Legend</h4>
+          <div class="markers-box">
+            <div class="markers-legend" id="tobechecked">
+              <i class="fa fa-exclamation"></i>
+            </div>
+            <div class="markers-descri" id="tobecheckedDescr">
+              Points that need to be checked
+            </div>
           </div>
-          <button class="btn btn-default" type="button" id="searchBoxBtn">Search</button>
-          <button class="btn btn-default" type="button" id="showSidebar">Volunteer Information</button>
-<<<<<<< HEAD
-<<<<<<< HEAD
-          <!-- <button onclick="$(document).toggleFullScreen();" class="btn btn-default" type="button" id="fullscreen">Fullscreen</button> -->
-=======
-          <button class="btn btn-default" type="button" data-toggle="modal" data-target="#about">About</button>
->>>>>>> gh-pages
-=======
-          <button class="btn btn-default" type="button" data-toggle="modal" data-target="#myModal">About</button>
->>>>>>> 61e0c34e1b449aa489cd2576d84b911eb605494f
-        </form>
-
-        <h4 class="navbar-text navbar-right" id="volunteerName"></h4>
+          <div class="markers-box">
+            <div class="markers-legend" id="tobepeerreviwed">
+              <i class="fa fa-times"></i>
+            </div>
+            <div class="markers-descri" id="tobepeerreviwedDescr">
+              Points that need to be peer-reviewed
+            </div>
+          </div>
+          <div class="markers-box">
+            <div class="markers-legend" id="finished">
+              <i class="fa fa-check"></i>
+            </div>
+            <div class="markers-descri" style="padding-top:10px" id="finishedDescr">
+              Finished points
+            </div>
+          </div>
+        </div>
+        <div class="info" style="margin-top: 15px">
+          <a href="#" data-toggle="modal" data-target="#myModal">
+            <h4>About</h4>
+          </a>
+        </div>
+        <div class="info" style="margin-top: 15px">
+            <h5>Updated at: 07/26/2017</h5>
+        </div>
       </div>
-      <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container-fluid -->
-  </nav>
-  <div id="sidebar">
-    <div id="close">
-      <a href="#" id="closePanel"><i class="fa fa-times fa-2x"></i></a>
-    </div>
-    <div id="sidebarHeader">
-      <h2 class="sidebarText" id="volunteerNameSidebar"></h2>
-      <h3 class="sidebarText" id="totalEdits">
-        </h2>
-        <p class="sidebarText" id="since"></p>
-
-    </div>
-    <h3 style="padding-left: 18; font-weight: bold"><i class="fa fa-globe"></i> States Edited:</h3>
-    <ul id="statedEdited">
-    </ul>
-    <h3 style="padding-left: 18; font-weight: bold"><i class="fa fa-trophy"></i> Earned Badges:</h3>
-    <ul id="earnedBadges">
-    </ul>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <div id="footer">
-      <p class="muted">
-        Data from 07/26/2015
-      </p>
-      <p class="muted">
-        Data reflects both add and deleted points.
-      </p>
-=======
->>>>>>> gh-pages
-=======
->>>>>>> 61e0c34e1b449aa489cd2576d84b911eb605494f
+      <div class="col-sm-9" id="map" style="height: 100%;">
+        <script src="./School_script.js"></script>
+      </div>
     </div>
   </div>
-  <div id="map">
-    <div id="progress">
-
-      <div id="progress-bar">
-        <h3>Loading...</h3>
-      </div>
-      <script src="./data/users.json"></script>
-      <script type="application/javascript" src="./script.js"></script>
-    </div>
   </div>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
   <!-- Modal -->
-  <div class="modal fade" id="about" role="dialog">
-=======
-  <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
->>>>>>> 61e0c34e1b449aa489cd2576d84b911eb605494f
-    <div class="modal-dialog" style="margin-top:90px;">
+  <div class="modal fade" id="myModal" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
       <!-- Modal content-->
       <div class="modal-content">
         <div class="modal-header">
@@ -124,35 +89,10 @@
           <h4 class="modal-title">About</h4>
         </div>
         <div class="modal-body">
-          <p>
-<<<<<<< HEAD
-            This data reflects the status as of <b>12/30/2015</b>
-=======
-            This data reflects the status as of <b>07/26/2015</b>
->>>>>>> 61e0c34e1b449aa489cd2576d84b911eb605494f
-          </p>
-          <br>
-          <p>
-            <b><i>Data includes edited, added, verified, and deleted points.</i></b>
-          </p>
+          <h4>New to The National Map Corps? Check out our <a href="https://my.usgs.gov/confluence/display/nationalmapcorps/Home" target="_blank">home page</a> for more information.</h4>
         </div>
       </div>
     </div>
   </div>
-<<<<<<< HEAD
-  <!-- badgeModal -->
-  <div class="modal fade" id="badgeModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="top: 20%">
-    <div class="modal-dialog" style="width: 402px;">
-      <div class="modal-content">
-        <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <img id="badge">
-      </div>
-    </div>
-  </div>
->>>>>>> gh-pages
-=======
-
->>>>>>> 61e0c34e1b449aa489cd2576d84b911eb605494f
 </body>
-
 </html>
