@@ -19,6 +19,7 @@ var needsReviewed = 0;
 var finshed = 0;
 
 var featureLayer = new L.esri.clusteredFeatureLayer({
+          chunkedLoading: true,
           url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0",
           pointToLayer: function(feature, latlng) {
             if(feature.properties.EDITSTATUS === 0){ 
