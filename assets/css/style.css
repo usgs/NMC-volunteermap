@@ -121,24 +121,24 @@ h2:after {
 }
 
 .marker-cluster-small {
-	background-color: rgba(120, 10, 169, 0.57);
+	background-color: rgba(249, 155, 0, 0.57);
 	}
 .marker-cluster-small div {
-	background-color: rgba(116, 10, 168, 0.77);
+	background-color: rgba(239, 149, 0, 0.77);
 	}
 
 .marker-cluster-medium {
-	background-color: rgba(75, 10, 152, 0.57);
+	background-color: rgba(198, 123,0, 0.57);
 	}
 .marker-cluster-medium div {
-	background-color: rgba(71, 10, 152, 0.73);
+	background-color: rgba(186, 115, 0, 0.73);
 	}
 
 .marker-cluster-large {
-	background-color: rgba(22, 10, 15, 0.62);
+	background-color: rgba(175, 110, 1, 0.62);
 	}
 .marker-cluster-large div {
-	background-color: rgba(57, 10, 135, 0.74);
+	background-color: rgba(168, 104, 0, 0.74);
 	}
 .leaflet-marker-pane {
     color: darkviolet;
