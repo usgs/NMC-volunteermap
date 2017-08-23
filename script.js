@@ -28,8 +28,8 @@ var basemaps = {
  HINT: read above hint for Title
 */
 
-var southWest = L.latLng(11.232404, -185.885037),
-  northEast = L.latLng(72.675988, -50.814728),
+var southWest = L.latLng(36.518421, -94.681810),
+  northEast = L.latLng(41.713250, -84.717663),
   bounds = L.latLngBounds(southWest, northEast);
 
 var map = L.map('map', {
