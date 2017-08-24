@@ -66,8 +66,8 @@ var featureLayer = new L.esri.clusteredFeatureLayer({
           }
         });
 					 
-var southWest = L.latLng(37.04, -89.29),
-  northEast = L.latLng(42.49, -87.10),
+var southWest = L.latLng(36.518421, -94.681810),
+  northEast = L.latLng(41.713250, -84.717663),
   bounds = L.latLngBounds(southWest, northEast);
 
 var map = L.map('map', {
