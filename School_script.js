@@ -120,10 +120,11 @@ var map = L.map('map',{
 featureLayer.addTo(map);
 
 //zoom custom position
+/*
 L.control.zoom({
   position: 'topright'
 }).addTo(map);
-
+*/ 
 // custom zoom layer so as not to push past a certian level 
 
 
