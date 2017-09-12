@@ -130,7 +130,7 @@ L.control.zoom({
 var basemaps = {
   "The National Map Base Layer": nationalMap,
   "The Nationap Map + Aerial Imagery": imageryTopo,
-  "USDA NAIP": usdaNAIP,
+  // "USDA NAIP": usdaNAIP,
  // "The National Map Imagery": imagery2 
 };
 
