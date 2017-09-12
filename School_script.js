@@ -1,18 +1,41 @@
 //the base maps
-var imageryTopo = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSImageryTopo/MapServer/WmsServer?", {
-  layers: 0,
-  attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer">USGS</a>'
+var imageryTopo = L.tileLayer.wms('http://basemap.nationalmap.gov/arcgis/services/USGSImageryTopo/MapServer/WmsServer?', {
+  minZoom: '0',
+  maxZoom: '13',
+  layers: '0',
+  attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/services/USGSImageryTopo/MapServer">USGS</a>'
 });
 
 var nationalMap = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSTopo/MapServer/WmsServer?", {
+  minZoom : '0', 
+  maxZoom : '13',	
   layers: 0,
   attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer">USGS</a>'
 });
-
+var usdaNAIP = L.esri.dynamicMapLayer({
+	url: "https://gis.apfo.usda.gov/arcgis/rest/services/Base_Maps/Base_Map/MapServer", 
+	minZoom: '14', 
+	maxZoom: '19',
+	layers: 0, 
+	attribution: ' Map tiles by <a href="https://gis.apfo.usda.gov/arcgis/rest/services/Base_Maps/Base_Map/MapServer"> USDA</a>'
+});
+/*
 var imagery = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSImageryOnly/MapServer/WmsServer?", {
   layers: 0,
   attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer">USGS</a>'
 });
+*/
+/*
+ var imagery2 = L.esri.dynamicMapLayer({
+    url: 'https://services.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/MapServer?',
+    minZoom: '14',
+	maxZoom: '19',
+	attribution: 'Map tiles by <a href="https://services.nationalmap.gov/arcgis/services/USGSNAIPPlus/MapServer">USGS</a>' 
+  });
+  */
+
+var national = L.layerGroup([imageryTopo,usdaNAIP]);
+var usda = L.layerGroup([nationalMap, usdaNAIP]);
 
 var needsChecked = 0;
 var needsReviewed = 0;
@@ -21,13 +44,14 @@ var finshed = 0;
 var featureLayer = new L.esri.clusteredFeatureLayer({
           chunkedLoading: true,
           url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0",
+		  where: "FTYPE= '730' and STATE ='IL'",
           pointToLayer: function(feature, latlng) {
             if(feature.properties.EDITSTATUS === 0){ 
               return L.marker(latlng, {
                   icon: L.ExtraMarkers.icon({
                       icon: 'fa-exclamation fa-2x',
                       shape: 'square',
-                      markerColor: 'red',
+                      markerColor:'red',
                       prefix: 'fa'
                    }),
                });
@@ -35,7 +59,7 @@ var featureLayer = new L.esri.clusteredFeatureLayer({
               return L.marker(latlng, {
                   icon: L.ExtraMarkers.icon({
                       icon: 'fa-times fa-2x',
-                      markerColor: 'yellow',
+                      markerColor:'green-light',
                       shape: 'square',
                       prefix: 'fa'
                    }),
@@ -45,7 +69,7 @@ var featureLayer = new L.esri.clusteredFeatureLayer({
                   icon: L.ExtraMarkers.icon({
                       icon: 'fa-check fa-2x',
                       shape: 'square',
-                      markerColor: 'green-light',
+                      markerColor:'yellow',
                       prefix: 'fa'
                    }),
                });
@@ -70,25 +94,46 @@ var southWest = L.latLng(36.518421, -94.681810),
   northEast = L.latLng(41.713250, -84.717663),
   bounds = L.latLngBounds(southWest, northEast);
 
+/*
 var map = L.map('map', {
   layers: [imageryTopo],
   'zoomControl': false,
-  'minZoom': 4,
+  'minZoom': 0,
+  'maxZoom': 13,
   'maxBounds': bounds
 }).setView([40.63, -77.84], 7);
 
+var basemap = L.map('basemap',{
+	layers: [usdaNAIP],
+	'zoomControl': false,
+	'minZoom': 14, 
+	'maxZoom':19, 
+	'maxBounds': bounds
+}) .setView([40.63, -77.84], 7);
+*/
+
+var map = L.map('map',{
+	layers: [imageryTopo,usdaNAIP],
+	'maxBounds': bounds 
+}) .setView([40.63, -77.84], 7);
+
 featureLayer.addTo(map);
+featureLayer.addto(basemap);
 
 //zoom custom position
 L.control.zoom({
   position: 'topright'
 }).addTo(map);
 
+// custom zoom layer so as not to push past a certian level 
+
+
 var basemaps = {
   "The National Map Base Layer": nationalMap,
   "The Nationap Map + Aerial Imagery": imageryTopo,
-  "The National Map Imagery": imagery
-}
+  "USDA NAIP": usdaNAIP,
+ // "The National Map Imagery": imagery2 
+};
 
 L.control.layers(basemaps, null, {
   position: 'bottomleft'
