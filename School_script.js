@@ -118,7 +118,6 @@ var map = L.map('map',{
 }) .setView([40.63, -77.84], 7);
 
 featureLayer.addTo(map);
-featureLayer.addto(basemap);
 
 //zoom custom position
 L.control.zoom({
