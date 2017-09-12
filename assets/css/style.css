@@ -82,8 +82,7 @@ h2:after {
     display: inline-block;
 }
 #finished {
-  background-position: -432px -46px;
-	-108px -46px;
+  background-position: -108px -46px;
   padding-top: 8px;
   padding-left: 8px
 }
@@ -93,7 +92,7 @@ h2:after {
   padding-left: 14px
 }
 #tobepeerreviwed {
-  background-position: 	-108px -46px;
+  background-position: -432px -46px;
   padding-top: 8px;
   padding-left: 10px
 }
@@ -121,25 +120,25 @@ h2:after {
 }
 
 .marker-cluster-small {
-	background-color: rgba(249, 155, 0, 0.57);
+	background-color: rgba(139,38,224, 0.57);
 	}
 .marker-cluster-small div {
-	background-color: rgba(239, 149, 0, 0.77);
+	background-color: rgba(139,38,224, 0.77);
 	}
 
 .marker-cluster-medium {
-	background-color: rgba(198, 123,0, 0.57);
+	background-color: rgba(139,38,224, 0.57);
 	}
 .marker-cluster-medium div {
-	background-color: rgba(186, 115, 0, 0.73);
+	background-color: rgba(139,38,224, 0.73);
 	}
 
 .marker-cluster-large {
-	background-color: rgba(175, 110, 1, 0.62);
+	background-color: rgba(139,38,224, 0.62);
 	}
 .marker-cluster-large div {
-	background-color: rgba(168, 104, 0, 0.74);
+	background-color: rgba(139,38,224, 0.74);
 	}
 .leaflet-marker-pane {
     color: black;
-}
+};
