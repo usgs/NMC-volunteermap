@@ -127,6 +127,7 @@ L.control.zoom({
 */ 
 // custom zoom layer so as not to push past a certian level 
 
+map.zoomControl.setPosition('bottomright')
 
 var basemaps = {
   "The National Map Base Layer": nationalMap,
