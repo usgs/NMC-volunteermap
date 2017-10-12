@@ -2,7 +2,7 @@
 
 This map aims to display the volunteers' contributions to the National Map Corps project. It is intended to be publicly available trough the [NMC's project page](https://my.usgs.gov/confluence/display/nationalmapcorps/Home).
  
-#Section 1:  How To Use The Map:
+Section 1:  How To Use The Map:
 
 In order to use the interactive web map please go to the following link: Recent Challenge: [IL Schools](http://usgs.github.io/NMC-volunteermap/NMCvolunteermapmaster/NMCvolunteermapmaster/NMCvolunteermapUpdate/)
  10/12/2017 . 
