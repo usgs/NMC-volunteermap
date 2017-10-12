@@ -1,0 +1,44 @@
+[
+  {
+    "name": "usgs/NMC-volunteermap",
+    "organization": "U.S. Geological Survey",
+    "description": "This repo is for all interactive web maps for The National Map Corps.We conduct a series of challenges throughout the year for volunteers to contribute to.",
+    "version": "1.0",
+    "status": "Pre-Approved",
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "https://github.com/usgs/NMC-volunteermap/blob/master/LICENSE"
+        }
+      ]
+    },
+    "homepageURL": "https://usgs.github.io/REPOSITORY_NAME/",
+    "downloadURL": "https://github.com/usgs/REPOSITORY_NAME/archive/master.zip",
+    "disclaimerURL": "https://github.com/usgs/REPOSITORY_NAME/blob/master/LICENSE.md",
+    "repositoryUrl": "https://github.com/usgs/REPOSITORY_NAME.git",
+    "vcs": "git",
+
+    "laborHours": null,
+
+    "tags": [
+      "National Map Corps",
+      "USGS"
+    ],
+
+    "languages": [
+      "English",
+    ],
+
+    "contact": {
+      "name": "The National Map Corps Team,
+      "email": "https://github.com/usgs/NMC-volunteermap/blob/master/LICENSE"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2017-10-12"
+    }
+  }
+]
