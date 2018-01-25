@@ -45,8 +45,8 @@ var featureLayer = new L.esri.clusteredFeatureLayer({
           chunkedLoading: true,
           url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Unedited_Status_Map/MapServer/0",
           pointToLayer: function(feature, latlng) {
-            if(feature.properties.EDITSTATUS === 0){ 
-              return L.marker(latlng, {
+            if (feature.properties.EDITSTATUS === 0) { 
+            return L.marker(latlng, {
                   icon: L.ExtraMarkers.icon({
                       icon: 'fa-exclamation fa-2x',
                       shape: 'square',
@@ -88,11 +88,11 @@ var featureLayer = new L.esri.clusteredFeatureLayer({
             layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
           }
         });
-
+// Line 94 is the query from the API REST for the edit status  of 0 or 1. 
 var featureLayer = new L.esri.clusteredFeatureLayer({
 	chunkedLoading: true,
 	url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0",
-	 pointToLayer: function(feature, latlng) {
+	pointToLayer: function(feature, latlng) {
             if(feature.properties.EDITSTATUS === 0){ 
               return L.marker(latlng, {
                   icon: L.ExtraMarkers.icon({
@@ -136,17 +136,43 @@ var featureLayer = new L.esri.clusteredFeatureLayer({
             layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');}
 }); 
 
-var southWest = L.latLng(14.581656, -169.354212),
-  northEast = L.latLng(661.492973, 174.987991),
-  bounds = L.latLngBounds(southWest, northEast);
+		var southWest = L.latLng(14.581656, -169.354212),
+			northEast = L.latLng(661.492973, 174.987991),
+			bounds = L.latLngBounds(southWest, northEast);
+		//The below code generates a random number//
+function myFunction() {
+	getRandomFeature().then(function(test) {
+		console.log("Mug Man! : ",test)
+		console.log("Map Man :" , map)
+		console.log("LAYER MAN :" , featureLayer)
+		map.setView([test[0].geometry.y, test[0].geometry.x],13)
+	});
+}
 
-var HTMLButtonElement = new L.esri.clusteredFeatureLayer({
-	chunkedLoading: true,
-	url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0",
-	getElementById: EDITTYPE = (0,1),
-	getRandomValues:
-	
-             });
+function getRandomFeature(){
+  return new Promise(function(resolve, reject) {
+    let query = new L.esri.Tasks.query({
+       url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0" // Or whatever service you want
+    });
+    let testId = 0;
+    query.where("EDITSTATUS in ('0', '1')")
+    query.ids(function(error, featureCollection, response){
+        if(featureCollection.length > 0){
+          testId = featureCollection[Math.floor(Math.random()*featureCollection.length)]
+          let finalQuery = new L.esri.Tasks.query({
+              url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0" // Or whatever service you want
+          });
+          query.where("OBJECTID = " + testId.toString())
+          query.run(function(error, featureCollection, response){
+            resolve(response.features);
+          });
+        } else {
+          reject("nothing found")
+        }
+    })
+  })
+}
+
 /*
 var map = L.map('map', {
   layers: [imageryTopo],
