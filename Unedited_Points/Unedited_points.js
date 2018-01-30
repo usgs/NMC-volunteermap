@@ -134,7 +134,7 @@ var featureLayer = new L.esri.clusteredFeatureLayer({
               $('#finishedCounter').text(" (" + finshed  + " points)")
             }
             layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');}
-}); 
+});                                                                                                                                                                                                                                                        
 
 		var southWest = L.latLng(14.581656, -169.354212),
 			northEast = L.latLng(661.492973, 174.987991),
@@ -148,13 +148,14 @@ function myFunction() {
 		map.setView([test[0].geometry.y, test[0].geometry.x],13)
 	});
 }
-
 function getRandomFeature(){
-  return new Promise(function(resolve, reject) {
+	let testId = 0;
+	var geometry = (layers);
+	var popup = L.popup().setLatLng([testId[0].geometry.y, testId[0].geometry.x]).setContent(testId[0].attributes['NAME']).openOn(map);
+	return new Promise(function(resolve, reject) {
     let query = new L.esri.Tasks.query({
        url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0" // Or whatever service you want
     });
-    let testId = 0;
     query.where("EDITSTATUS in ('0', '1')")
     query.ids(function(error, featureCollection, response){
         if(featureCollection.length > 0){
@@ -172,6 +173,12 @@ function getRandomFeature(){
     })
   })
 }
+var map = L.map('map',{
+	layers: [national,usda],
+	'maxBounds': bounds 
+}) .setView([40.63, -77.84], 7);
+
+featureLayer.addTo(map);
 
 /*
 var map = L.map('map', {
@@ -190,13 +197,6 @@ var basemap = L.map('basemap',{
 	'maxBounds': bounds
 }) .setView([40.63, -77.84], 7);
 */
-
-var map = L.map('map',{
-	layers: [national,usda],
-	'maxBounds': bounds 
-}) .setView([40.63, -77.84], 7);
-
-featureLayer.addTo(map);
 
 //zoom custom position
 /*
