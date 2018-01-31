@@ -1,0 +1,124 @@
+<html>
+
+<head>
+  <title>TMNCorps Challenge Map</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css" />  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="./assets/plugins/Leaflet-cluster-markers/css/MarkerCluster.css">
+  <link rel="stylesheet" href="./assets/plugins/Leaflet-cluster-markers/css/MarkerCluster.Default.css">
+  <link rel="stylesheet" href="./assets/plugins/leaflet/leaflet.css" />
+  <link rel="stylesheet" href="./assets/plugins/leaflet-awesome-markers/leaflet.awesome-markers.css" />
+  <link rel="stylesheet" href="./assets/plugins/leaflet-extra-markers/css/leaflet.extra-markers.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="./assets/css/style_unedited.css">
+
+  <script src='https://code.jquery.com/jquery-1.11.0.min.js'></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <script src="./assets/plugins/leaflet/leaflet-src.js"></script>
+  <script src="./assets/plugins/Leaflet-cluster-markers/JS/leaflet.markercluster.js"></script>
+  <script src="./assets/plugins/leaflet-awesome-markers/leaflet.awesome-markers.js"></script>
+  <script src="./assets/plugins/leaflet-extra-markers/js/leaflet.extra-markers.min.js"></script>
+  <script src="./assets/plugins/esri-leaflet/esri-leaflet.js"></script>
+  <script src="./assets/plugins/esri-leaflet/esri-leaflet-clustered-feature-layer-src.js"></script>
+  <script>
+    L_PREFER_CANVAS = true;
+  </script>
+</head>
+<body>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-3" id="Info" style="height: 100%;">
+        <div id="header" class="ribbon">
+          <h2>The National Map Corps </br>Interactive Map</h2>
+          <!-- <hr> -->
+          <h2> Points In Progress  </h2>
+        </div>
+        <div id="layerControl" style="padding-top: 15px">
+        </div>
+        <div class="info" style="margin-top: 15px">
+          <h4>Legend</h4>
+		  <h5>
+		  <div class="image">
+		  <div class="image" id= "img">
+		<div style="padding: 0px 5px 5px 5px;">
+			<img src ="./assets/img/Main_point2.png"></a>
+		  </div>
+		  </div>
+		  <div class="Write Up" id="clusterpoints">
+			  <p>
+The purple circles represent clustered points. The number shown is the # of clustered points. Zoom or click to see all of the points.</p><div
+			  id="clusterpoints"> </div>
+		  </div>
+		  </div>
+			</h5>
+          <div class="markers-box">
+            <div class="markers-legend" id="tobechecked">
+              <i class="fa fa-exclamation"></i>
+            </div>
+            <div class="markers-descri" id="tobecheckedDescr">
+              Points that need to be checked <div id="tobecheckedCounter"></div>
+            </div>
+          </div>
+          <div class="markers-box">
+            <div class="markers-legend" id="tobepeerreviwed">
+              <i class="fa fa-times"></i>
+            </div>
+            <div class="markers-descri" id="tobepeerreviwedDescr">
+              Points that need to be peer-reviewed <div id="tobepeerreviwedCounter"></div>
+            </div>
+          </div>
+          <div class="markers-box">
+            <div class="markers-legend" id="finished">
+              <i class="fa fa-check"></i>
+            </div>
+            <div class="markers-descri" style="padding-top:10px" id="finishedDescr">
+              Finished points <div id="finishedCounter"></div>
+            </div>
+          </div>
+        </div>
+	  	<div>
+			<p id="RandomPoint"></p>
+			<form>
+			<input type = "button" value = "Generate Random Point" onclick = myFunction()> 
+			</form>
+	  </div>
+        <div class="info" style="margin-top: 15px">
+          <a href="#" data-toggle="modal" data-target="#myModal">
+            <h4>Instructions and About</h4>
+          </a>
+        </div> 
+        <div class="info" style="margin-top: 15px">
+            <h5>Updated in real-time</h5>
+        </div>
+      </div>
+      <div class="col-sm-9" id="map" style="height: 100%;">
+        <script src="./Unedited_points.js"></script>
+      </div>
+    </div>
+  </div>
+  </div>
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Instructions and About</h4>
+        </div>
+        <div class="modal-body">
+			<h3><b>Instructions</b></h3>
+		  <h4>Welcome to the Points In Progress Map. If you've been having trouble finding points to edit, you’ve come to the right place</h4>
+		  <h4>By clicking on the “Generate Random Points” Button located on the left hand side of the screen in the side menu, this interactive web map allows you to search for random unedited points or points needing peer review. If you are a new editor,you'll look for red points to edit, and if you are a peer reviewer, you can edit either red or green points.</h4>
+		  <h4>After generating a random point, click on it  to find a link that will open the TNMCorps editor where you can edit the point in question.</h4>
+		<h3><b>About</b></h3>
+          <h4>New to The National Map Corps? Check out our <a href="https://my.usgs.gov/confluence/display/nationalmapcorps/Home" target="_blank">home page</a> for more information.</h4>
+		  <h4> For more information, please visit our <a href="https://my.usgs.gov/confluence/display/nationalmapcorps/Mapping+Challenges" target="_blank">Mapping Challenges Page!</a> </h4>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
