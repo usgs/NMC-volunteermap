@@ -36,7 +36,9 @@ var imagery = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/US
 
 var national = L.layerGroup([imageryTopo,usdaNAIP]);
 var usda = L.layerGroup([nationalMap, usdaNAIP]);
-
+var targetId;
+var feature;
+var properties;
 var needsChecked = 0;
 var needsReviewed = 0;
 var finshed = 0;
@@ -134,7 +136,11 @@ var featureLayer = new L.esri.clusteredFeatureLayer({
               $('#finishedCounter').text(" (" + finshed  + " points)")
             }
             layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');}
-});                                                                                                                                                                                                                                                        
+});                                                                                                                                                       
+if(feature.properties.OBJECTID === targetId){
+var popup = L.popup().setLatLng([feature.geometry.coordinates[1]+0.00005, feature.geometry.coordinates[0]])
+.setContent(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>').openOn(map);
+}
 
 		var southWest = L.latLng(14.581656, -169.354212),
 			northEast = L.latLng(661.492973, 174.987991),
@@ -145,13 +151,12 @@ function myFunction() {
 		console.log("Mug Man! : ",test)
 		console.log("Map Man :" , map)
 		console.log("LAYER MAN :" , featureLayer)
-		map.setView([test[0].geometry.y, test[0].geometry.x],13)
+		map.setView([test[0].geometry.y, test[0].geometry.x],18)
+		targetId =test[0].attributes.OBJECTID;
+		console.log(featureLayer.getFeature(testid));
 	});
 }
 function getRandomFeature(){
-	let testId = 0;
-	var geometry = (layers);
-	var popup = L.popup().setLatLng([testId[0].geometry.y, testId[0].geometry.x]).setContent(testId[0].attributes['NAME']).openOn(map);
 	return new Promise(function(resolve, reject) {
     let query = new L.esri.Tasks.query({
        url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0" // Or whatever service you want
