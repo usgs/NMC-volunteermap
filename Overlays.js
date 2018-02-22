@@ -26,6 +26,10 @@
  var national = L.layerGroup([imageryTopo,usdaNAIP]);
  var usda = L.layerGroup([nationalMap, usdaNAIP]);
  
+// Create a bounding box for then entire map// 
+ var southWest = L.latLng(14.581656, -169.354212),
+		northEast = L.latLng(661.492973, 174.987991),
+		bounds = L.latLngBounds(southWest, northEast);
  
  // Create the Data layers // 
  var Challenge = L.esri.FeatureLayer({
@@ -42,6 +46,13 @@
 	 query.where(EDUTSTATUS = "0"),
 	 query.where(EDITSTATUS = "1"),
 )};
+
+// Create a function that should connect the data layers to the check boxes in the HTML This needs to be done 4 times for each check box?// 
+function myFunction(challenge){
+	document.getElementById("Challenge").innerHTML = myFunction();
+
+	
+	
  
 //add to Map capability// 
  var map = L.map('map',{
