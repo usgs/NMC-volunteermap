@@ -26,7 +26,7 @@
  var national = L.layerGroup([imageryTopo,usdaNAIP]);
  var usda = L.layerGroup([nationalMap, usdaNAIP]);
  
-// Create a bounding box for then entire map// 
+// Create a bounding box for the entire map// 
  var southWest = L.latLng(14.581656, -169.354212),
 		northEast = L.latLng(661.492973, 174.987991),
 		bounds = L.latLngBounds(southWest, northEast);
@@ -34,26 +34,35 @@
  // Create the Data layers // 
  var Challenge = L.esri.FeatureLayer({
 	url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Unedited_Status_Map/MapServer/0",
-	query.where("FTYPE=730" AND STATE = "CO"),
+	query.where("FTYPE=730" AND "STATE = 'CO'"),
 )};
  var courthouses = L.esri.FeatureLayer({
 	 url: "https://gis.apfo.usda.gov/arcgis/rest/services/Base_Maps/Base_Map/MapServer",
-	 query.where("FTYPE=830"AND STATE = "GA"),
+	 query.where("FTYPE=830"AND "STATE = 'GA'"),
 )};
-//Do I need two variables for the Unedited Points map? Considering that I want standard points EDITSTATUS = 0 and PR points EDITSTATUS = 1 
+
  var unedited_points=L.esri.FeatureLayer({
 	 url:"https://gis.apfo.usda.gov/arcgis/rest/services/Base_Maps/Base_Map/MapServer", 
-	 query.where(EDUTSTATUS = "0"),
-	 query.where(EDITSTATUS = "1"),
+	 query.where("EDUTSTATUS = '0' OR EDITSTATUS = '1'"),
 )};
+ var unedited_PR=L.esri.FeatureLayer({
+	 url:"https://gis.apfo.usda.gov/arcgis/rest/services/Base_Maps/Base_Map/MapServer", 
+	 query.where("EDITSTATUS='1'"),
+ )};
 
 // Create a function that should connect the data layers to the check boxes in the HTML This needs to be done 4 times for each check box?// 
-function myFunction(challenge){
-	document.getElementById("Challenge").innerHTML = myFunction();
+function myFunction(RandomPoint){
+	document.getElementById("RandomPoint").innerHTML = myFunction();
+function myFunction(PRPoints) {
+	document.getElementById("PRPoints").innerHTML = myFunction()
+};
+function myFunction(Courthouse) {
+	document.getElementById("Courthouse").innerHTML = myFunction() 
+};
+function myfunction(Challenge) {
+	document.getElementById(Challenge).innerHTML=myfunction()
+};
 
-	
-	
- 
 //add to Map capability// 
  var map = L.map('map',{
 	 layers: [national,usda],
