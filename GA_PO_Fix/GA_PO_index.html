@@ -1,0 +1,121 @@
+<html>
+      <!--Lines 4 - 29:  These lines consist of the title and various links and scripts that are in the background of the mapping application. Such scripts consist of leaflet, leaflet - esri, leaflet markers etc.-->
+<head>
+  <title>TMNCorps Challenge Map</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css" />  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="./assets/plugins/Leaflet-cluster-markers/css/MarkerCluster.css">
+  <link rel="stylesheet" href="./assets/plugins/Leaflet-cluster-markers/css/MarkerCluster.Default.css">
+  <link rel="stylesheet" href="./assets/plugins/leaflet/leaflet.css" />
+  <link rel="stylesheet" href="./assets/plugins/leaflet-awesome-markers/leaflet.awesome-markers.css" />
+  <link rel="stylesheet" href="./assets/plugins/leaflet-extra-markers/css/leaflet.extra-markers.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="./assets/css/style.css">
+
+  <script src='https://code.jquery.com/jquery-1.11.0.min.js'></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <script src="./assets/plugins/leaflet/leaflet-src.js"></script>
+  <script src="./assets/plugins/Leaflet-cluster-markers/JS/leaflet.markercluster.js"></script>
+  <script src="./assets/plugins/leaflet-awesome-markers/leaflet.awesome-markers.js"></script>
+  <script src="./assets/plugins/leaflet-extra-markers/js/leaflet.extra-markers.min.js"></script>
+  <script src="./assets/plugins/esri-leaflet/esri-leaflet.js"></script>
+  <script src="./assets/plugins/esri-leaflet/esri-leaflet-clustered-feature-layer-src.js"></script>
+  <script>
+    L_PREFER_CANVAS = true;
+  </script>
+</head>
+	   <!-- Lines 30 - 35:  These are the div classes that build the basic outline of the mapping application-->
+<body>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-3" id="Info" style="height: 100%;">
+        <div id="header" class="ribbon">
+          <h2>The National Map Corps </br> Challenge Map</h2>
+         <!-- Line 37 is the Title of the challenge map in question, rename it to reflect the new state and structure type that is specific for that challenge map -->
+          <h2> Georgia: Post Offices </h2>
+        </div>
+		<!--Lines 40 - 49 This block of code houses the cluster image for the legend and structural pieces of code for the website -->
+        <div id="layerControl" style="padding-top: 15px">
+        </div>
+        <div class="info" style="margin-top: 15px">
+		  <h5>
+		  <div class="image">
+		  <div class="image" id= "img">
+		<div style="padding: 0px 5px 5px 5px;">
+		<!--<img src ="./assets/img/Main_point2.png"></a> -->
+		  </div>
+		  </div>
+		  <div class="Write Up" id="clusterpoints">
+		  <!--Lines 52 - 56 This block of code is the write up for the challenge map for explanations for the clustering and the icons buttons in the legend. -->
+			<!-- <p> While the Illinois Schools mapping challenge is officially closed, editors can still update Illinois Schools, especially the remaining red and green points. NOTE that recognition for this challenge has already been completed. </p> -->
+<!--<p>The purple circles represent clustered points. The number shown is the # of clustered points. Zoom or click to see all of the points.</p>-->
+			 <!-- <div>id="clusterpoints"> </div> -->
+			  <div> <h2><b>Instructions:</b></h2> <p> The icons will show the point status and indicate points to be edited, peer reviewed or which are finished and do not need to be checked again. For instance, if you click on the red icon, only unedited points will display on the map.</p></div>
+		  </div>
+		  </div>
+		  <!--Lines 59-63 pertain to the clusters, depending on the number of points you have for your challenge map, you may or may not need this information. If you have more than > 1000 points, I suggest keeping the clustering. -->
+		  </h5>
+          <div class="markers-box">
+            <div class="markers-legend" id="tobechecked">
+              <i class="fa fa-exclamation"></i>
+            </div>
+		  <!--Lines 65-85 are the div classes for each grouping of points. Unedited, peer reviewed and finished points respectfully.-->
+            <div class="markers-descri" id="tobecheckedDescr">
+              Points that need to be checked <div id="tobecheckedCounter"></div>
+            </div>
+          </div>
+          <div class="markers-box">
+            <div class="markers-legend" id="tobepeerreviwed">
+              <i class="fa fa-times"></i>
+            </div>
+            <div class="markers-descri" id="tobepeerreviwedDescr">
+              Points that need to be peer-reviewed <div id="tobepeerreviwedCounter"></div>
+            </div>
+          </div>
+          <div class="markers-box">
+            <div class="markers-legend" id="finished">
+              <i class="fa fa-check"></i>
+            </div>
+            <div class="markers-descri" style="padding-top:10px" id="finishedDescr">
+              Finished points <div id="finishedCounter"></div>
+            </div>
+          </div>
+        </div>
+	   <!--Lines 87 - 91 create the “About” Button for the interactive web map.-->
+        <div class="info" style="margin-top: 15px">
+          <a href="#" data-toggle="modal" data-target="#myModal">
+            <h4>About</h4>
+          </a>
+        </div> 
+	   <!--Lines 93 - 96 Create the statement for “updated in real time”  Line 97** connects the HTML file with the JS file. A path name is required for this document. -->
+        <div class="info" style="margin-top: 15px">
+            <h5>Updated in real-time</h5>
+        </div>
+      </div>
+      <div class="col-sm-9" id="map" style="height: 100%;">
+        <script src="./GA_PO_script.js"></script>
+      </div>
+    </div>
+  </div>
+  </div>
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">About</h4>
+        </div>
+		 <!--Lines 113 - 116 Create the statement for “updated in real time”  Line 91** connects the HTML file with the JS file. A path name is required for this document.  -->
+        <div class="modal-body">
+          <h4>New to The National Map Corps? Check out our <a href="https://my.usgs.gov/confluence/display/nationalmapcorps/Home" target="_blank">home page</a> for more information.</h4>
+		  <h4> For more information, please visit our <a href="https://my.usgs.gov/confluence/display/nationalmapcorps/Mapping+Challenges" target="_blank">Mapping Challenges Page!</a> </h4>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
