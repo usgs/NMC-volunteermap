@@ -1,0 +1,95 @@
+<html>
+
+<head>
+  <title>National Map Corps Edited Points</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css" />
+  <script src='https://code.jquery.com/jquery-1.11.0.min.js'></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+  <link rel="stylesheet" href="./assets/plugins/leaflet-awesome-markers/leaflet.awesome-markers.css" />
+  <script src="./assets/plugins/leaflet-awesome-markers/leaflet.awesome-markers.js"></script>
+
+  <link rel="stylesheet" href="./assets/plugins/leaflet-extra-markers/css/leaflet.extra-markers.min.css" />
+  <script src="./assets/plugins/leaflet-extra-markers/js/leaflet.extra-markers.min.js"></script>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <script>
+    L_PREFER_CANVAS = true;
+  </script>
+  <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-3" id="Info" style="height: 100%;">
+        <div id="header" class="ribbon">
+          <h2>The National Map Corps </br> Challenge Map</h2>
+          <!-- <hr> -->
+          <h2>NY Law Enforcement</h2>
+        </div>
+        <div id="layerControl" style="padding-top: 15px">
+        </div>
+        <div class="info" style="margin-top: 15px">
+          <h4>Legend</h4>
+          <div class="markers-box">
+            <div class="markers-legend" id="tobechecked">
+              <i class="fa fa-exclamation"></i>
+            </div>
+            <div class="markers-descri" id="tobecheckedDescr">
+              Points that need to be checked
+            </div>
+          </div>
+          <div class="markers-box">
+            <div class="markers-legend" id="tobepeerreviwed">
+              <i class="fa fa-times"></i>
+            </div>
+            <div class="markers-descri" id="tobepeerreviwedDescr">
+              Points that need to be peer-reviewed
+            </div>
+          </div>
+          <div class="markers-box">
+            <div class="markers-legend" id="finished">
+              <i class="fa fa-check"></i>
+            </div>
+            <div class="markers-descri" style="padding-top:10px" id="finishedDescr">
+              Finished points
+            </div>
+          </div>
+        </div>
+        <div class="info" style="margin-top: 15px">
+          <a href="#" data-toggle="modal" data-target="#myModal">
+            <h4>About</h4>
+          </a>
+        </div>
+        <div class="info" style="margin-top: 15px">
+            <h5>Updated at: 07/20/2016</h5>
+        </div>
+      </div>
+      <div class="col-sm-9" id="map" style="height: 100%;">
+        <script src="./script.js"></script>
+      </div>
+    </div>
+  </div>
+  </div>
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">About</h4>
+        </div>
+        <div class="modal-body">
+          <h4>New to The National Map Corps? Check out our <a href="https://my.usgs.gov/confluence/display/nationalmapcorps/Home" target="_blank">home page</a> for more information.</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

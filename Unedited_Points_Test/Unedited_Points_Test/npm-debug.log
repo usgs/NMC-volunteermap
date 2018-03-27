@@ -1,0 +1,70 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'requirejs' ]
+2 info using npm@3.10.10
+3 info using node@v6.11.2
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 silly fetchPackageMetaData requirejs
+8 silly fetchNamedPackageData requirejs
+9 silly mapToRegistry name requirejs
+10 silly mapToRegistry using default registry
+11 silly mapToRegistry registry https://registry.npmjs.org/
+12 silly mapToRegistry data Result {
+12 silly mapToRegistry   raw: 'requirejs',
+12 silly mapToRegistry   scope: null,
+12 silly mapToRegistry   escapedName: 'requirejs',
+12 silly mapToRegistry   name: 'requirejs',
+12 silly mapToRegistry   rawSpec: '',
+12 silly mapToRegistry   spec: 'latest',
+12 silly mapToRegistry   type: 'tag' }
+13 silly mapToRegistry uri https://registry.npmjs.org/requirejs
+14 verbose request uri https://registry.npmjs.org/requirejs
+15 verbose request no auth needed
+16 info attempt registry request try #1 at 10:14:29 AM
+17 verbose request id c4ffdcf01024f8f1
+18 http request GET https://registry.npmjs.org/requirejs
+19 info retry will retry, error on last attempt: Error: unable to get local issuer certificate
+20 info attempt registry request try #2 at 10:14:40 AM
+21 http request GET https://registry.npmjs.org/requirejs
+22 info retry will retry, error on last attempt: Error: unable to get local issuer certificate
+23 info attempt registry request try #3 at 10:15:40 AM
+24 http request GET https://registry.npmjs.org/requirejs
+25 silly fetchPackageMetaData Error: unable to get local issuer certificate
+25 silly fetchPackageMetaData     at Error (native)
+25 silly fetchPackageMetaData     at TLSSocket.<anonymous> (_tls_wrap.js:1092:38)
+25 silly fetchPackageMetaData     at emitNone (events.js:86:13)
+25 silly fetchPackageMetaData     at TLSSocket.emit (events.js:185:7)
+25 silly fetchPackageMetaData     at TLSSocket._finishInit (_tls_wrap.js:610:8)
+25 silly fetchPackageMetaData     at TLSWrap.ssl.onhandshakedone (_tls_wrap.js:440:38)
+25 silly fetchPackageMetaData  error for requirejs { Error: unable to get local issuer certificate
+25 silly fetchPackageMetaData     at Error (native)
+25 silly fetchPackageMetaData     at TLSSocket.<anonymous> (_tls_wrap.js:1092:38)
+25 silly fetchPackageMetaData     at emitNone (events.js:86:13)
+25 silly fetchPackageMetaData     at TLSSocket.emit (events.js:185:7)
+25 silly fetchPackageMetaData     at TLSSocket._finishInit (_tls_wrap.js:610:8)
+25 silly fetchPackageMetaData     at TLSWrap.ssl.onhandshakedone (_tls_wrap.js:440:38) code: 'UNABLE_TO_GET_ISSUER_CERT_LOCALLY' }
+26 silly rollbackFailedOptional Starting
+27 silly rollbackFailedOptional Finishing
+28 silly runTopLevelLifecycles Finishing
+29 silly install printInstalled
+30 verbose stack Error: unable to get local issuer certificate
+30 verbose stack     at Error (native)
+30 verbose stack     at TLSSocket.<anonymous> (_tls_wrap.js:1092:38)
+30 verbose stack     at emitNone (events.js:86:13)
+30 verbose stack     at TLSSocket.emit (events.js:185:7)
+30 verbose stack     at TLSSocket._finishInit (_tls_wrap.js:610:8)
+30 verbose stack     at TLSWrap.ssl.onhandshakedone (_tls_wrap.js:440:38)
+31 verbose cwd C:\Users\rstevenson\Desktop\DesktopFolders\USGS\InteractiveWebMap\Unedited_Points\Unedited_Points\Unedited_Points\Unedited_Points
+32 error Windows_NT 6.1.7601
+33 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "requirejs"
+34 error node v6.11.2
+35 error npm  v3.10.10
+36 error code UNABLE_TO_GET_ISSUER_CERT_LOCALLY
+37 error unable to get local issuer certificate
+38 error If you need help, you may report this error at:
+38 error     <https://github.com/npm/npm/issues>
+39 verbose exit [ 1, true ]

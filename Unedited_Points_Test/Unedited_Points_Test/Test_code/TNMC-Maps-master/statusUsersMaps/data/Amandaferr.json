@@ -1,0 +1,4 @@
+{"name":"testUnique","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.8955664,31.1262095000001,0]},"properties":{"UserName":"Amandaferr","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2084964","TimeStamp":20150429,"NAME":"Texas"}}
+]}
