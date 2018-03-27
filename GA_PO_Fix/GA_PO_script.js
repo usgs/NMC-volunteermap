@@ -93,8 +93,10 @@ var featureLayer = new L.esri.FeatureLayer({
           }
         });
 // Lines 96 - 98 Is your bounding box, for the area you wish to focus the map. 					 
-var southWest = L.latLng(29.950927, -84.149613),
-  northEast = L.latLng(34.752375, -88.785833), 
+var southWest = L.latLng(30.417317, -87.216779),
+	southEast = L.latLng(31.638620, -78.407047),
+  northWest = L.latLng(34.619872, -87.036527),
+  northEast = L.latLng(35.204384, -80.834589),
   bounds = L.latLngBounds(southWest, northEast);
 
 /*
