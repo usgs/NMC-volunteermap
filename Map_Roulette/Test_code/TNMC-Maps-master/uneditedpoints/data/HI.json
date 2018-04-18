@@ -1,0 +1,827 @@
+{"name":"HI","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.916515,21.620236]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1877693"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.186298,21.4411920000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1877868"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.138086,21.3869750000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1878013"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.122831,19.7916510000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1879219"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.943505,21.6771170000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1880218"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.749682,20.2225310000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1880449"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.011041,21.160853]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1880453"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.31294,20.8618210000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1880829"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.028263,21.350292]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1880915"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.841298,21.3083130000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1881857"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.5983453,21.9033207000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1882079"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.305088,20.926953]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1882558"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8481157,21.3236627000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1882626"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.229443,19.981435]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1883984"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0734703,21.3160959000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1884532"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0895849,19.7187971000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1885324"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.015275,21.316921]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1885593"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.027364,21.4981280000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1886622"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.148641,19.6841220000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1887923"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.454406,20.7608890000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1889489"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.846266,21.31278]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1892084"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.024081,21.3803980000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1892642"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.787458,20.1130900000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1893555"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.84787,21.329282]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1894190"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8473084,21.3252580000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1895118"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.402232,20.6471270000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1896971"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.931826,21.651603]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1898170"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.40614,20.811049]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1898606"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.663024,20.026243]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1899119"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.844628,21.3173570000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1900017"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.955331,19.648695]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1900675"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.786624,20.2289440000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1905909"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3689632,21.9747378000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1905914"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.675294,20.8727490000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1906787"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.051045,21.1247060000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1907123"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.932527,21.3790930000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1907562"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.058714,21.4839650000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1907936"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.686742,20.8837270000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1907963"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.20562,21.1210160000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1909544"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0594203,21.4572200000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1909709"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.689265,20.911456]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1909816"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.122876,21.5817440000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1909978"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0890384,19.7257978000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1910022"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.676877,20.8755350000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1910575"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.468811,21.9110903000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1911144"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.852745,21.5556080000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1912265"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.851903,21.4951110000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1912863"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.806918,21.4308760000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1913947"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.803325,21.419254]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1914735"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0365876,21.341037]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1917071"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.059364,21.1778170000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1917679"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.092988,19.751493]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1917980"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.987618,21.4426770000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1918141"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.241542,19.992035]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1918229"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.086946,19.7185930000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1918468"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7402574,21.3926270000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1918789"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9500661,21.6783360000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1919231"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.802132,21.3185130000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1919341"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.796971,21.267617]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1919405"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.314258,20.862473]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1920912"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.6441392,21.9347905000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1920927"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9739436,21.3957955000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1921245"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9455443,21.6843586000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1921481"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.850131,21.3244]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1921698"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.497154,20.9187610000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1923598"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.851014,21.4951520000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1923932"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.921836,21.646484]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1924358"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.417916,20.0591820000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1924810"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.6936317,21.96068]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1925436"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.009856,21.0856020000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1927643"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.090239,19.7197550000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1928816"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8207011,21.2885597000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1929627"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.4638866,21.9053066000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1930222"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.791706,21.3899690000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1930316"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.189783,21.447344]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1930723"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.121855,21.5733690000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"1933059"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.834205,20.2369350000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1933243"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.876224,19.3747760000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1933593"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.80465,20.231663]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1933658"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.056698,19.6005010000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1933728"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.851567,21.301923]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1935264"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.858751,21.303884]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1935599"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.958602,19.549448]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1936045"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3693246,21.9965347]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1936567"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.745479,20.220194]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1936833"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.948165,21.1771150000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1937956"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8278837,21.4347443]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1939222"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0898257,19.7185563]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1940398"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.186095,21.4450650000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1941649"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.673117,20.8691430000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1941873"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.810875,21.309221]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1942170"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.844521,21.3163730000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1942945"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.857846,21.347793]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1943089"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7397944,21.3963702]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1943336"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.68413,20.9050100000001]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1943413"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.92102,20.82861]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1943526"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.02015,21.0928000000001]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1943733"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7992754,21.4131962000001]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1944094"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.01467,20.78583]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1945086"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.4791697,22.2122881]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1945210"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9699392,21.3960252000001]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1945286"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.08031,19.72119]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1945317"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.6680725,21.9554671000001]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1945469"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3547635,21.9769864]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1945792"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.97534,19.6431400000001]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1946129"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.91294,21.3256700000001]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1946150"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0254768,21.5025235000001]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1946312"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.08919,19.7189000000001]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1946805"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9461854,21.6749818000001]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1946957"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8257893,21.2759705]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1946960"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.00853,21.38606]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1947358"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8514123,21.3040285000001]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1947758"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8631066,21.3117457000001]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1947866"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.187434,21.4431003]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1948273"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0823718,21.3349221]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1948584"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8620076,21.3122399000001]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1948725"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.7982901,20.2301697]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1949531"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.661243,20.0231353]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1949561"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.4730487,19.2010666]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1949622"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8249704,21.2882793000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1949673"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.6972067,21.2863478]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1949680"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8707616,21.3440771000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1950262"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3306522,20.8356091000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1950265"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.908879,21.6080218000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1950271"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8391823,21.3064083]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1950495"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.667701,20.9850506]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1950773"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8551117,21.3071214]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1950875"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.0502717,21.1633679]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1950970"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9542857,21.6765668]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1951002"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8546214,21.5567028]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1951286"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.7937857,19.9248744000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1951476"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.2590477,19.4296064000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1951624"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.1047886,19.8336448000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1951627"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.039536,19.6215748000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1951776"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.5883545,21.9094948000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1951806"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7496984,21.4237946000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1951990"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0049836,21.4004135000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1952012"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9007676,21.3451609000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1952180"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0906529,21.3243866]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1952240"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.6649629,20.0231961000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1952251"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3291959,20.7578524]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1952629"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9308635,21.3395810000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1952931"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.2300085,19.4336489]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1952975"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0509198,19.5578592000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1953013"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.8341661,19.9464851000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1953256"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8505663,21.3027257000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1953260"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8545635,21.3213786000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1953547"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.0170468,21.0915204]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1953736"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0795874,19.6836941]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1954087"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-154.9465583,19.4937763]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1954371"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0154254,21.456911]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1954374"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.4694058,20.0770923000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1954409"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4593583,20.8887937000001]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1954436"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4366485,20.7060074]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1954497"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1117019,21.586667]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1954587"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.7783394,19.1174990000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1954606"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0662608,19.6937871000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1954756"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7577757,21.3808677000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1954956"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0862401,19.7201931000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1955010"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.36638,20.0397103]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1955459"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7394558,21.3965396]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1955652"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8015947,21.2732639000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1955655"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0262896,21.4988574000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1955691"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7505039,21.3774079]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1956039"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.5262985,21.9252857000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1956286"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3801292,20.9173683000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1956918"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.6354229,19.0403971000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1957092"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8338562,21.3001142000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1957265"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8787756,21.3216350000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1957438"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.6677013,20.9850505000001]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1957495"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1917001,21.4499564000001]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1957729"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4609948,20.7794272]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1957854"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.0182832,21.0907754]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1958352"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9385003,21.3835339]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1958544"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8520939,21.3287480000001]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1958592"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9313264,21.384063]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1958624"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.6972831,21.286369]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1958640"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1511498,21.3871655]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1958814"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.09065,21.3243852000001]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1958945"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.0196126,19.7236009000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1958972"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8589751,21.3111779000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1959097"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9947596,20.7643279000001]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1959211"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.1119514,19.7184394]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1959470"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8468507,21.4573311]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1959577"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8997009,21.3632496000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1959713"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8520704,21.3034233000001]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1959907"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4893679,20.88397]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1960081"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0626174,21.6484512000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1960155"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0224102,21.3767728]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1960249"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9910516,19.8266903000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1960347"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.2326222,19.9833427]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1960421"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.6554372,19.8542583]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1960442"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.086625,21.3545099]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1960837"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.9230156,20.8281402000001]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1960891"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8107926,21.3097391000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1960909"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8568408,21.3220945]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1961080"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8468846,21.3281335]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1961346"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.8736259,19.290492]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1962359"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9039947,19.1924638]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1962430"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4284574,20.7033266]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1962581"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.4722103,19.1994962000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1962660"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.9187103,20.8185765000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1962713"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.49931,20.8876566000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1962719"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8535152,21.3078872]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1963049"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4534459,20.7347481]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1963326"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8590397,21.3029294]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1963495"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0899,19.5350649000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1963603"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8003919,21.4135886]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1963615"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8163217,21.2731037]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1963636"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8158821,21.4050614]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1963656"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9090269,19.4884424000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1964023"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1917012,21.4499578000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1964161"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.9171414,20.8259483000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1964177"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.4629905,20.0774050000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1964398"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8353781,21.3004795000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1964411"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0278206,21.4970115]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1964541"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0267237,21.3725170000001]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1964663"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.1303098,19.4595974000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1964709"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8582737,21.3243101]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1965214"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.0173199,21.0938686000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1965358"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7148772,21.3471924]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1965371"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.8325944,20.082654]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1965522"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8759395,21.3314624000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1965671"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.7966092,20.2324095000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1966394"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-154.9741643,19.5742004000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1966566"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0322414,21.3735846000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1966622"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3638509,21.9713599]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1966735"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8899284,21.3601308]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1966810"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7149475,21.3471462000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1966854"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.2998629,19.5518495000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1967082"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0585095,19.7240658000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1967204"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8531248,21.5556466]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1967264"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.02241,21.3767722000001]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1967286"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4567262,20.8795023000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1967767"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.6704571,21.9605637]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1968023"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.4673996,21.8837607]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1968033"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-154.9741018,19.5741204]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1968129"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9923515,19.6473676000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1968135"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.6842049,20.9056632]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1968220"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.684354,20.9056205000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1968263"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3573394,20.7012842]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1968376"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8391663,21.2926751000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1968418"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1397422,21.3814810000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1968762"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0264258,21.4989224]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1968958"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9380569,21.3842119]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1968989"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8003924,21.4135884]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1969072"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9970684,21.4255766000001]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1969217"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9511675,21.4017003000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1969370"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9404281,19.5605566]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1969451"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9172453,19.519796]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1970020"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-154.9026757,19.5484383]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1970331"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3325642,20.7508468]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1970395"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.5868615,19.0626791]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1970437"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9173474,21.335603]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1970456"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.1091507,19.7106403]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1970592"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.2328136,19.9831297000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1970747"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.6681962,21.9554919]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1971128"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9458895,21.6751217]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1971364"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7994002,21.2784496]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1971378"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9524562,21.3424063000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1971389"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-154.846839,19.5314966]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1971581"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9457723,21.6749022000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1971631"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3654468,21.9857881]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1972666"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7394283,21.3965452]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1972840"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9714739,21.3901809000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1972957"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8163232,21.2731035]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1973324"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.981771,19.8317039]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1973396"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.99948,21.4714316000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1973562"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0468249,19.7180715000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1973564"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0268274,21.3723757000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1973721"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.586861,19.0626767000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1973832"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8567145,21.3222429]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1973881"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7946137,21.2996957]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1974122"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.49199,20.8871300000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1974255"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3112837,20.8709104000001]},"properties":{"State":"HI","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1974456"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9931893,20.7620717]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1974665"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.4788508,22.2122986000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1974829"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4375607,20.7152905]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1974943"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8575887,21.3035847]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1974945"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0929777,19.7232699]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1974970"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.796968,21.2974807000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1974976"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3270738,20.8278973000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1975026"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.710055,21.2964432000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1975069"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7926953,21.2763554000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1975162"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0028873,21.3929483000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1975261"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9826119,19.6685661000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1975267"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8313382,21.3008498]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1975337"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0889499,19.7193414000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1975356"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7476605,21.3770588]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1975446"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.7128503,21.9665328]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1975447"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0352633,19.6133662]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1975512"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3996529,21.9678026]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1975546"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-154.9266224,19.5255571000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1975581"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8645231,21.3245586]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1976071"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9158344,19.5104908000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1976220"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9862105,19.6750353]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1976247"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.5029116,22.2007079000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1976353"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9985905,21.4164171]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1976500"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8768599,21.3288236000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1976623"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9301727,21.3838875000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1976633"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7966309,21.3953559]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1976645"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.001466,21.4707471]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1976791"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1346425,21.3881981000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1976934"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7419781,21.3812302000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1976995"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8011049,21.2703294]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"1977060"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7321505,21.3832057000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1977199"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9630511,21.3432443]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1977339"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.6635,20.8863200000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1977909"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.010188,21.4531479]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1978009"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3989274,21.9725895]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1978293"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7496707,21.4247570000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1978718"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1216663,21.5759184]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1979072"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8435456,21.3053367000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1979277"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8186599,21.2730740000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1979328"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3226364,20.9148184000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1979364"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0888746,19.7222688000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1979527"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9368901,21.3830617]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1979688"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.2306493,19.9823496000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1979734"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0783459,19.7139049]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1979828"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0690008,19.5729336000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1979918"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.734531,21.2854079000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1979926"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1438375,21.3831991000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1980102"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3277238,22.0787960000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1980216"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8174873,21.2992307000001]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"1980281"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7911136,21.4094728000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1980369"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.6691171,20.0192070000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1980515"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.012927,21.4617883]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1980553"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9001695,21.3682771000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1980695"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4507315,20.7727024000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1980801"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0586773,21.6555859000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1981200"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7541095,21.2921299000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1981258"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9865238,19.6318306000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1981372"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.6718792,20.0214950000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1981386"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0077961,21.3825584000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1981583"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1759273,21.4171589000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1981592"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8242952,21.2859254000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1981666"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9714894,21.3956055]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1981911"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8112234,21.4084015]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1981919"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.7154583,21.9717804000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1982039"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0286613,21.4987147000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1982156"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.0483003,21.1635783]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1982241"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0066269,21.3166650000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1982339"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.8190797,20.2377655]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1982503"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.505424,20.8832176]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1982521"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7482786,21.4136455]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1982656"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0687102,21.3288335]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1983076"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.0477255,21.1640881000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1983174"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4843543,20.8805408000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1983352"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.944933,21.3884818]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1983525"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.4093432,22.2060171000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1983633"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9483217,19.6166014]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1983980"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.3729407,20.0393940000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1984002"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8084378,21.2904540000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1984346"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1249842,21.5656042000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1984530"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9536742,21.3985724]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1984603"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.7153902,21.9727997000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1984604"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0849425,21.3443903]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1984616"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3306852,20.8270276000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1984624"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.114399,19.7107025]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1984782"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9253582,21.6411718000001]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"1984846"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8351017,21.3360915000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1984873"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8697151,21.320641]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"1984983"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.035471,19.7141924000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1985038"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8065527,21.4040891000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1985368"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8369123,21.3015198000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1985422"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3747352,21.9704794]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1985481"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8365422,21.3084419]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1985610"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0781269,19.6954718000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1985637"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.862,21.3454201000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1985708"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.6958915,21.2840581]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1985740"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0089504,21.3194526]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1986009"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8692384,21.3451552]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1986163"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.845345,21.4573124]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1986266"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9497046,21.3900912]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1986267"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3216,20.84986]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1986268"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8674618,21.3305019000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1986307"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0382416,19.6222104]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1986431"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8629568,21.310126]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"1986433"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.5216378,21.9229176000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1986544"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.784527,21.2737172000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1986570"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.877488,21.3388340000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1986655"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7945045,21.4032874000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1986661"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0156182,21.3847148]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1986746"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7871413,21.2789475000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1986822"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8120508,21.4076949]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"1986846"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.01516,21.3152994000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1986952"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.8394328,20.2354959]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1987021"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7642131,21.3752081000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1987026"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.4813096,19.2055978000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1987069"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3206497,20.8688950000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1987197"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.6762142,20.0215544000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1987212"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.6593546,20.8893701000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1987307"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.06423,21.3343746]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1987462"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8148457,21.2684577000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1987536"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0104994,21.3143337000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1987632"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0391329,21.3378183]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1987653"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.0401701,21.1578304]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1988055"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8327728,21.2924036000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1988272"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0312577,19.6273113]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1988495"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8544143,21.3187458]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1988648"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.812898,21.2919399]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1988703"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.6615,20.88557]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1988724"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8850566,21.3417345]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1988773"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.802086,21.4188649000001]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"1988876"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0834134,19.7149413000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1988925"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8412554,21.2991489]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"1988950"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3137134,22.0916698]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1988977"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9726196,19.6831898]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1989229"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0940056,19.7903081000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1989533"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4999666,20.8848563]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1989591"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7924681,21.2993958000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1989685"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3880505,21.9671249]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1989756"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9716687,21.4085210000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1989758"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.6717188,20.0249487]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1989829"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.925408,21.6491278]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1990002"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3344109,20.8339033]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1990218"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9512707,21.6744137000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1990524"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8294933,21.3128299000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1990592"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7412431,21.4024933000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1990699"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9625627,21.4007447000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1990787"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8317092,21.3074228]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1990820"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8053789,21.4280048000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1991073"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.844356,21.3284764000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1991282"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3133576,22.0899151]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1991510"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0126827,21.5014155000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1991718"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.735672,21.3716696000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1991748"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0769524,19.6983381000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1991862"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1138182,21.5845036000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1991988"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0452904,19.7282329]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1992099"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8608791,21.3139245]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"1992113"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9145354,21.3429643000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1992154"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4851415,20.874035]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1992400"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3109758,20.8414757]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1992422"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8605532,21.3266448000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1992491"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8414042,21.2930237]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"1992665"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.307629,20.8553910000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1993017"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.893368,21.3495933]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1993048"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-154.9413,19.4917300000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1993109"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9238784,21.3805517000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1993144"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7045105,21.2747997000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1993545"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7895524,21.403979]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1993552"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4948428,20.8937161000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1993587"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0124265,21.4019954]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1993596"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9878342,19.6779597]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1993640"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7476356,21.3847225000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1993783"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8228671,21.295955]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1993846"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8524128,21.4828873000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1993934"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.4641457,20.0761161]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1994002"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.795236,21.2636158]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1994085"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9878,20.7552700000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1994656"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9198358,21.3812893]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1994740"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0841938,19.7138401]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1994792"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.1875,19.4527400000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1994856"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7573871,21.4081129]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1994998"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9780295,19.6121579000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1995455"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.81245,21.3025625]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1995469"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.856563,21.3117709000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1995785"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9989852,20.7775049000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1996401"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9147768,21.3461021000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1996670"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9711434,21.3887228]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1996675"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9289125,21.3613477000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1996692"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.819783,21.2891010000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1996952"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0100328,21.5015751]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1997001"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8165621,21.286622]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1997151"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8078102,21.2900191000001]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"1997176"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8438231,21.319133]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1997353"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9862308,21.4799667]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1997419"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0201395,21.3393245]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1997441"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.329559,20.7612936]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1997494"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.7983,20.23047]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1997510"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8090762,21.4185046000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1997648"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9281045,21.3595372]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1997737"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8522861,21.3253081]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1997781"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.867734,21.3215843]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1997782"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.085325,19.7037235]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1997813"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7985555,21.4138032000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1997876"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.095936,19.7201403]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1997884"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8692146,21.3346347]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1998081"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8759943,21.3358186]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1998216"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8353511,21.2957421]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1998341"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7514434,21.3865484]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1998542"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-154.8333589,19.4699642]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1998589"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.860916,21.308026]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"1998762"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.740358,21.2856984000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1998794"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0366109,21.4939846]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1998826"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9512934,21.4135473000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1998884"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7289486,21.3783932000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1999173"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.0177117,21.0885336000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1999304"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-154.9430511,19.4915414000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1999420"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1748598,21.4385341]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1999577"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0343447,21.3444313000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1999680"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7812402,21.2800591000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1999693"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9929318,21.3894106000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1999699"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4560945,20.7497553000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"1999815"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.740867,21.3950015]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2000026"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.860668,21.3002647000001]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"2000086"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.940505,21.3427507000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2000089"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4874614,20.8648559000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2000200"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.947328,21.6759041]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2000223"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.881807,21.3388297000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2000263"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.011739,21.3807301000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2000449"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8182359,21.3022481]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2001120"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0446568,19.7286228]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2001205"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3644892,21.9759765000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2001285"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0813286,19.7018541]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"2001300"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3030838,22.1385225000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2001918"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.057623,21.3328470000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2001933"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8822637,21.3305195]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2002165"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.6690522,20.0182402]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2002319"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.6597805,20.0177202]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"2002406"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7363655,21.3941637]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2002431"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0565101,21.4994937000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2003068"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7973993,21.28164]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2003135"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.1077016,19.6808686000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2003315"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8572838,21.3414082]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2003473"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0315649,19.6124812]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2003726"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.199681,21.4554801]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2003748"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8217965,21.2988964]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2003896"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7675878,21.3788178]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2003958"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8516646,21.3187368000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2004003"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4910987,20.8908583]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2004325"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8060148,21.4219917]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2004350"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.5137589,20.9341806]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2004384"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8529681,21.3167626000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2004647"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3717169,20.9035255000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2004663"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3164665,22.0915787000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2004739"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9752,19.6837400000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2004779"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3589296,21.9592952]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2004807"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.479854,20.890561]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"2004891"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4403597,20.7212684]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2004963"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0205863,21.3223322000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2005146"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3219788,20.9286348000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2005169"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8916339,21.3488507000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2005190"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9839292,21.3929021000001]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"2005456"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.899473,21.3467317000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2005756"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.024257,21.0922958]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2005903"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.6985842,20.0304908000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2006259"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.212079,21.4705367]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2006278"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4720648,20.8736865000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2006389"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7846887,21.2821092]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2006478"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.4050336,22.2161175000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2006515"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4648981,20.8850929000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2006797"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.694802,21.3283992]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2006987"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0819145,21.3221284000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2007035"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1359,21.3861377000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2007074"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9138139,21.3426920000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2007154"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.754719,21.2964388]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"2007403"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.6681477,21.9574447000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2007417"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8405736,21.3128140000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2007563"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9149706,19.5091938]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2007610"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8778615,21.3217717000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2007642"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3509926,21.9963460000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2007762"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.861197,21.3526596]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2007839"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7918385,21.2712939]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2008385"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.0221033,21.0887839000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2008527"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1446224,21.3801672000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2008529"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9318988,21.3793606]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2009005"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.837367,21.3105881000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2009054"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.923503,19.5273322]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2009275"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9302224,21.3465495]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2009734"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.8184915,20.238836]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2009809"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8059239,21.2845196000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2009829"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7983154,21.2807520000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2009860"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8637989,21.307917]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"2009923"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8036903,21.4083287]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2010000"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3270885,20.7656936000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2010196"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8186035,21.2731814000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2010467"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7956529,21.2697845000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2010683"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4659731,20.8847402000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2010697"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0382283,21.4862169]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2010710"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8598022,21.3077172000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2010731"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-154.943392,19.4930850000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2010759"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7899735,21.3041938000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2010869"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1850362,21.4456690000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2010956"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.7109127,21.9692356]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2011276"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.4667029,21.8985201]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2011352"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0834592,21.3586462000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2011395"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0185839,21.4945477000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2011430"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8600226,21.3092728]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"2011487"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.5792576,19.06113]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2011511"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0865605,19.7252769]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2011651"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8116065,21.3059744]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2011669"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.933075,21.3820493000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2011705"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.023197,21.4976622]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2011720"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.880806,19.4531461]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2011830"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8402825,21.3105826]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2011916"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9884707,21.4755852000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2011968"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0357866,19.7341997]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2012229"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.139723,19.6859005000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2012265"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0079212,21.3154470000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2012352"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1849908,21.4380356]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2012687"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4707402,20.8785029000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2012753"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4475906,20.7477874000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2012766"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9304142,21.3567717]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2012770"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.952966,21.4253361]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2012964"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7392691,21.4004606]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2013275"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7988785,21.4079221000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2013351"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0680655,19.6832533]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2013383"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0391349,21.4869256000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2013409"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8064402,21.279008]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2013428"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9652113,21.4033611]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2013477"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3632563,20.9004147000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2013536"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9993403,19.6690065]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2013566"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0752173,19.6955629]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2013593"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4841114,20.8876375]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2013670"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.878642,21.3271720000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2013814"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0288824,19.6058128]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2013824"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8605748,21.3251132]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2013828"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0118727,21.3162827]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2013865"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8549058,21.3183925000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2013921"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-154.9419587,19.4901767000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2013960"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.027866,21.3912848000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2014389"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0730754,21.4899706]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2014528"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1947663,21.4572559000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2014597"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.774105,21.2786747000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2014633"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9482082,21.3995015]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2014670"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8592775,21.3195364000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2014700"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9341637,21.3405187000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2014723"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8562563,21.3098160000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2014749"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.685601,21.2950655000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2014879"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9297921,21.3765509]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2014998"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9305708,21.3388899]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2015134"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0229557,21.5137927000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2015158"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.756751,21.2795261000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2015172"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8045219,21.2861856000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2015244"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1922997,21.4528090000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2015258"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.875235,21.3232400000001]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"2015295"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0104673,21.4553848]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2015601"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8309094,21.4350337000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2015616"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7511,21.38663]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2015773"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0355187,21.3411711000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2015819"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8735919,21.3310083000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2016001"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3121515,20.8564747]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2016119"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8086482,21.3165599000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2016387"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9987326,21.5057102000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2016517"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.6766977,20.8697275000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2016654"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3402825,20.8221653000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2016683"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0095447,21.4414226000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2016968"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0149303,21.4373806]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2016976"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.7900439,19.9454531000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2017181"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.8784933,19.3863162000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2017189"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8521483,21.3159528]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2017332"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.4628269,20.0763894]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2017403"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8476893,21.328691]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2017417"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.884466,21.3273338000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2017568"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8481402,21.2990008]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2017615"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8548703,21.3311886000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2017683"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8156264,21.2727864]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2018324"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9843868,19.6696432000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2018358"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0801188,21.3331134000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2018512"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8437951,21.3024577]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2018575"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.102247,19.5543667000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2018606"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0967608,19.721637]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2018901"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.396631,21.9690807000001]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"2018929"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9119055,21.3516249]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2018930"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-154.9694092,19.5575190000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2019118"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.049236,21.6637450000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2019200"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8603865,21.2985797000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2019242"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.026187,21.3837071]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2019504"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9377044,21.3488026000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2019509"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8704153,21.3425231000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2019844"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9172817,19.5096925]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2019848"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9637112,21.4050404000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2019930"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9352732,21.3408701000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2020116"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.5836258,21.9095642]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2020292"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7810279,21.2789798000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2020332"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9026478,21.3655843]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2020344"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.9264011,20.8296254000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2020384"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.6685582,20.9825193]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2020587"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3362336,20.8377959000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2020709"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.914314,19.5101354]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2020772"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8215285,21.2959605]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2020955"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4631086,20.8834594]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2020966"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9082,21.6075300000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2021161"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8596575,21.3102702]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"2021490"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.853333,21.3120055000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2021528"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.6759242,20.8755219]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2021619"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7258548,21.3939179000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2021699"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7520765,21.3772406000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2021769"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.973987,19.6877649]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2021872"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4973232,20.8923504000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2021947"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1215964,21.5688796000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2021953"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1721294,21.4200178]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2022008"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0690956,19.7044975000001]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"2022195"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0181009,21.5044551]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2022214"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8268962,21.2850099]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2022409"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9994204,21.4134844000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2022470"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7497725,21.4440813000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2022496"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.6730291,21.9607531]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2022796"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7148199,21.3461738]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2022841"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.2094995,21.1309948000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2022955"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9173511,19.5201506]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2022990"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.954595,21.4128628]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2023205"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8570402,21.3073319000001]},"properties":{"State":"HI","FCode":"83006","Feature":"State Capitol","OSM_ID":"2028825"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8445511,21.29202]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2035094"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7020957,21.2890560000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2035095"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.753179,21.2789599000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2036080"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.4978309,22.2027981000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2036082"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.4005874,22.2214938000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036083"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.4745305,22.2136473]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2036088"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3446901,22.1923727000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036089"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3474635,22.194506]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036090"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3954483,22.2030837]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036091"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.313447,22.1400895]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036092"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.4082612,22.2064013]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036093"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.4112733,22.2069675000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036094"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.5017281,22.2008685000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036095"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.4738814,22.2022368]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036096"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3230715,22.0809107000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036097"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3202606,22.0837143000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036098"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3191501,22.0747267]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036099"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3203357,22.0674188]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036100"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3128577,22.0877605000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"2036101"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3138233,22.0961111]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036107"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3209365,22.0691340000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2036108"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3147299,22.1448575000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2036110"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.5010299,21.9234593]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2036121"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.5276383,21.9250948000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2036122"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.409031,22.2121425]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2036123"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.4736929,22.2136493]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2036124"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.5877573,21.9104185]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2036125"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.5854667,21.9052773]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2036126"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.6173037,21.916318]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2036127"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.6661743,21.9548955000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2036128"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.713864,21.9709899000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2036129"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.6932915,21.9606668000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036131"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.7105488,21.9645723]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036132"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.720988,21.9737907000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036133"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.7816005,22.0365827000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036134"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.6742853,21.9571717000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036135"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.6695217,21.9586568]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036136"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.598867,21.9081938]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036137"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.5985398,21.902276]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036138"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.596099,21.9035950000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036139"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.5937617,21.9102687000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036140"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.5825967,21.8969951]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036141"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3537346,21.9768203]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"2036155"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3431666,22.0257969]},"properties":{"State":"HI","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"2036157"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.374232,21.9738852]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036176"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3750527,21.9780465000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036177"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3634763,21.9906739]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036178"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3660083,21.9939618]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036180"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3542388,21.9986074]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036181"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3753043,21.9565294]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036182"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3998042,21.9690099000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036183"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3384942,21.9787106000001]},"properties":{"State":"HI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"2036184"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.4746539,21.9074423000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036185"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.46812,21.9000662]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036186"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.4652501,21.9004195000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036187"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.4520483,21.8734052]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036188"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.5018939,21.9137127000001]},"properties":{"State":"HI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036189"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-160.2013555,21.9017435000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2036202"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.3519709,21.9757457000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2036996"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0004045,21.4673936]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"2038746"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9497161,21.6782880000001]},"properties":{"State":"HI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"2039500"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9515768,21.3404999000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2039502"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.9212973,21.3368848000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2039503"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0152256,21.4520440000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2039506"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1119138,21.5865301000001]},"properties":{"State":"","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"2039507"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1051332,21.5817239]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2039508"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1124154,21.5870639]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2039509"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8466729,21.548166]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2039510"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.6977298,21.333447]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2039511"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7861515,21.2750623000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2039512"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7986666,21.2814492000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2039513"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8317786,21.2811858000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2039514"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8199527,21.2914776000001]},"properties":{"State":"","FCode":"78006","Feature":"Post Office","OSM_ID":"2039515"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8438458,21.3038228]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2039516"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8605721,21.3060918]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2039517"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8606847,21.3120040000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2039518"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7497593,21.3887567]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2039519"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7576557,21.4441153000001]},"properties":{"State":"HI","FCode":"73006","Feature":"College / University","OSM_ID":"2039520"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.6993069,21.3308886]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2039521"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.0267216,21.4979064]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2043931"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8341293,21.3015615]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2044014"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8448359,21.326921]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2059499"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8523354,21.3215290000001]},"properties":{"State":"HI","FCode":"73002","Feature":"School","OSM_ID":"2059501"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.870403,21.3442694]},"properties":{"State":"HI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"2061980"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.3676788,20.0389192000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2064065"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.104152,19.8292648]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2064088"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.880473,19.4172573000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2065544"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.057281,19.5934100000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2066304"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.919766,20.826853]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2066548"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.019746,21.090427]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2067497"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.829951,20.236495]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2068956"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3232784,20.9147407]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2069406"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0503311,19.7161141]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2069838"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-154.9491975,19.4955272]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2069858"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9936745,19.6453625]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2070202"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3277819,20.7670034000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2070260"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8704446,21.3271997000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2070287"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.8941233,21.3558641000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2070334"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.812599,20.2355087]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2070748"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.1263402,19.896956]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2070890"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.0697295,21.1631503]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2070950"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.2346254,19.4283854]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2072283"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9846988,19.6523560000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2072485"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.1127254,19.8714902]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2072837"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.6806008,20.8774473]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2073319"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.5970654,19.0601073]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2073419"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.684169,20.8911383]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2073646"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.5643924,20.1172879000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2073714"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4657331,20.8875972000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2074304"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158.1512175,21.3868084000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2074430"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.498255,20.8945620000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2074453"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.4696202,20.080028]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2075081"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.4772919,19.2017785]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2075101"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.4555517,20.7493449]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2076614"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.2260178,19.9800584000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2077078"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.668403,20.0193610000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2077667"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.2347643,19.9848613]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2077933"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3420633,20.8378059]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2078433"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9095456,19.4885765]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2078465"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.2098702,21.131359]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2079747"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.3745861,20.9066060000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2079821"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.9485421,19.6190621000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2080610"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.1082583,19.5497214000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2080664"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.1681285,19.9378356]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2080850"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.312958,20.852356]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2081329"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.0395642,19.6221712]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2081383"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.920568,19.518157]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2081780"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-155.7873769,19.9249252000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2081876"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.745311,21.4427519000001]},"properties":{"State":"HI","FCode":"78006","Feature":"Post Office","OSM_ID":"2083742"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.7470061,21.3760486]},"properties":{"State":"HI","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"2083743"}}
+]}

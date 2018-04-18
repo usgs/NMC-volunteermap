@@ -1,0 +1,57 @@
+{"name":"VI","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7515731,17.7336736]},"properties":{"State":"VI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"2043814"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.8902586,18.3182176]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043815"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7125214,18.3478855000001]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043816"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7126426999999,17.7435843000001]},"properties":{"State":"VI","FCode":"78006","Feature":"Post Office","OSM_ID":"2043817"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9324556,18.3521461]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043818"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7768493,17.7183226]},"properties":{"State":"VI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"2043819"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.972866,18.3441930000001]},"properties":{"State":"VI","FCode":"73006","Feature":"College / University","OSM_ID":"2043820"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.8801862999999,17.693583]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043821"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7113611999999,18.3473148]},"properties":{"State":"VI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"2043822"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7020866,17.746362]},"properties":{"State":"VI","FCode":"78006","Feature":"Post Office","OSM_ID":"2043823"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9258126,18.3425162]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043824"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7986382999999,17.7229472]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043825"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.6864836999999,17.7445819000001]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043826"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.8669412,17.7025178000001]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043827"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.8783993,17.7046394000001]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043828"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9422456,18.3409003]},"properties":{"State":"VI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2043829"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7373188,17.7641673000001]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043830"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7939160999999,18.3304641]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043831"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7914911999999,17.6994217000001]},"properties":{"State":"VI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"2043832"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7931184999999,18.3299866]},"properties":{"State":"VI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"2043833"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9274556999999,18.3450651000001]},"properties":{"State":"VI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2043834"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.775145,17.7335847000001]},"properties":{"State":"VI","FCode":"78006","Feature":"Post Office","OSM_ID":"2043835"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7804323999999,17.7255221]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043836"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7807281,17.7283461000001]},"properties":{"State":"VI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2043837"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9567706999999,18.3137542000001]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043838"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9187491,18.3420370000001]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043839"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7434069999999,17.7277739]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043841"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.8856286,18.3411835000001]},"properties":{"State":"VI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"2043842"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7801926,17.7248593]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043843"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9308657999999,18.3415434]},"properties":{"State":"VI","FCode":"78006","Feature":"Post Office","OSM_ID":"2043844"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9419023,18.3401869]},"properties":{"State":"VI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2043845"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.8862533,18.3410654]},"properties":{"State":"VI","FCode":"78006","Feature":"Post Office","OSM_ID":"2043846"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9398681,18.343012]},"properties":{"State":"VI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2043847"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7753987,17.7344648000001]},"properties":{"State":"VI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"2043848"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7816364,17.7358761]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043850"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.8210397999999,17.7224736000001]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043851"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.8550948,18.3241711000001]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043852"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9282006,18.3452336]},"properties":{"State":"VI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2043854"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7607815,17.7251684]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043855"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.6211077999999,17.7500444]},"properties":{"State":"VI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"2043856"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9678231,18.3402991]},"properties":{"State":"VI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"2043857"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9579712999999,18.3648213000001]},"properties":{"State":"VI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"2043858"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7153028,17.7464106]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043859"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9505813,18.3413784000001]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043860"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7861166,17.7272681000001]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043861"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-65.0119182999999,18.3504600000001]},"properties":{"State":"VI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"2043862"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7155660999999,17.7478243]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043863"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9145467,18.3404769000001]},"properties":{"State":"VI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"2043864"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9299824,18.3406253000001]},"properties":{"State":"VI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"2043865"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7835653,17.7421648000001]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043866"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9427659999999,18.3406353]},"properties":{"State":"VI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2043867"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9172364999999,18.3417761000001]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043868"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.8146308999999,17.7088731000001]},"properties":{"State":"VI","FCode":"73002","Feature":"School","OSM_ID":"2043869"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.823433,17.7274988]},"properties":{"State":"VI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"2043870"}}
+]}

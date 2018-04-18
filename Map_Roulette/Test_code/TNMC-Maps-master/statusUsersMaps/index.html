@@ -1,0 +1,101 @@
+<html>
+
+<head>
+  <title>Volunteer Edited Points</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+  <script>
+    L_PREFER_CANVAS = true;
+  </script>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="./assets/plugins/MarkerCluster.css" />
+  <link rel="stylesheet" href="./assets/plugins/MarkerCluster.Default.css" />
+  <script src="./assets/plugins/leaflet.markercluster-src.js"></script>
+  <script src="https://code.jquery.com/jquery-2.1.3.js"></script>
+  <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+  <script src="./assets/plugins/slidereveal.min.js"></script>
+  <script src="./assets/plugins/jquery.fullscreen-min.js"></script>
+  <script src="./assets/plugins/typeahead.bundle.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js" charset="utf-8"></script>
+  <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+
+<body>
+  <nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <a class="navbar-brand" href="http://nationalmap.gov/TheNationalMapCorps/">
+          <img alt="Homepage" id="logo" src="./assets/img/tnmc.jpg">
+        </a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          <!-- dropdown for user selection -->
+          <li class="dropdown" id="usermenu">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Volunteers <span class="caret"></span></a>
+            <ul class="dropdown-menu" id="userlayers">
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search">
+          <div class="btn-group ">
+            <input id="searchinput" type="text" class="form-control" data-provide="typeahead" placeholder="Search for a Volunteer">
+            <span id="searchclear" class="glyphicon glyphicon-remove-circle"></span>
+          </div>
+          <button class="btn btn-default" type="button" id="searchBoxBtn">Search</button>
+          <button class="btn btn-default" type="button" id="showSidebar">Volunteer Information</button>
+          <!-- <button onclick="$(document).toggleFullScreen();" class="btn btn-default" type="button" id="fullscreen">Fullscreen</button> -->
+        </form>
+
+        <h4 class="navbar-text navbar-right" id="volunteerName"></h4>
+      </div>
+      <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+  </nav>
+  <div id="sidebar">
+    <div id="close">
+      <a href="#" id="closePanel"><i class="fa fa-times fa-2x"></i></a>
+    </div>
+    <div id="sidebarHeader">
+      <h2 class="sidebarText" id="volunteerNameSidebar"></h2>
+      <h3 class="sidebarText" id="totalEdits">
+        </h2>
+        <p class="sidebarText" id="since"></p>
+
+    </div>
+    <h3 style="padding-left: 18; font-weight: bold"><i class="fa fa-globe"></i> States Edited:</h3>
+    <ul id="statedEdited">
+    </ul>
+    <h3 style="padding-left: 18; font-weight: bold"><i class="fa fa-trophy"></i> Earned Badges:</h3>
+    <ul id="earnedBadges">
+    </ul>
+    <div id="footer">
+      <p class="muted">
+        Data from 06/30/2015
+      </p>
+      <p class="muted">
+        Data reflects both add and deleted points.
+      </p>
+    </div>
+  </div>
+  <div id="map">
+    <div id="progress">
+
+      <div id="progress-bar">
+        <h3>Loading...</h3>
+      </div>
+      <script src="./data/users.json"></script>
+      <script type="application/javascript" src="./script.js"></script>
+    </div>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,82 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#map {
+  height:97vh;
+  overflow-y: hidden;
+}
+
+
+#progress {
+  display: none;
+  position: absolute;
+  z-index: 1000;
+  left: 50%;
+  top: 50%;
+  width: 200px;
+  height: 20px;
+  margin-top: -20px;
+  margin-left: -100px;
+  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 4px;
+  padding: 2px;
+}
+#progress-bar {
+  width: 0;
+  height: 100%;
+  background-color: #76A6FC;
+  border-radius: 4px;
+}
+
+#logo {
+  width: 100%;
+  height: auto;
+  padding-bottom: 20px;
+}
+
+#title {
+  height: 3vh;
+  background-image: url("../img/shattered.png");
+  padding: 0;
+  z-index: 10000
+}
+
+#selectedState {
+  padding-right: 20;
+  margin: 0;
+  text-align: right;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 3vh
+}
+
+.btn {
+  font-size: 12px;
+  white-space: normal;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+#statelayers{
+  max-height: 550px;
+  overflow-y: scroll;
+}
+#overlay {
+  padding: 10px;
+  margin-left: 10px;
+  background-image: url("../img/shattered.png");
+  height: 100vh
+}
