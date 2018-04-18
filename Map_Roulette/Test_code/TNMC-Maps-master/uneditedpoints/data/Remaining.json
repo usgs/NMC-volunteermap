@@ -1,9 +1,0 @@
-{"name":"Remaining","type":"FeatureCollection"
-,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9403569,18.3382999]},"properties":{"State":"","FCode":"78006","Feature":"Post Office","OSM_ID":"2043989"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9460334,18.3373129]},"properties":{"State":"","FCode":"73002","Feature":"School","OSM_ID":"2043995"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.9288458,18.3424328]},"properties":{"State":"","FCode":"83006","Feature":"State Capitol","OSM_ID":"2043996"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.7129892999999,18.3484058]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"2062223"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.1181683999999,17.9685968000001]},"properties":{"State":"","FCode":"73002","Feature":"School","OSM_ID":"2062862"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.0588243,18.4426377]},"properties":{"State":"","FCode":"73006","Feature":"College / University","OSM_ID":"2084267"}}
-]}

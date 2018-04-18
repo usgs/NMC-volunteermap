@@ -1,4 +1,0 @@
-{"name":"testUnique","type":"FeatureCollection"
-,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.2306178,32.8689744000001,0]},"properties":{"UserName":"Mikedavidg","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043987","TimeStamp":20140803,"NAME":"California"}}
-]}

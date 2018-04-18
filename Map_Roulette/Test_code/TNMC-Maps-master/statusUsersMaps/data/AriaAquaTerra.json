@@ -1,4 +1,0 @@
-{"name":"testUnique","type":"FeatureCollection"
-,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8342479999999,41.4140407,0]},"properties":{"UserName":"AriaAquaTerra","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2039232","TimeStamp":20140419,"NAME":"Connecticut"}}
-]}

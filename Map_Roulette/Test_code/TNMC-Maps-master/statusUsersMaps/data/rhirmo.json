@@ -1,4 +1,0 @@
-{"name":"testUnique","type":"FeatureCollection"
-,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1860124,34.1055648,0]},"properties":{"UserName":"rhirmo","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2038931","TimeStamp":20140403,"NAME":"South Carolina"}}
-]}

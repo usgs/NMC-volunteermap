@@ -1,4 +1,0 @@
-{"name":"testUnique","type":"FeatureCollection"
-,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.4017783,36.0670453000001,0]},"properties":{"UserName":"MartianCruiser","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2063016","TimeStamp":20141117,"NAME":"North Carolina"}}
-]}

@@ -1,4 +1,0 @@
-{"name":"testUnique","type":"FeatureCollection"
-,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.0721504,33.5048924000001,0]},"properties":{"UserName":"Map_Guy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2040293","TimeStamp":20140611,"NAME":"Arizona"}}
-]}

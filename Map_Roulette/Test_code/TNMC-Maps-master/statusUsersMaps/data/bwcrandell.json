@@ -1,4 +1,0 @@
-{"name":"testUnique","type":"FeatureCollection"
-,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.4825575,40.3951335,0]},"properties":{"UserName":"bwcrandell","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1642493","TimeStamp":20130415,"NAME":"Colorado"}}
-]}
