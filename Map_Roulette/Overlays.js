@@ -88,17 +88,6 @@
  var finshed = 0;
  var popup;
  
- //popups//
-
-var unedited_popup = L.popup ({keepinView:true,closeButton:false})
-.setContent(feature.properties.name);
-marker.bindPopup(unedited_popup);
-
-var PR_popup =L.popup ({keepinView:true,closeButton:false})
-.setContent(feature.properties.name);
-marker.bindPopup(PR_popup);
-
-
 // Create a function that should connect the data layers to the check boxes in the HTML This needs to be done 4 times for each check box?// 
 function getRandom(RandomPoint) {
 	document.getElementById("RandomPoint").innerHTML = myRandom();
