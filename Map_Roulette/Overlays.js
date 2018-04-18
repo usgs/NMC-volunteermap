@@ -25,15 +25,12 @@
 //Layer Groups for the basemaps so that they will control the zoom levels properly//
  var usda = L.layerGroup([nationalMap, usdaNAIP]);
  var national = L.layerGroup([imageryTopo,usdaNAIP]);
- 
-// Create a bounding box for the entire map// 
- var southWest = L.latLng(14.581656, -169.354212),
-		northEast = L.latLng(661.492973, 174.987991),
-		bounds = L.latLngBounds(southWest, northEast);
-//add to Map capability// 
 
+		
+		
+//add to Map capability//
  var map = L.map('map',{
-	 layers: [national],
+	 layers: [national,usda],
 	 'maxBounds': bounds 
  }) .setView([40.63, -77.84], 7);
  
@@ -62,6 +59,9 @@
 	 markerColor:'red',
 	 prefix: 'fa'
 	 }),
+	 onEachFeature: function(feature, layer){
+         layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+        }
 }).addTo(map);
  var unedited_PR = L.esri.clusteredFeatureLayer({
 	 url:"https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0", 
@@ -74,6 +74,9 @@
 	 shape: 'square',
 	 prefix: 'fa'
 	}), 
+	onEachFeature: function(feature, layer){
+         layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+        }
 }).addTo(map);
 
 //Variables//
@@ -85,17 +88,6 @@
  var finshed = 0;
  var popup;
  
- //popups//
-
-var unedited_popup = L.popup ({keepinView:true,closeButton:false})
-.setContent(feature.properties.name);
-marker.bindPopup(unedited_popup);
-
-var PR_popup =L.popup ({keepinView:true,closeButton:false})
-.setContent(feature.properties.name);
-marker.bindPopup(PR_popup);
-
-
 // Create a function that should connect the data layers to the check boxes in the HTML This needs to be done 4 times for each check box?// 
 function getRandom(RandomPoint) {
 	document.getElementById("RandomPoint").innerHTML = myRandom();
@@ -125,10 +117,15 @@ function getPeer(PRPoints) {
 function myFunction(Courthouse) {
 	document.getElementById("Courthouse").innerHTML = myFunction();
 }; */
-
+if (typeof feature !== 'undefined'){
 if(feature.properties.OBJECTID === targetId){
 		var popups = L.popup().setLatLng([feature.geometry.coordinates[1]+0.00005, feature.geometry.coordinates[0]])
-		 .setContent(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>').openOn(map); 
+		var feature = ''
+		.setContent(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>').openOn(map); 
+		// Create a bounding box for the entire map// 
+		var southWest = L.latLng(14.581656, -169.354212),
+		northEast = L.latLng(661.492973, 174.987991),
+		bounds = L.latLngBounds(southWest, northEast);
 		//The below code generates a random number//.Corps/TNMCorps_Map_Challenge/MapServer/0" // Or whatever service you want
            query.where("OBJECTID = " + testId.toString());
            query.run(function(error, featureCollection, response){
@@ -136,12 +133,8 @@ if(feature.properties.OBJECTID === targetId){
            });
          } else {
           reject("nothing found");
-         };
-//add to Map capability// 
- var map = L.map('map',{
-	 layers: [national,usda],
-	 'maxBounds': bounds 
- }) .setView([40.63, -77.84], 7);
+		 }
+         }; 
  
  //container for the base layers.. thought i made this on line 25 and 26//
  var baseMaps = {
@@ -152,8 +145,7 @@ if(feature.properties.OBJECTID === targetId){
  //container for data types //
  var datatypes ={
 	 "unedited_points": unedited_points,
-	 "unedited_PR": unedited_PR,
-	 "challenge": challenge
+	 "unedited_PR": unedited_PR
  };
  
   map.zoomControl.setPosition('bottomright');
