@@ -62,9 +62,6 @@
 	 markerColor:'red',
 	 prefix: 'fa'
 	 }),
-	 onEachFeature: function(feature, layer){
-         layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
-          }
 }).addTo(map);
  var unedited_PR = L.esri.clusteredFeatureLayer({
 	 url:"https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0", 
@@ -88,6 +85,17 @@
  var finshed = 0;
  var popup;
  
+ //popups//
+
+var unedited_popup = L.popup ({keepinView:true,closeButton:false})
+.setContent(feature.properties.name);
+marker.bindPopup(unedited_popup);
+
+var PR_popup =L.popup ({keepinView:true,closeButton:false})
+.setContent(feature.properties.name);
+marker.bindPopup(PR_popup);
+
+
 // Create a function that should connect the data layers to the check boxes in the HTML This needs to be done 4 times for each check box?// 
 function getRandom(RandomPoint) {
 	document.getElementById("RandomPoint").innerHTML = myRandom();
