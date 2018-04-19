@@ -25,7 +25,7 @@
 //Layer Groups for the basemaps so that they will control the zoom levels properly//
  var usda = L.layerGroup([nationalMap, usdaNAIP]);
  var national = L.layerGroup([imageryTopo,usdaNAIP]);
-
+// This is for JOE! // 
 		
 		
 //add to Map capability//
