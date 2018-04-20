@@ -98,7 +98,7 @@ The purple circles represent clustered points. The number shown is the # of clus
               <i class="fa fa-exclamation"></i>
             </div>
             <div class="markers-descri" id="tobecheckedDescr">
-              Points that need to be checked
+              Points that need to be edited
             </div>
           </div>
           <div class="markers-box">
@@ -122,20 +122,20 @@ The purple circles represent clustered points. The number shown is the # of clus
 			<p id="RandomPoint"></p>
 			<p style="color:white; text-align:center" =><b>Unedited Points</b></p>
 			<form>
-			<input type = "button" value = "Generate Standard Points" onclick = myFuction(RandomPoint)><p style = "color:white"></p></input> 
+			<input type = "button" value = "Generate Standard Points" onclick = getRandom(unedited_points)><p style = "color:white"></p></input> 
 			</form>
 		<p id ="PRPoints"></p>
 		<form>
-		<input type = "button" value = "Generate Peer Review Points" onclick = myPeer(PRPoints)><p style = "color:white"></p></input> 
+		<input type = "button" value = "Generate Peer Review Points" onclick = getPeer(unedited_PR)><p style = "color:white"></p></input> 
 		</form>
 		</div>
-		<div style ="border:3px solid yellow; min-height:5px; margin-top:15px; width:250px;" align="center">
+		<!--<div style ="border:3px solid yellow; min-height:5px; margin-top:15px; width:250px;" align="center">
 			<p id="Challenge"></p>
 			<p style="color:white; text-align:center"><b>Challenge Map</b></p>
 			<form>
 			<input type = "button" value = "Post Offices" onclick = myChallenge()><p style = "color:white"></p> </Input> 
 			</form>
-		</div>
+		</div>-->
         <!--div class="info" style="margin-top: 15px">
           <a href="#" data-toggle="modal" data-target="#myModal">
           </a>

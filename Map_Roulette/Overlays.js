@@ -25,7 +25,6 @@
 //Layer Groups for the basemaps so that they will control the zoom levels properly//
  var usda = L.layerGroup([nationalMap, usdaNAIP]);
  var national = L.layerGroup([imageryTopo,usdaNAIP]);
-// This is for JOE! // 
 		
 		
 //add to Map capability//
@@ -48,36 +47,47 @@
 	 where:"FTYPE='830' AND STATE = 'GA'"}
 }).addTo(map); */
 
- var unedited_points = L.esri.clusteredFeatureLayer({
+//variables for function for local scope//
+ var un_points = L.esri.clusteredFeatureLayer({
 	 url:"https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0", 
-	 WHERE:"EDITSTATUS='0'",
+	 where:"EDITSTATUS ='0'",
 	 minZoom:'0',
 	 maxZoom:'13',
+	onEachFeature: function(feature, layer){
+         layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+	},
+	 pointToLayer: function(feature, latlng) {
+     return L.marker(latlng, {
 	 icon: L.ExtraMarkers.icon({
-	 icon:'fa-exclamation fa-2x',
+	 icon: 'fa-exclamation fa 2x',
+	 markerColor: 'red',
 	 shape: 'square',
-	 markerColor:'red',
 	 prefix: 'fa'
 	 }),
-	 onEachFeature: function(feature, layer){
-         layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
-        }
+	 });
+	 }
 }).addTo(map);
- var unedited_PR = L.esri.clusteredFeatureLayer({
+
+ var un_PR = L.esri.clusteredFeatureLayer({
 	 url:"https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0", 
-	 WHERE:"EDITSTATUS='1'",
+	 where:"EDITSTATUS ='1'",
 	 minZoom:'0',
 	 maxZoom:'13',
+	onEachFeature: function(feature, layer){
+         layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+	},
+	 pointToLayer: function(feature, latlng) {
+     return L.marker(latlng, {
 	 icon: L.ExtraMarkers.icon({
 	 icon: 'fa-times fa 2x',
 	 markerColor: 'green-light',
 	 shape: 'square',
 	 prefix: 'fa'
-	}), 
-	onEachFeature: function(feature, layer){
-         layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
-        }
+	 }),
+	 });
+	 }
 }).addTo(map);
+
 
 //Variables//
  var targetId;
@@ -88,14 +98,67 @@
  var finshed = 0;
  var popup;
  
-// Create a function that should connect the data layers to the check boxes in the HTML This needs to be done 4 times for each check box?// 
-function getRandom(RandomPoint) {
+ //Function for Buttons //
+function getRandom(unedited_points) {
+	document.getElementById("RandomPoint").innerHTML = Math.floor(Math.random() * 16743338);
+};
+
+function getPeer(unedited_PR) {
+	document.getElementById("PRPoints").innerHTML = Math.floor(Math.random() * 1719336);
+};
+ 
+ //Variables for Global scope// 
+  var unedited_points = L.esri.clusteredFeatureLayer({
+	 url:"https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0", 
+	 where:"EDITSTATUS='0'",
+	 minZoom:'0',
+	  maxZoom:'13',
+	onEachFeature: function(feature, layer){
+         layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+	},
+	 pointToLayer: function(feature, latlng) {
+     return L.marker(latlng, {
+	 icon: L.ExtraMarkers.icon({
+	 icon: 'fa-exclamation fa 2x',
+	 markerColor: 'red',
+	 shape: 'square',
+	 prefix: 'fa'
+	 }),
+	 });
+	 }
+}).addTo(map);
+
+ var unedited_PR = L.esri.clusteredFeatureLayer({
+	 url:"https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0", 
+	 where:"EDITSTATUS='1'",
+	 minZoom:'0',
+	 maxZoom:'13',
+	onEachFeature: function(feature, layer){
+         layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+	},
+	 pointToLayer: function(feature, latlng) {
+     return L.marker(latlng, {
+	 icon: L.ExtraMarkers.icon({
+	 icon: 'fa-times fa 2x',
+	 markerColor: 'green-light',
+	 shape: 'square',
+	 prefix: 'fa'
+	 }),
+	 });
+	 }
+}).addTo(map);
+
+getRandom(unedited_points);
+getPeer(unedited_PR);
+
+// Create a function that should connect the data layers to the check boxes in the HTML This needs to be done 4 times for each check box? May not need these// 
+/*function getRandom(RandomPoint) {
 	document.getElementById("RandomPoint").innerHTML = myRandom();
 	
 };
 function getPeer(PRPoints) {
 	document.getElementById("PRPoints").innerHTML = myPeer();
-};
+}; */
 /*
 function myFunction(Courthouse) {
 	document.getElementById("Courthouse").innerHTML = myFunction();
@@ -103,16 +166,6 @@ function myFunction(Courthouse) {
 /*function getChallenge(Challenge) {
 	document.getElementById("Challenge").innerHTML=myChallenge();
 }; */
-
-/* Code to randomize points */
-function getRandom(RandomPoint) {
-	document.getElementById("RandomPoint").innerHTML = Math.floor(Math.random() * 16743338);
-	
-};
-function getPeer(PRPoints) {
-	document.getElementById("PRPoints").innerHTML = Math.floor(Math.random() * 1000);
-};
-
 /*
 function myFunction(Courthouse) {
 	document.getElementById("Courthouse").innerHTML = myFunction();
@@ -134,7 +187,7 @@ if(feature.properties.OBJECTID === targetId){
          } else {
           reject("nothing found");
 		 }
-         }; 
+         };  
  
  //container for the base layers.. thought i made this on line 25 and 26//
  var baseMaps = {
@@ -143,14 +196,12 @@ if(feature.properties.OBJECTID === targetId){
  };
  
  //container for data types //
- var datatypes ={
+ /*var datatypes ={
 	 "unedited_points": unedited_points,
 	 "unedited_PR": unedited_PR
- };
+ }; */
  
   map.zoomControl.setPosition('bottomright');
   
  //A layer control for the selectable layers.. I don't think i understand this completely//
- L.control.layers(baseMaps,datatypes).addTo(map);
- 
-
+ L.control.layers(baseMaps).addTo(map);
