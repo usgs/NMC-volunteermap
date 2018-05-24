@@ -25,16 +25,15 @@
 //Layer Groups for the basemaps so that they will control the zoom levels properly//
  var usda = L.layerGroup([nationalMap, usdaNAIP]);
  var national = L.layerGroup([imageryTopo,usdaNAIP]);
-		
-		
-//add to Map capability//
+ 
+   //add to Map capability//
  var map = L.map('map',{
 	 layers: [national,usda],
 	 'maxBounds': bounds 
  }) .setView([40.63, -77.84], 7);
  
+ 
  //Points pulled from database-- Queried //
-
  /*var challenge = L.esri.clusteredFeatureLayer({
 	url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0",
 	WHERE:"FTYPE='730' AND STATE='CO'",
@@ -106,6 +105,10 @@ function getRandom(unedited_points) {
 function getPeer(unedited_PR) {
 	document.getElementById("PRPoints").innerHTML = Math.floor(Math.random() * 1719336);
 };
+
+// function and variables//
+getRandom(unedited_points);
+getPeer(unedited_PR);
  
  //Variables for Global scope// 
   var unedited_points = L.esri.clusteredFeatureLayer({
@@ -148,9 +151,6 @@ function getPeer(unedited_PR) {
 	 }
 }).addTo(map);
 
-getRandom(unedited_points);
-getPeer(unedited_PR);
-
 // Create a function that should connect the data layers to the check boxes in the HTML This needs to be done 4 times for each check box? May not need these// 
 /*function getRandom(RandomPoint) {
 	document.getElementById("RandomPoint").innerHTML = myRandom();
@@ -170,6 +170,31 @@ function myFunction(Courthouse) {
 function myFunction(Courthouse) {
 	document.getElementById("Courthouse").innerHTML = myFunction();
 }; */
+function getRandomFeature(){
+  return new Promise(function(resolve, reject) {
+    let query = new L.esri.Tasks.query({
+       url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0" // Or whatever service you want
+    });
+    let testId = 0;
+    query.where("EDITSTATUS in ('0')"),
+	query.where("EDITSTATUS in ('1')")
+    query.ids(function(error, featureCollection, response){
+        if(featureCollection.length > 0){
+          testId = featureCollection[Math.floor(Math.random()*featureCollection.length)]
+          let finalQuery = new L.esri.Tasks.query({
+              url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0" // Or whatever service you want
+          });
+          query.where("OBJECTID = " + testId.toString())
+          query.run(function(error, featureCollection, response){
+            resolve(response.features);
+          });
+        } else {
+          reject("nothing found")
+        }
+    })
+  })
+};
+
 if (typeof feature !== 'undefined'){
 if(feature.properties.OBJECTID === targetId){
 		var popups = L.popup().setLatLng([feature.geometry.coordinates[1]+0.00005, feature.geometry.coordinates[0]])
@@ -187,7 +212,7 @@ if(feature.properties.OBJECTID === targetId){
          } else {
           reject("nothing found");
 		 }
-         };  
+         };
  
  //container for the base layers.. thought i made this on line 25 and 26//
  var baseMaps = {
@@ -203,5 +228,5 @@ if(feature.properties.OBJECTID === targetId){
  
   map.zoomControl.setPosition('bottomright');
   
- //A layer control for the selectable layers.. I don't think i understand this completely//
+ //A layer control for the selectable layers.//
  L.control.layers(baseMaps).addTo(map);
