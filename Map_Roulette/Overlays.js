@@ -26,10 +26,15 @@
  var usda = L.layerGroup([nationalMap, usdaNAIP]);
  var national = L.layerGroup([imageryTopo,usdaNAIP]);
  
+ //Bound Box for The Map//
+var southWest = L.latLng(14.581656, -169.354212),
+			northEast = L.latLng(661.492973, 174.987991),
+			bounds = L.latLngBounds(southWest, northEast);
+ 
    //add to Map capability//
  var map = L.map('map',{
 	 layers: [national,usda],
-	 'maxBounds': bounds 
+	 'maxBounds':bounds
  }) .setView([40.63, -77.84], 7);
  
  
@@ -92,23 +97,24 @@
  var targetId;
  var feature;
  var properties;
+ var properties1;
  var needsChecked = 0;
  var needsReviewed = 0;
  var finshed = 0;
  var popup;
  
  //Function for Buttons //
-function getRandom(unedited_points) {
+/*function getRandom(unedited_points) {
 	document.getElementById("RandomPoint").innerHTML = Math.floor(Math.random() * 16743338);
-};
+};*/
 
-function getPeer(unedited_PR) {
+/*function getPeer(unedited_PR) {
 	document.getElementById("PRPoints").innerHTML = Math.floor(Math.random() * 1719336);
-};
+};*/
 
 // function and variables//
-getRandom(unedited_points);
-getPeer(unedited_PR);
+/*getRandom(unedited_points);
+getPeer(unedited_PR);*/
  
  //Variables for Global scope// 
   var unedited_points = L.esri.clusteredFeatureLayer({
@@ -170,14 +176,16 @@ function myFunction(Courthouse) {
 function myFunction(Courthouse) {
 	document.getElementById("Courthouse").innerHTML = myFunction();
 }; */
-function getRandomFeature(){
-  return new Promise(function(resolve, reject) {
+//Functions for the buttons  for standard and peer review  points// 
+getRandom(unedited_points);
+getPeer(unedited_PR);
+
+function getRandom(unedited_points){
+	return new Promise(function(resolve, reject) {
     let query = new L.esri.Tasks.query({
        url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0" // Or whatever service you want
     });
-    let testId = 0;
-    query.where("EDITSTATUS in ('0')"),
-	query.where("EDITSTATUS in ('1')")
+    query.where("EDITSTATUS in ('0', '1')")
     query.ids(function(error, featureCollection, response){
         if(featureCollection.length > 0){
           testId = featureCollection[Math.floor(Math.random()*featureCollection.length)]
@@ -192,28 +200,30 @@ function getRandomFeature(){
           reject("nothing found")
         }
     })
-  })
-};
+  }).addTo(map);
 
-if (typeof feature !== 'undefined'){
-if(feature.properties.OBJECTID === targetId){
-		var popups = L.popup().setLatLng([feature.geometry.coordinates[1]+0.00005, feature.geometry.coordinates[0]])
-		var feature = ''
-		.setContent(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>').openOn(map); 
-		// Create a bounding box for the entire map// 
-		var southWest = L.latLng(14.581656, -169.354212),
-		northEast = L.latLng(661.492973, 174.987991),
-		bounds = L.latLngBounds(southWest, northEast);
-		//The below code generates a random number//.Corps/TNMCorps_Map_Challenge/MapServer/0" // Or whatever service you want
-           query.where("OBJECTID = " + testId.toString());
-           query.run(function(error, featureCollection, response){
-           resolve(response.features);
-           });
-         } else {
-          reject("nothing found");
-		 }
-         };
- 
+function getPeer(unedited_PR){
+	return new Promise(function(resolve, reject) {
+    let query = new L.esri.Tasks.query({
+       url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0" // Or whatever service you want
+    });
+    query.where("EDITSTATUS in ('0', '1')")
+    query.ids(function(error, featureCollection, response){
+        if(featureCollection.length > 0){
+          testId = featureCollection[Math.floor(Math.random()*featureCollection.length)]
+          let finalQuery = new L.esri.Tasks.query({
+              url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0" // Or whatever service you want
+          });
+          query.where("OBJECTID = " + testId.toString())
+          query.run(function(error, featureCollection, response){
+            resolve(response.features);
+          });
+        } else {
+          reject("nothing found")
+        }
+    })
+  }).addTo(map);
+  
  //container for the base layers.. thought i made this on line 25 and 26//
  var baseMaps = {
 	 "usda": usda,
@@ -221,12 +231,12 @@ if(feature.properties.OBJECTID === targetId){
  };
  
  //container for data types //
- /*var datatypes ={
+ var datatypes ={
 	 "unedited_points": unedited_points,
 	 "unedited_PR": unedited_PR
- }; */
+ };
  
   map.zoomControl.setPosition('bottomright');
   
  //A layer control for the selectable layers.//
- L.control.layers(baseMaps).addTo(map);
+ L.control.layers(baseMaps,datatypes).addTo(map);
