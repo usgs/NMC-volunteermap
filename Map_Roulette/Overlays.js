@@ -102,6 +102,8 @@ var southWest = L.latLng(14.581656, -169.354212),
  var needsReviewed = 0;
  var finshed = 0;
  var popup;
+ var math; 
+ var floor; 
  
  //Function for Buttons //
 /*function getRandom(unedited_points) {
@@ -133,7 +135,7 @@ getPeer(unedited_PR);*/
 	 shape: 'square',
 	 prefix: 'fa'
 	 }),
-	 });
+	 })
 	 }
 }).addTo(map);
 
@@ -153,7 +155,7 @@ getPeer(unedited_PR);*/
 	 shape: 'square',
 	 prefix: 'fa'
 	 }),
-	 });
+	 })
 	 }
 }).addTo(map);
 
@@ -180,34 +182,84 @@ function myFunction(Courthouse) {
 getRandom(unedited_points);
 getPeer(unedited_PR);
 
+function myFunction() {
+	getRandomFeature().then(function(test) {
+		/*console.log("Mug Man! : ",test)
+		console.log("Map Man :" , map)
+		console.log("LAYER MAN :" , featureLayer)*/
+		map.setView([test[0].geometry.y, test[0].geometry.x],18)
+		targetId =test[0].attributes.OBJECTID;
+		console.log(featureLayer.getFeature(testid));
+	});
+}
+
+function getPeer() {
+	getPeer().then(function(test) {
+		/*console.log("Mug Man! : ",test)
+		console.log("Map Man :" , map)
+		console.log("LAYER MAN :" , featureLayer)*/
+		map.setView([test[0].geometry.y, test[0].geometry.x],18)
+		targetId =test[0].attributes.OBJECTID;
+		console.log(featureLayer.getFeature(testid));
+	});
+}
+
+
 function getRandom(unedited_points){
-	return new Promise(function(resolve, reject) {
-    let query = new L.esri.Tasks.query({
-       url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0" // Or whatever service you want
-    });
-    query.where("EDITSTATUS in ('0', '1')")
-    query.ids(function(error, featureCollection, response){
-        if(featureCollection.length > 0){
-          testId = featureCollection[Math.floor(Math.random()*featureCollection.length)]
-          let finalQuery = new L.esri.Tasks.query({
-              url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0" // Or whatever service you want
-          });
-          query.where("OBJECTID = " + testId.toString())
-          query.run(function(error, featureCollection, response){
-            resolve(response.features);
-          });
-        } else {
-          reject("nothing found")
-        }
-    })
-  }).addTo(map);
+ return new Promise(function(resolve,reject){
+	 let query = new L.esri.Tasks.query({
+		 url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0"
+	 });
+	 where: "EDITSTATUS in '0'"
+	 query.ids(function(error,featureCollection,response){
+		 if(featureCollection.length > 0){
+			 testid =featureCollection[math.floor(math.random()*featureCollection.length)]
+			 let finalQuery = new L.esri.Tasks.query({
+				 url:"https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0"
+			 });
+			 query.where("OBJECTID=" +testId.toString())
+			 query.run(function(error,featureCollection,response){
+				 resolve(response.features);
+			 });
+		 } else {
+				 reject("nothing found")
+			 }
+		 
+	 })
+ })
+};
+
 
 function getPeer(unedited_PR){
-	return new Promise(function(resolve, reject) {
+ return new Promise(function(resolve,reject){
+	 let query = new L.esri.Tasks.query({
+		 url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0"
+	 });
+	 where: "EDITSTATUS in '1'"
+	 query.ids(function(error,featureCollection,response){
+		 if(featureCollection.length > 0){
+			 testid =featureCollection[math.floor(math.random()*featureCollection.length)]
+			 let finalQuery = new L.esri.Tasks.query({
+				 url:"https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0"
+			 });
+			 query.where("OBJECTID=" +testId.toString())
+			 query.run(function(error,featureCollection,response){
+				 resolve(response.features);
+			 });
+		 } else {
+				 reject("nothing found")
+		 }
+	 })
+ })
+};
+
+
+/*function getPeer(unedited_PR){ //open 
+	return new Promise(function(resolve, reject) { //open
     let query = new L.esri.Tasks.query({
        url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0" // Or whatever service you want
     });
-    query.where("EDITSTATUS in ('0', '1')")
+    query.where("EDITSTATUS in ('0')")
     query.ids(function(error, featureCollection, response){
         if(featureCollection.length > 0){
           testId = featureCollection[Math.floor(Math.random()*featureCollection.length)]
@@ -222,7 +274,29 @@ function getPeer(unedited_PR){
           reject("nothing found")
         }
     })
-  }).addTo(map);
+  }).addTo(map); */
+
+/*function getPeer(unedited_PR){
+	return new Promise(function(resolve, reject) {
+    let query = new L.esri.Tasks.query({
+       url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0" // Or whatever service you want
+    });
+    query.where("EDITSTATUS in ('1')")
+    query.ids(function(error, featureCollection, response){
+        if(featureCollection.length > 0){
+          testId = featureCollection[Math.floor(Math.random()*featureCollection.length)]
+          let finalQuery = new L.esri.Tasks.query({
+              url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0" // Or whatever service you want
+          });
+          query.where("OBJECTID = " + testId.toString())
+          query.run(function(error, featureCollection, response){
+            resolve(response.features);
+          });
+        } else {
+          reject("nothing found")
+        }
+    })
+  }).addTo(map);*/
   
  //container for the base layers.. thought i made this on line 25 and 26//
  var baseMaps = {
@@ -231,12 +305,12 @@ function getPeer(unedited_PR){
  };
  
  //container for data types //
- var datatypes ={
+ /*var datatypes ={
 	 "unedited_points": unedited_points,
 	 "unedited_PR": unedited_PR
- };
+ };*/
  
   map.zoomControl.setPosition('bottomright');
   
  //A layer control for the selectable layers.//
- L.control.layers(baseMaps,datatypes).addTo(map);
+ L.control.layers(baseMaps).addTo(map);
