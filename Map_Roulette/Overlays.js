@@ -4,21 +4,18 @@
  var imageryTopo = L.tileLayer.wms('http://basemap.nationalmap.gov/arcgis/services/USGSImageryTopo/MapServer/WmsServer?', {
   minZoom: '0',
    maxZoom: '13',
-   layers: '0',
    attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/services/USGSImageryTopo/MapServer">USGS</a>'
  });
 
  var nationalMap = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSTopo/MapServer/WmsServer?", {
    minZoom : '0', 
    maxZoom : '13',	
-   layers: '0',
    attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer">USGS</a>'
  });
  var usdaNAIP = L.esri.dynamicMapLayer({
 	 url: "https://gis.apfo.usda.gov/arcgis/rest/services/Base_Maps/Base_Map/MapServer", 
 	 minZoom: '14', 
-	 maxZoom: '19',
-	 layers: '0', 
+	 maxZoom: '19', 
 	 attribution: ' Map tiles by <a href="https://gis.apfo.usda.gov/arcgis/rest/services/Base_Maps/Base_Map/MapServer"> USDA</a>'
  });
  
@@ -88,7 +85,7 @@ var southWest = L.latLng(14.581656, -169.354212),
 	 shape: 'square',
 	 prefix: 'fa'
 	 }),
-	 });
+	 })
 	 }
 }).addTo(map);
 
@@ -97,13 +94,12 @@ var southWest = L.latLng(14.581656, -169.354212),
  var targetId;
  var feature;
  var properties;
- var properties1;
- var needsChecked = 0;
- var needsReviewed = 0;
- var finshed = 0;
  var popup;
- var math; 
+ var Math; 
  var floor; 
+ var getFeature;
+ var unedited_points ='0';
+ var unedited_PR ='1';
  
  //Function for Buttons //
 /*function getRandom(unedited_points) {
@@ -119,7 +115,7 @@ var southWest = L.latLng(14.581656, -169.354212),
 getPeer(unedited_PR);*/
  
  //Variables for Global scope// 
-  var unedited_points = L.esri.clusteredFeatureLayer({
+  var featureLayer = L.esri.clusteredFeatureLayer({
 	 url:"https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0", 
 	 where:"EDITSTATUS='0'",
 	 minZoom:'0',
@@ -139,11 +135,12 @@ getPeer(unedited_PR);*/
 	 }
 }).addTo(map);
 
- var unedited_PR = L.esri.clusteredFeatureLayer({
+ var featureLayer = L.esri.clusteredFeatureLayer({
 	 url:"https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0", 
 	 where:"EDITSTATUS='1'",
 	 minZoom:'0',
 	 maxZoom:'13',
+	 //New popup code//
 	onEachFeature: function(feature, layer){
          layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
 	},
@@ -156,6 +153,12 @@ getPeer(unedited_PR);*/
 	 prefix: 'fa'
 	 }),
 	 })
+	 }
+	 //Old popup code//
+	 /*layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');*/
+	 if(feature.properties.OBJECTID === targetId){
+		var popup = L.popup().setLatLng([feature.geometry.coordinates[1]+0.00005, feature.geometry.coordinates[0]])
+		.setContent(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>').openOn(map);
 	 }
 }).addTo(map);
 
@@ -178,82 +181,80 @@ function myFunction(Courthouse) {
 function myFunction(Courthouse) {
 	document.getElementById("Courthouse").innerHTML = myFunction();
 }; */
+
 //Functions for the buttons  for standard and peer review  points// 
 getRandom(unedited_points);
 getPeer(unedited_PR);
 
-function myFunction() {
+function getRandom() {
 	getRandomFeature().then(function(test) {
 		/*console.log("Mug Man! : ",test)
 		console.log("Map Man :" , map)
 		console.log("LAYER MAN :" , featureLayer)*/
 		map.setView([test[0].geometry.y, test[0].geometry.x],18)
 		targetId =test[0].attributes.OBJECTID;
-		console.log(featureLayer.getFeature(testid));
-	});
-}
+		console.log(featureLayer.getFeature(testId));
+	})
+};
 
 function getPeer() {
-	getPeer().then(function(test) {
+	getPeerFeature().then(function(test) {
 		/*console.log("Mug Man! : ",test)
 		console.log("Map Man :" , map)
 		console.log("LAYER MAN :" , featureLayer)*/
 		map.setView([test[0].geometry.y, test[0].geometry.x],18)
 		targetId =test[0].attributes.OBJECTID;
-		console.log(featureLayer.getFeature(testid));
-	});
-}
+		console.log(featureLayer.getFeature(testId));
+	})
+};
 
-
-function getRandom(unedited_points){
+function getRandomFeature(){
  return new Promise(function(resolve,reject){
 	 let query = new L.esri.Tasks.query({
 		 url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0"
 	 });
-	 where: "EDITSTATUS in '0'"
+	 query.where = "EDITSTATUS = '0'";
 	 query.ids(function(error,featureCollection,response){
-		 if(featureCollection.length > 0){
-			 testid =featureCollection[math.floor(math.random()*featureCollection.length)]
+		 if(featureCollection.length !== 0){
+			 testId =featureCollection[Math.floor(Math.random()*featureCollection.length)];
 			 let finalQuery = new L.esri.Tasks.query({
 				 url:"https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0"
 			 });
-			 query.where("OBJECTID=" +testId.toString())
-			 query.run(function(error,featureCollection,response){
+			 query.params.where = "OBJECTID=" +testId.toString();
+			 query.run = function(error,featureCollection,response){
 				 resolve(response.features);
-			 });
+			 };
 		 } else {
-				 reject("nothing found")
+				 reject("nothing found");
 			 }
 		 
-	 })
- })
-};
+	 });
+ });
+ }
 
 
-function getPeer(unedited_PR){
+function getPeerFeature(){
  return new Promise(function(resolve,reject){
 	 let query = new L.esri.Tasks.query({
 		 url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0"
 	 });
-	 where: "EDITSTATUS in '1'"
+	 query.where= "EDITSTATUS ='1'";
 	 query.ids(function(error,featureCollection,response){
 		 if(featureCollection.length > 0){
-			 testid =featureCollection[math.floor(math.random()*featureCollection.length)]
+			 testId = featureCollection[Math.floor(Math.random()*featureCollection.length)];
 			 let finalQuery = new L.esri.Tasks.query({
 				 url:"https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0"
 			 });
-			 query.where("OBJECTID=" +testId.toString())
+			 query.params.where="OBJECTID=" +testId.toString();
 			 query.run(function(error,featureCollection,response){
 				 resolve(response.features);
 			 });
 		 } else {
-				 reject("nothing found")
+				 reject("nothing found");
 		 }
-	 })
- })
-};
-
-
+	 });
+ });
+}
 /*function getPeer(unedited_PR){ //open 
 	return new Promise(function(resolve, reject) { //open
     let query = new L.esri.Tasks.query({
@@ -305,9 +306,9 @@ function getPeer(unedited_PR){
  };
  
  //container for data types //
- /*var datatypes ={
-	 "unedited_points": unedited_points,
-	 "unedited_PR": unedited_PR
+ /*var datatypes = {
+	 "unedited_points": getRandom,
+	 "unedited_PR": getPeer
  };*/
  
   map.zoomControl.setPosition('bottomright');
