@@ -12,13 +12,15 @@ var unedited_points = '0';
 var unedited_PR = '1';
 
 //Basemaps//
-var imageryTopo = L.tileLayer.wms('https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer', {
+var imageryTopo = L.esri.dynamicMapLayer({
+  url: "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer",
   minZoom: '0',
   maxZoom: '19',
   attribution: 'Map tiles by <a href="https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer">USGS</a>'
-});
+})
 
-var nationalMap = L.tileLayer.wms("https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer", {
+var nationalMap = L.esri.dynamicMapLayer({
+  url:"https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer", 
   minZoom: '0',
   maxZoom: '19',
   attribution: 'Map tiles by <a href="https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer">USGS</a>'
@@ -37,16 +39,16 @@ var usdaNAIP = L.esri.dynamicMapLayer({
 var usda = L.layerGroup([nationalMap/*, usdaNAIP*/]);
 var national = L.layerGroup([imageryTopo/*, usdaNAIP*/]);
 
+//add to Map capability//
+var map = L.map('map',{
+  layers: [national, usda],
+  'maxBounds': bounds
+}).setView([40.63, -77.84], 7);
+
 //Bound Box for The Map//
 var southWest = L.latLng(14.581656, -169.354212),
   northEast = L.latLng(661.492973, 174.987991),
   bounds = L.latLngBounds(southWest, northEast);
-
-//add to Map capability//
-var map = L.map('map', {
-  layers: [national, usda],
-  'maxBounds': bounds
-}).setView([40.63, -77.84], 7);
 
 //variables for function for local scope//
 var un_points = L.esri.clusteredFeatureLayer({
