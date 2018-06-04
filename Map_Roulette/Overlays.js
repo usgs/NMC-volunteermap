@@ -12,16 +12,16 @@ var unedited_points = '0';
 var unedited_PR = '1';
 
 //Basemaps//
-var imageryTopo = L.tileLayer.wms('http://basemap.nationalmap.gov/arcgis/services/USGSImageryTopo/MapServer/WmsServer?', {
+var imageryTopo = L.tileLayer.wms('https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer', {
   minZoom: '0',
-  maxZoom: '13',
-  attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/services/USGSImageryTopo/MapServer">USGS</a>'
+  maxZoom: '19',
+  attribution: 'Map tiles by <a href="https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer">USGS</a>'
 });
 
-var nationalMap = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSTopo/MapServer/WmsServer?", {
+var nationalMap = L.tileLayer.wms("https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer", {
   minZoom: '0',
-  maxZoom: '13',
-  attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer">USGS</a>'
+  maxZoom: '19',
+  attribution: 'Map tiles by <a href="https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer">USGS</a>'
 });
 
 /*
