@@ -96,7 +96,7 @@ var uneditedFeatureLayer = L.esri.clusteredFeatureLayer({
   url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0",
   where: "EDITSTATUS='0'",
   minZoom: '0',
-  maxZoom: '13',
+  maxZoom: '19',
   onEachFeature: function(feature, layer) {
     layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15" + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
   },
@@ -120,7 +120,7 @@ var editedFeatureLayer = L.esri.clusteredFeatureLayer({
   url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0",
   where: "EDITSTATUS='1'",
   minZoom: '0',
-  maxZoom: '13',
+  maxZoom: '19',
   //New popup code//
   onEachFeature: function(feature, layer) {
     layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15" + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
