@@ -1,2 +1,2 @@
 # NMC-volunteermap
-This is the code the the IL Schools Challenge Map. 
+These are the code files for the various interactive web challenge maps. 
