@@ -143,14 +143,14 @@ var editedFeatureLayer = L.esri.clusteredFeatureLayer({
 
 function getRandom() {
   getRandomFeature().then(function(test) {
-    map.setView([test[0].geometry.y, test[0].geometry.x], 18)
+    map.setView([test[0].geometry.y, test[0].geometry.x], 16)
     targetId = test[0].attributes.GLOBALID;
   })
 };
 
 function getPeer() {
   getPeerFeature().then(function(test) {
-    map.setView([test[0].geometry.y, test[0].geometry.x], 18)
+    map.setView([test[0].geometry.y, test[0].geometry.x], 16)
     targetId = test[0].attributes.GLOBALID;
   })
 };
