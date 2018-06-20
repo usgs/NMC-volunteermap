@@ -25,7 +25,8 @@ html, body {
   line-height: 54px;
   letter-spacing: 3px;
   height: 56px;
-  margin: 0;
+  margin: 56px;
+  margin-top: 0px;
   display: inline-block;
   -webkit-font-smoothing: antialiased;
   white-space: nowrap;
@@ -34,7 +35,7 @@ h2 {
   position: relative;
   font-weight: bold;
   margin-left: -15px;
-  margin-right: -35px;
+  margin-right: 0px;
   border: 1px;
   border-style:solid;
   padding-left: 10px;
@@ -58,7 +59,7 @@ h2:after {
   z-index: 999
 }
 .info {
-  padding: 6px 8px;
+  padding: 10px 6px;
   background: rgba(255, 255, 255, 0.05);
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.44);
   border-radius: 5px;
@@ -72,10 +73,57 @@ h2:after {
 }
 .info h4 {
   font-family: 'roboto', sans-serif;
-  margin: 0 0 5px;
+  margin: 0 0 0px;
   text-shadow: 0 1px 0 #454141;
   color: #ffffff;
   font-size: 25
+}
+#clusterpoints {
+  background-color: #00264c;
+  width: 30%;
+}
+h5 {
+  position: realtive;
+  font-weight: normal;
+  margin-left: -20px;
+  margin-right: -240px;
+  border-left-width: 0px;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 0px;
+  color: #fcfcfc;
+  background-color: ##0A0A0A;
+  text-shadow: 0px 2px 2px #0A0A0A;
+  box-shadow: 0px 2px 2px #073203c;
+  z-index: 1000
+}
+.clusterpoints {
+  padding: 6px 8px;
+  background: rgba(255, 255, 255, 0.05);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.44);
+  border-radius: 5px;
+  display: block;
+  color: #fcfcfc;
+  font-family: 'roboto', sans-serif;
+  font-size: 20;
+  margin-left: -20px;
+  padding-left: 10px;
+}
+.clusterpoints h5 {
+  font-family: 'roboto', sans-serif;
+  margin: 0 0 5px;
+  text-shadow: 0 1px 0 #454141;
+  color: #fcfcfc;
+  font-size: 25
+}
+#img{
+	image-orientation: url("./assets/img/Main_point2.png");
+	float:left;
+	padding-bottom: 0px;
+	padding-right: 20px;
+	padding-top: 8px;
+	padding-left: -4px;
+	margin-left: inherit;
 }
 .markers-legend {
   background: url('../plugins/leaflet-extra-markers/css/images/markers_default.png') no-repeat 0 0;
