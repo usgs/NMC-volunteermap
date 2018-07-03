@@ -62,7 +62,7 @@ h2:after {
 }
 /*Lines 64 - 82:  .info and .info h4 go together to show the design components for the ‘about’ section of the interactive web map. It provides the font family and the color of the font located in this section.*/
 .info {
-  padding: 6px 8px;
+  padding: 10px 6px;
   background: rgba(255, 255, 255, 0.05);
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.44);
   border-radius: 5px;
@@ -72,10 +72,11 @@ h2:after {
   font-size: 20;
   margin-left: -20px;
   padding-left: 20px;
+  padding-bottom: static;
 }
 .info h4 {
   font-family: 'roboto', sans-serif;
-  margin: 0 0 5px;
+  margin: 0 0 0px;
   text-shadow: 0 1px 0 #454141;
   color: #ffffff;
   font-size: 25
