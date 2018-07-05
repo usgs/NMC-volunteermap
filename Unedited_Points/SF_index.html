@@ -1,6 +1,5 @@
 <html>
 <head>
-
   <title>National Map Corps Edited Points</title>
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css" />
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css" />  
@@ -23,7 +22,7 @@
   <script src="./assets/plugins/esri-leaflet/esri-leaflet-clustered-feature-layer-src.js"></script>
   <script>
     L_PREFER_CANVAS = true;
-</script>
+  </script>
   <link href="./assets/css/common.css" rel="stylesheet" type="text/css" media="screen" />
   <link href="./assets/css/custom.css" rel="stylesheet" type="text/css" media="screen" />
   </head>
@@ -70,7 +69,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <!-- <hr> -->
           <h2> Structure Finder </h2>
         </div>
-		<div class="info" style="margin-bottom:15px;">
+		<div class="info" style="margin-bottom:0px;">
           <a href="#" data-toggle="modal" data-target="#myModal">
             <h4>Instructions and About</h4>
           </a>
@@ -103,7 +102,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               Finished points
             </div-->
         </div>
-		<div style ="min-height:5px; margin-top:15px; width: 250px;" align="center";>
+		<div style ="min-height:3px; margin-top:5px; width: 250px;" align="center";>
 			<p id="RandomPoint"></p>
 			<p style="color:white;-align:center" =><b>Generate Random Point</b></p>
 			<form>
@@ -139,20 +138,17 @@ The purple circles represent clustered points. The number shown is the number of
 		  </div>
 		  </div>
         </div>
-        <div class="info" style="margin-top: 15px;">
+        <div class="info" style="margin-top:15px;">
             <h6>Updated in Real Time </h6>
         </div>
       </div>
       <div class="col-sm-9" id="map" style="height: 100%;">
-        <script src="./Map_Roulette.js"></script>
+        <script src="./Structure_Finder.js"></script>
       </div>
     </div>
   </div>
   <!--modal-->
   <div class="modal fade" id="myModal" role="dialog" tabindex="-1">
-    <div class="modal-dialog">
-      <!--Modal content-->
-        <div class="modal fade" id="myModal" role="dialog" tabindex="-1">
     <div class="modal-dialog">
       <!--Modal content-->
       <div class="modal-content">
@@ -184,9 +180,12 @@ The purple circles represent clustered points. The number shown is the number of
 	<h4>New to The National Map Corps? Check out our <a href="https://my.usgs.gov/confluence/display/nationalmapcorps/Home">home page</a> for more information.</h4>
 	</div>
         </div>
-	</div>
+		</div>
 	 </div>
-</div>
+<!-- / div for your main content-->
+
+<!-- BEGIN USGS Footer Template -->
+
 <footer class="footer">
 	<div class="tmp-container">
 		<!-- .footer-wrap -->
@@ -203,7 +202,6 @@ The purple circles represent clustered points. The number shown is the number of
 				<!--/ footer nav links -->      
 			</div>
 			<!-- /.footer-doi -->
-
 			<hr>
 
 		<!-- .footer-utl-links -->
@@ -260,7 +258,6 @@ The purple circles represent clustered points. The number shown is the number of
 			</ul>
 		</div-->
 		<!-- /.footer-social-links -->
-	</div>
 		<!-- /.footer-wrap -->	
 </footer>
 <!-- END USGS Footer Template- -->
@@ -268,5 +265,5 @@ The purple circles represent clustered points. The number shown is the number of
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKQR8KP"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-</body>
-</html>
+  </body>
+  </html>
