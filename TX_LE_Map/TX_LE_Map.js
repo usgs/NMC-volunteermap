@@ -200,5 +200,5 @@ $("#finished").click(function(){
    $(this).find("i").attr('class', 'fa fa-eye-slash');
  }, function(){
    $(this).removeAttr('style');
-   $(this).find('i').attr('class', original); */
- })
+   $(this).find('i').attr('class', original); 
+ }) */
