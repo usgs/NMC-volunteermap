@@ -166,9 +166,9 @@ $("#finished").click(function(){
         } else {
 	  featureLayer.setWhere(where.split(condition)[0])
 	}
-});
+}); */
 
-$("#tobechecked").click(function(){
+ /* $("#tobechecked").click(function(){
 	var where =featureLayer.getWhere();
         var condition = " and EDITSTATUS = 0"
 	if(!where.includes(condition)){
@@ -178,9 +178,9 @@ $("#tobechecked").click(function(){
         } else {
 	  featureLayer.setWhere(where.split(condition)[0])
 	}
-});
+}); */
 
-$("#tobepeerreviwed").click(function(){
+/*$("#tobepeerreviwed").click(function(){
 	var where =featureLayer.getWhere();
         var condition = " and EDITSTATUS = 1"
 	if(!where.includes(condition)){
@@ -191,6 +191,7 @@ $("#tobepeerreviwed").click(function(){
 	  featureLayer.setWhere(where.split(condition)[0])
 	}
 });*/
+
 //Lines 216 - 224 This block of code controls the icons in the legend and allows users to turn them on and off and see only that layer. 
 /* $(".markers-legend").hover(function(){
    $(this).css('cursor', 'pointer');
