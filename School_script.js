@@ -43,10 +43,10 @@ var finshed = 0;
 
 var featureLayer = new L.esri.clusteredFeatureLayer({
           chunkedLoading: true,
-          url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0",
+          url: "https://edits.nationalmap.gov/arcgis/rest/services/pg_tnmc/tnmc_map_challenge/MapServer/0",
 		  where: "FTYPE= '730' and STATE ='IL'",
           pointToLayer: function(feature, latlng) {
-            if(feature.properties.EDITSTATUS === 0){ 
+            if(feature.properties.editstatus === 0){ 
               return L.marker(latlng, {
                   icon: L.ExtraMarkers.icon({
                       icon: 'fa-exclamation fa-2x',
@@ -55,7 +55,7 @@ var featureLayer = new L.esri.clusteredFeatureLayer({
                       prefix: 'fa'
                    }),
                });
-            } else if (feature.properties.EDITSTATUS === 1){
+            } else if (feature.properties.editstatus === 1){
               return L.marker(latlng, {
                   icon: L.ExtraMarkers.icon({
                       icon: 'fa-times fa-2x',
@@ -76,17 +76,17 @@ var featureLayer = new L.esri.clusteredFeatureLayer({
             }
           },
           onEachFeature: function(feature, layer){
-            if(feature.properties.EDITSTATUS === 0){ 
+            if(feature.properties.editstatus === 0){ 
               needsChecked++;
               $('#tobecheckedCounter').text(" (" + needsChecked + " points)");
-            } else if (feature.properties.EDITSTATUS === 1){
+            } else if (feature.properties.editstatus === 1){
               needsReviewed++;
               $('#tobepeerreviwedCounter').text(" (" + needsReviewed + " points)");
             } else {
               finshed++;
               $('#finishedCounter').text(" (" + finshed  + " points)")
             }
-            layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+            layer.bindPopup(feature.properties.name + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15"+ '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
           }
         });
 					 
