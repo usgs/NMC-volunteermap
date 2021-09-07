@@ -1,7 +1,7 @@
 
 // JavaScript test file for overlay data for Interactive Challenge Maps// 
 //Variables//
-var targetId; // pointing to GLOBALID
+var targetId; // pointing to globalid
 var feature;
 var properties;
 var popup;
@@ -52,12 +52,12 @@ var southWest = L.latLng(14.581656, -169.354212),
 
 //variables for function for local scope//
 var un_points = L.esri.clusteredFeatureLayer({
-  url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0",
-  where: "EDITSTATUS ='0'",
+  url: "https://edits.nationalmap.gov/arcgis/rest/services/pg_tnmc/tnmc_map_challenge/MapServer/0",
+  where: "editstatus ='0'",
   minZoom: '0',
   maxZoom: '16',
   onEachFeature: function(feature, layer) {
-    layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15" + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+    layer.bindPopup(feature.properties.name + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15" + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
   },
   pointToLayer: function(feature, latlng) {
     return L.marker(latlng, {
@@ -72,12 +72,12 @@ var un_points = L.esri.clusteredFeatureLayer({
 }).addTo(map);
 
 var un_PR = L.esri.clusteredFeatureLayer({
-  url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0",
-  where: "EDITSTATUS ='1'",
+  url: "https://edits.nationalmap.gov/arcgis/rest/services/pg_tnmc/tnmc_map_challenge/MapServer/0",
+  where: "editstatus ='1'",
   minZoom: '0',
   maxZoom: '16',
   onEachFeature: function(feature, layer) {
-    layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15" + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+    layer.bindPopup(feature.properties.name + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15" + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
   },
   pointToLayer: function(feature, latlng) {
     return L.marker(latlng, {
@@ -93,17 +93,17 @@ var un_PR = L.esri.clusteredFeatureLayer({
 
 //Variables for Global scope//
 var uneditedFeatureLayer = L.esri.clusteredFeatureLayer({
-  url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0",
-  where: "EDITSTATUS='0'",
+  url: "https://edits.nationalmap.gov/arcgis/rest/services/pg_tnmc/tnmc_map_challenge/MapServer/0",
+  where: "editstatus='0'",
   minZoom: '0',
   maxZoom: '16',
   onEachFeature: function(feature, layer) {
-    layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15" + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+    layer.bindPopup(feature.properties.name + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15" + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
   },
   pointToLayer: function(feature, latlng) {
-    if (feature.properties.GLOBALID === targetId) {
+    if (feature.properties.globalid === targetId) {
       var popup = L.popup().setLatLng([feature.geometry.coordinates[1] + 0.00005, feature.geometry.coordinates[0]])
-        .setContent(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15" + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>').openOn(map);
+        .setContent(feature.properties.name + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15" + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>').openOn(map);
     }
     return L.marker(latlng, {
       icon: L.ExtraMarkers.icon({
@@ -117,18 +117,18 @@ var uneditedFeatureLayer = L.esri.clusteredFeatureLayer({
 }).addTo(map);
 
 var editedFeatureLayer = L.esri.clusteredFeatureLayer({
-  url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0",
-  where: "EDITSTATUS='1'",
+  url: "https://edits.nationalmap.gov/arcgis/rest/services/pg_tnmc/tnmc_map_challenge/MapServer/0",
+  where: "editstatus='1'",
   minZoom: '0',
   maxZoom: '16',
   //New popup code//
   onEachFeature: function(feature, layer) {
-    layer.bindPopup(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15" + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
+    layer.bindPopup(feature.properties.name + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15" + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>');
   },
   pointToLayer: function(feature, latlng) {
-      if (feature.properties.GLOBALID === targetId) {
+      if (feature.properties.globalid === targetId) {
           var popup = L.popup().setLatLng([feature.geometry.coordinates[1] + 0.00005, feature.geometry.coordinates[0]])
-            .setContent(feature.properties.NAME + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15" + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>').openOn(map);
+            .setContent(feature.properties.name + '<hr> <a href="https://edits.nationalmap.gov/tnmcorps/?loc=' + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + ",15" + '" target=_blank style="color:#fffbfb;text-align:center">Link to point.</a>').openOn(map);
     }
     return L.marker(latlng, {
       icon: L.ExtraMarkers.icon({
@@ -144,31 +144,31 @@ var editedFeatureLayer = L.esri.clusteredFeatureLayer({
 function getRandom() {
   getRandomFeature().then(function(test) {
     map.setView([test[0].geometry.y, test[0].geometry.x], 16)
-    targetId = test[0].attributes.GLOBALID;
+    targetId = test[0].attributes.globalid;
   })
 };
 
 function getPeer() {
   getPeerFeature().then(function(test) {
     map.setView([test[0].geometry.y, test[0].geometry.x], 16)
-    targetId = test[0].attributes.GLOBALID;
+    targetId = test[0].attributes.globalid;
   })
 };
 
 function getRandomFeature() {
   return new Promise(function(resolve, reject) {
     let query = new L.esri.Tasks.query({
-      url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0"
+      url: "https://edits.nationalmap.gov/arcgis/rest/services/pg_tnmc/tnmc_map_challenge/MapServer/0"
     });
-    query.where("EDITSTATUS = '0'");
+    query.where("editstatus = '0'");
     query.ids(function(error, featureCollection, response) {
       if (featureCollection.length !== 0) {
         testId = featureCollection[Math.floor(Math.random() * featureCollection.length)];
         console.log("ID: ", testId)
         let finalQuery = new L.esri.Tasks.query({
-          url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0"
+          url: "https://edits.nationalmap.gov/arcgis/rest/services/pg_tnmc/tnmc_map_challenge/MapServer/0"
         });
-        query.where( "OBJECTID=\'" + testId.toString()+"\'");
+        query.where( "objectid=\'" + testId.toString()+"\'");
         query.run(function(error, featureCollection, response) {
           resolve(response.features);
         });
@@ -183,16 +183,16 @@ function getRandomFeature() {
 function getPeerFeature() {
   return new Promise(function(resolve, reject) {
     let query = new L.esri.Tasks.query({
-      url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0"
+      url: "https://edits.nationalmap.gov/arcgis/rest/services/pg_tnmc/tnmc_map_challenge/MapServer/0"
     });
-    query.where("EDITSTATUS ='1'");
+    query.where("editstatus ='1'");
     query.ids(function(error, featureCollection, response) {
       if (featureCollection.length > 0) {
         testId = featureCollection[Math.floor(Math.random() * featureCollection.length)];
         let finalQuery = new L.esri.Tasks.query({
-          url: "https://edits.nationalmap.gov/arcgis/rest/services/TNMCorps/TNMCorps_Map_Challenge/MapServer/0"
+          url: "https://edits.nationalmap.gov/arcgis/rest/services/pg_tnmc/tnmc_map_challenge/MapServer/0"
         });
-        query.where("OBJECTID=\'" + testId.toString()+"\'");
+        query.where("objectid=\'" + testId.toString()+"\'");
         query.run(function(error, featureCollection, response) {
           resolve(response.features);
         });
