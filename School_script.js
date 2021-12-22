@@ -43,7 +43,7 @@ var finshed = 0;
 
 var featureLayer = new L.esri.clusteredFeatureLayer({
           chunkedLoading: true,
-          url: "https://edits.nationalmap.gov/arcgis/rest/services/pg_tnmc/tnmc_map_challenge/MapServer/0",
+          url: "https://edits.nationalmap.gov/arcgis/rest/services/tnmc/tnmc_map_challenge/MapServer/0",
 		  where: "ftype = '730' and state ='IL'",
           pointToLayer: function(feature, latlng) {
             if(feature.properties.editstatus === 0){ 
